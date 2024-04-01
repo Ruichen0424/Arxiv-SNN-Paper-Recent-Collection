@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-04-01)** 
+ ### **Last 5 working days (Updated on 2024-04-02)** 
 
 
 - Biologically-Plausible Topology Improved Spiking Actor Network for Efficient Deep Reinforcement Learning [[arxiv](https://arxiv.org/abs/2403.20163)] [[paper with code](https://paperswithcode.com/paper/biologically-plausible-topology-improved)]
