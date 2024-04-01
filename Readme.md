@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
-### **From 2024-03-25 to 2024-03-30** 
+ ### **Last 5 working days (Updated on 2024-04-01)** 
 
+
+- Biologically-Plausible Topology Improved Spiking Actor Network for Efficient Deep Reinforcement Learning [[arxiv](https://arxiv.org/abs/2403.20163)] [[paper with code](https://paperswithcode.com/paper/biologically-plausible-topology-improved)]
 
 - A survey on learning models of spiking neural membrane systems and spiking neural networks [[arxiv](https://arxiv.org/abs/2403.18609)] [[paper with code](https://paperswithcode.com/paper/a-survey-on-learning-models-of-spiking-neural)]
 
@@ -23,8 +25,4 @@
 - Spike-NeRF: Neural Radiance Field Based On Spike Camera [[arxiv](https://arxiv.org/abs/2403.16410)] [[paper with code](https://paperswithcode.com/paper/spike-nerf-neural-radiance-field-based-on)]
 
 - SpikeGraphormer: A High-Performance Graph Transformer with Spiking Graph Attention [[arxiv](https://arxiv.org/abs/2403.15480)] [[paper with code](https://paperswithcode.com/paper/spikegraphormer-a-high-performance-graph)] [[code](https://github.com/phd-lanyu/spikegraphormer)]
-
-- Neural Plasticity-Inspired Foundation Model for Observing the Earth Crossing Modalities [[arxiv](https://arxiv.org/abs/2403.15356)] [[paper with code](https://paperswithcode.com/paper/neural-plasticity-inspired-foundation-model)] [[code](https://github.com/zhu-xlab/dofa)]
-
-- SFOD: Spiking Fusion Object Detector [[arxiv](https://arxiv.org/abs/2403.15192)] [[paper with code](https://paperswithcode.com/paper/sfod-spiking-fusion-object-detector)] [[code](https://github.com/yimeng-fan/SFOD)]
 
