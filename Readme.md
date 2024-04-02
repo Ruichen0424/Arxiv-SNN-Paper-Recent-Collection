@@ -1,8 +1,14 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-04-02)** 
+ ### **Last 5 working days (Updated on 2024-04-03)** 
 
+
+- SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding [[arxiv](https://arxiv.org/abs/2404.01174)]
+
+- Addressing Loss of Plasticity and Catastrophic Forgetting in Continual Learning [[arxiv](https://arxiv.org/abs/2404.00781)]
+
+- SpikingJET: Enhancing Fault Injection for Fully and Convolutional Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2404.00383)]
 
 - Biologically-Plausible Topology Improved Spiking Actor Network for Efficient Deep Reinforcement Learning [[arxiv](https://arxiv.org/abs/2403.20163)] [[paper with code](https://paperswithcode.com/paper/biologically-plausible-topology-improved)]
 
@@ -17,12 +23,4 @@
 - SGHormer: An Energy-Saving Graph Transformer Driven by Spikes [[arxiv](https://arxiv.org/abs/2403.17656)] [[paper with code](https://paperswithcode.com/paper/sghormer-an-energy-saving-graph-transformer)] [[code](https://github.com/zhhuizhe/sghormer)]
 
 - Enhancing Graph Representation Learning with Attention-Driven Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2403.17040)] [[paper with code](https://paperswithcode.com/paper/enhancing-graph-representation-learning-with)]
-
-- Understanding the Functional Roles of Modelling Components in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2403.16674)] [[paper with code](https://paperswithcode.com/paper/understanding-the-functional-roles-of)]
-
-- QKFormer: Hierarchical Spiking Transformer using Q-K Attention [[arxiv](https://arxiv.org/abs/2403.16552)] [[paper with code](https://paperswithcode.com/paper/qkformer-hierarchical-spiking-transformer)] [[code](https://github.com/zhouchenlin2096/qkformer)]
-
-- Spike-NeRF: Neural Radiance Field Based On Spike Camera [[arxiv](https://arxiv.org/abs/2403.16410)] [[paper with code](https://paperswithcode.com/paper/spike-nerf-neural-radiance-field-based-on)]
-
-- SpikeGraphormer: A High-Performance Graph Transformer with Spiking Graph Attention [[arxiv](https://arxiv.org/abs/2403.15480)] [[paper with code](https://paperswithcode.com/paper/spikegraphormer-a-high-performance-graph)] [[code](https://github.com/phd-lanyu/spikegraphormer)]
 
