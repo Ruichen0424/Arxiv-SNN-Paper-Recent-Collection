@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-04-05)** 
+ ### **Last 5 working days (Updated on 2024-04-06)** 
 
+
+- A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data [[arxiv](https://arxiv.org/abs/2404.03493)] [[paper with code](https://paperswithcode.com/paper/a-methodology-to-study-the-impact-of-spiking)]
 
 - Can We Understand Plasticity Through Neural Collapse? [[arxiv](https://arxiv.org/abs/2404.02719)] [[paper with code](https://paperswithcode.com/paper/can-we-understand-plasticity-through-neural)] [[code](https://github.com/gianhess/dl_project)]
 
