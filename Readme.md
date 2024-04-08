@@ -1,8 +1,14 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-04-08)** 
+ ### **Last 5 working days (Updated on 2024-04-09)** 
 
+
+- CONCERT: Covariate-Elaborated Robust Local Information Transfer with Conditional Spike-and-Slab Prior [[arxiv](https://arxiv.org/abs/2404.03764)] [[paper with code](https://paperswithcode.com/paper/concert-covariate-elaborated-robust-local)]
+
+- SpikeExplorer: hardware-oriented Design Space Exploration for Spiking Neural Networks on FPGA [[arxiv](https://arxiv.org/abs/2404.03714)] [[paper with code](https://paperswithcode.com/paper/spikeexplorer-hardware-oriented-design-space)]
+
+- Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips [[arxiv](https://arxiv.org/abs/2404.03663)]
 
 - A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data [[arxiv](https://arxiv.org/abs/2404.03493)] [[paper with code](https://paperswithcode.com/paper/a-methodology-to-study-the-impact-of-spiking)]
 
@@ -21,6 +27,4 @@
 - Addressing Loss of Plasticity and Catastrophic Forgetting in Continual Learning [[arxiv](https://arxiv.org/abs/2404.00781)] [[paper with code](https://paperswithcode.com/paper/addressing-loss-of-plasticity-and)] [[code](https://github.com/mohmdelsayed/upgd)]
 
 - SpikingJET: Enhancing Fault Injection for Fully and Convolutional Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2404.00383)] [[paper with code](https://paperswithcode.com/paper/spikingjet-enhancing-fault-injection-for)]
-
-- Biologically-Plausible Topology Improved Spiking Actor Network for Efficient Deep Reinforcement Learning [[arxiv](https://arxiv.org/abs/2403.20163)] [[paper with code](https://paperswithcode.com/paper/biologically-plausible-topology-improved)]
 
