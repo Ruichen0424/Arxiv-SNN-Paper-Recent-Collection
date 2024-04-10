@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-04-10)** 
+ ### **Last 5 working days (Updated on 2024-04-11)** 
 
+
+- Slax: A Composable JAX Library for Rapid and Flexible Prototyping of Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2404.05807)] [[paper with code](https://paperswithcode.com/paper/slax-a-composable-jax-library-for-rapid-and)]
 
 - On an optimal AFEM for elastoplasticity [[arxiv](https://arxiv.org/abs/2404.05395)]
 
@@ -19,10 +21,4 @@
 - Can We Understand Plasticity Through Neural Collapse? [[arxiv](https://arxiv.org/abs/2404.02719)] [[paper with code](https://paperswithcode.com/paper/can-we-understand-plasticity-through-neural)] [[code](https://github.com/gianhess/dl_project)]
 
 - A Fully-Configurable Open-Source Software-Defined Digital Quantized Spiking Neural Core Architecture [[arxiv](https://arxiv.org/abs/2404.02248)]
-
-- Continuous Spiking Graph Neural Networks [[arxiv](https://arxiv.org/abs/2404.01897)] [[paper with code](https://paperswithcode.com/paper/continuous-spiking-graph-neural-networks)]
-
-- A Methodology for Improving Accuracy of Embedded Spiking Neural Networks through Kernel Size Scaling [[arxiv](https://arxiv.org/abs/2404.01685)] [[paper with code](https://paperswithcode.com/paper/a-methodology-for-improving-accuracy-of)]
-
-- Parallel Proportional Fusion of Spiking Quantum Neural Network for Optimizing Image Classification [[arxiv](https://arxiv.org/abs/2404.01359)] [[paper with code](https://paperswithcode.com/paper/parallel-proportional-fusion-of-spiking)]
 
