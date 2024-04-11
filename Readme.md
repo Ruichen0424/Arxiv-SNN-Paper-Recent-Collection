@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-04-11)** 
+ ### **Last 5 working days (Updated on 2024-04-12)** 
 
+
+- SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera [[arxiv](https://arxiv.org/abs/2404.06710)] [[paper with code](https://paperswithcode.com/paper/spikenvs-enhancing-novel-view-synthesis-from)]
 
 - Slax: A Composable JAX Library for Rapid and Flexible Prototyping of Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2404.05807)] [[paper with code](https://paperswithcode.com/paper/slax-a-composable-jax-library-for-rapid-and)]
 
@@ -17,8 +19,4 @@
 - Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips [[arxiv](https://arxiv.org/abs/2404.03663)] [[paper with code](https://paperswithcode.com/paper/spike-driven-transformer-v2-meta-spiking)] [[code](https://github.com/biclab/spike-driven-transformer-v2)]
 
 - A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data [[arxiv](https://arxiv.org/abs/2404.03493)] [[paper with code](https://paperswithcode.com/paper/a-methodology-to-study-the-impact-of-spiking)]
-
-- Can We Understand Plasticity Through Neural Collapse? [[arxiv](https://arxiv.org/abs/2404.02719)] [[paper with code](https://paperswithcode.com/paper/can-we-understand-plasticity-through-neural)] [[code](https://github.com/gianhess/dl_project)]
-
-- A Fully-Configurable Open-Source Software-Defined Digital Quantized Spiking Neural Core Architecture [[arxiv](https://arxiv.org/abs/2404.02248)]
 
