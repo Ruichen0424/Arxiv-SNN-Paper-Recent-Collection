@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-04-14)** 
+ ### **Last 5 working days (Updated on 2024-04-15)** 
 
 
 - SiGNN: A Spike-induced Graph Neural Network for Dynamic Graph Representation Learning [[arxiv](https://arxiv.org/abs/2404.07941)] [[paper with code](https://paperswithcode.com/paper/signn-a-spike-induced-graph-neural-network)]
