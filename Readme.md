@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-04-15)** 
+ ### **Last 5 working days (Updated on 2024-04-16)** 
 
 
 - SiGNN: A Spike-induced Graph Neural Network for Dynamic Graph Representation Learning [[arxiv](https://arxiv.org/abs/2404.07941)] [[paper with code](https://paperswithcode.com/paper/signn-a-spike-induced-graph-neural-network)]
@@ -15,10 +15,4 @@
 - On an optimal AFEM for elastoplasticity [[arxiv](https://arxiv.org/abs/2404.05395)]
 
 - Efficient Learning Using Spiking Neural Networks Equipped With Affine Encoders and Decoders [[arxiv](https://arxiv.org/abs/2404.04549)] [[paper with code](https://paperswithcode.com/paper/efficient-learning-using-spiking-neural)]
-
-- CONCERT: Covariate-Elaborated Robust Local Information Transfer with Conditional Spike-and-Slab Prior [[arxiv](https://arxiv.org/abs/2404.03764)] [[paper with code](https://paperswithcode.com/paper/concert-covariate-elaborated-robust-local)]
-
-- SpikeExplorer: hardware-oriented Design Space Exploration for Spiking Neural Networks on FPGA [[arxiv](https://arxiv.org/abs/2404.03714)] [[paper with code](https://paperswithcode.com/paper/spikeexplorer-hardware-oriented-design-space)]
-
-- Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips [[arxiv](https://arxiv.org/abs/2404.03663)] [[paper with code](https://paperswithcode.com/paper/spike-driven-transformer-v2-meta-spiking)] [[code](https://github.com/biclab/spike-driven-transformer-v2)]
 
