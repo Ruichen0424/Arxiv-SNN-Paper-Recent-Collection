@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-04-21)** 
+ ### **Last 5 working days (Updated on 2024-04-22)** 
 
 
 - Towards free-response paradigm: a theory on decision-making in spiking neural networks [[arxiv](https://arxiv.org/abs/2404.10599)] [[paper with code](https://paperswithcode.com/paper/towards-free-response-paradigm-a-theory-on)]
