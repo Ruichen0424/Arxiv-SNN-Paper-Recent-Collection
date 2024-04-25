@@ -1,8 +1,14 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-04-25)** 
+ ### **Last 5 working days (Updated on 2024-04-26)** 
 
+
+- Biologically-Informed Excitatory and Inhibitory Balance for Robust Spiking Neural Network Training [[arxiv](https://arxiv.org/abs/2404.15627)]
+
+- GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL [[arxiv](https://arxiv.org/abs/2404.15597)]
+
+- A Rapid Adapting and Continual Learning Spiking Neural Network Path Planning Algorithm for Mobile Robots [[arxiv](https://arxiv.org/abs/2404.15524)]
 
 - Elucidating the theoretical underpinnings of surrogate gradient learning in spiking neural networks [[arxiv](https://arxiv.org/abs/2404.14964)]
 
