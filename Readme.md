@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-04-26)** 
+ ### **Last 5 working days (Updated on 2024-04-27)** 
 
 
 - Biologically-Informed Excitatory and Inhibitory Balance for Robust Spiking Neural Network Training [[arxiv](https://arxiv.org/abs/2404.15627)]
