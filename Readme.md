@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-04-30)** 
+ ### **Last 5 working days (Updated on 2024-05-01)** 
 
+
+- Quantized Context Based LIF Neurons for Recurrent Spiking Neural Networks in 45nm [[arxiv](https://arxiv.org/abs/2404.18066)]
+
+- Stochastic Spiking Neural Networks with First-to-Spike Coding [[arxiv](https://arxiv.org/abs/2404.17719)]
 
 - Converting High-Performance and Low-Latency SNNs through Explicit Modelling of Residual Error in ANNs [[arxiv](https://arxiv.org/abs/2404.17456)]
 
@@ -21,6 +25,4 @@
 - A Rapid Adapting and Continual Learning Spiking Neural Network Path Planning Algorithm for Mobile Robots [[arxiv](https://arxiv.org/abs/2404.15524)]
 
 - Elucidating the theoretical underpinnings of surrogate gradient learning in spiking neural networks [[arxiv](https://arxiv.org/abs/2404.14964)]
-
-- Exploring neural oscillations during speech perception via surrogate gradient spiking neural networks [[arxiv](https://arxiv.org/abs/2404.14024)]
 
