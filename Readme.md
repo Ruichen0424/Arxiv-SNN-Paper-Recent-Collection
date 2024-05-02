@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-05-02)** 
+ ### **Last 5 working days (Updated on 2024-05-03)** 
 
 
 - SQUAT: Stateful Quantization-Aware Training in Recurrent Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2404.19668)]
@@ -23,10 +23,4 @@
 - Defending Spiking Neural Networks against Adversarial Attacks through Image Purification [[arxiv](https://arxiv.org/abs/2404.17092)]
 
 - Transductive Spiking Graph Neural Networks for Loihi [[arxiv](https://arxiv.org/abs/2404.17048)]
-
-- Biologically-Informed Excitatory and Inhibitory Balance for Robust Spiking Neural Network Training [[arxiv](https://arxiv.org/abs/2404.15627)]
-
-- GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL [[arxiv](https://arxiv.org/abs/2404.15597)]
-
-- A Rapid Adapting and Continual Learning Spiking Neural Network Path Planning Algorithm for Mobile Robots [[arxiv](https://arxiv.org/abs/2404.15524)]
 
