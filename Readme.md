@@ -1,8 +1,14 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-05-03)** 
+ ### **Last 5 working days (Updated on 2024-05-04)** 
 
+
+- Natural Language to Verilog: Design of a Recurrent Spiking Neural Network using Large Language Models and ChatGPT [[arxiv](https://arxiv.org/abs/2405.01419)]
+
+- Oxygen vacancies modulated VO2 for neurons and Spiking Neural Network construction [[arxiv](https://arxiv.org/abs/2405.00700)]
+
+- Direct Training Needs Regularisation: Anytime Optimal Inference Spiking Neural Network [[arxiv](https://arxiv.org/abs/2405.00699)]
 
 - SQUAT: Stateful Quantization-Aware Training in Recurrent Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2404.19668)]
 
