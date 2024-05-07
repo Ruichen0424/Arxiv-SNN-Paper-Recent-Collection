@@ -1,8 +1,16 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-05-06)** 
+ ### **Last 5 working days (Updated on 2024-05-08)** 
 
+
+- Scaling SNNs Trained Using Equilibrium Propagation to Convolutional Architectures [[arxiv](https://arxiv.org/abs/2405.02546)]
+
+- Exploring Extreme Quantization in Spiking Language Models [[arxiv](https://arxiv.org/abs/2405.02543)]
+
+- A Cloud-Edge Framework for Energy-Efficient Event-Driven Control: An Integration of Online Supervised Learning, Spiking Neural Networks and Local Plasticity Rules [[arxiv](https://arxiv.org/abs/2405.02316)]
+
+- Fast Algorithms for Spiking Neural Network Simulation with FPGAs [[arxiv](https://arxiv.org/abs/2405.02019)]
 
 - Natural Language to Verilog: Design of a Recurrent Spiking Neural Network using Large Language Models and ChatGPT [[arxiv](https://arxiv.org/abs/2405.01419)]
 
@@ -15,18 +23,4 @@
 - Active Dendrites Enable Efficient Continual Learning in Time-To-First-Spike Neural Networks [[arxiv](https://arxiv.org/abs/2404.19419)]
 
 - DelGrad: Exact gradients in spiking networks for learning transmission delays and weights [[arxiv](https://arxiv.org/abs/2404.19165)]
-
-- Quantized Context Based LIF Neurons for Recurrent Spiking Neural Networks in 45nm [[arxiv](https://arxiv.org/abs/2404.18066)]
-
-- Stochastic Spiking Neural Networks with First-to-Spike Coding [[arxiv](https://arxiv.org/abs/2404.17719)]
-
-- Converting High-Performance and Low-Latency SNNs through Explicit Modelling of Residual Error in ANNs [[arxiv](https://arxiv.org/abs/2404.17456)]
-
-- A Novel Spike Transformer Network for Depth Estimation from Event Cameras via Cross-modality Knowledge Distillation [[arxiv](https://arxiv.org/abs/2404.17335)]
-
-- Synchronized Stepwise Control of Firing and Learning Thresholds in a Spiking Randomly Connected Neural Network toward Hardware Implementation [[arxiv](https://arxiv.org/abs/2404.17241)]
-
-- Defending Spiking Neural Networks against Adversarial Attacks through Image Purification [[arxiv](https://arxiv.org/abs/2404.17092)]
-
-- Transductive Spiking Graph Neural Networks for Loihi [[arxiv](https://arxiv.org/abs/2404.17048)]
 
