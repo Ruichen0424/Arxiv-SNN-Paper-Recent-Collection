@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-05-09)** 
+ ### **Last 5 working days (Updated on 2024-05-10)** 
 
 
 - Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods [[arxiv](https://arxiv.org/abs/2405.04289)]
