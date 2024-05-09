@@ -1,26 +1,24 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-05-08)** 
+ ### **Last 5 working days (Updated on 2024-05-09)** 
 
 
-- Scaling SNNs Trained Using Equilibrium Propagation to Convolutional Architectures [[arxiv](https://arxiv.org/abs/2405.02546)]
+-      Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods     [[arxiv](https://arxiv.org/abs/2405.04289)]
 
-- Exploring Extreme Quantization in Spiking Language Models [[arxiv](https://arxiv.org/abs/2405.02543)]
+-      Watermarking Neuromorphic Brains: Intellectual Property Protection in Spiking Neural Networks     [[arxiv](https://arxiv.org/abs/2405.04049)]
 
-- A Cloud-Edge Framework for Energy-Efficient Event-Driven Control: An Integration of Online Supervised Learning, Spiking Neural Networks and Local Plasticity Rules [[arxiv](https://arxiv.org/abs/2405.02316)]
+-      Scaling SNNs Trained Using Equilibrium Propagation to Convolutional Architectures     [[arxiv](https://arxiv.org/abs/2405.02546)]
 
-- Fast Algorithms for Spiking Neural Network Simulation with FPGAs [[arxiv](https://arxiv.org/abs/2405.02019)]
+-      Exploring Extreme Quantization in Spiking Language Models     [[arxiv](https://arxiv.org/abs/2405.02543)]
 
-- Natural Language to Verilog: Design of a Recurrent Spiking Neural Network using Large Language Models and ChatGPT [[arxiv](https://arxiv.org/abs/2405.01419)]
+-      A Cloud-Edge Framework for Energy-Efficient Event-Driven Control: An Integration of Online Supervised Learning, Spiking Neural Networks and Local Plasticity Rules     [[arxiv](https://arxiv.org/abs/2405.02316)]
 
-- Oxygen vacancies modulated VO2 for neurons and Spiking Neural Network construction [[arxiv](https://arxiv.org/abs/2405.00700)]
+-      Fast Algorithms for Spiking Neural Network Simulation with FPGAs     [[arxiv](https://arxiv.org/abs/2405.02019)]
 
-- Direct Training Needs Regularisation: Anytime Optimal Inference Spiking Neural Network [[arxiv](https://arxiv.org/abs/2405.00699)]
+-      Natural Language to Verilog: Design of a Recurrent Spiking Neural Network using Large Language Models and ChatGPT     [[arxiv](https://arxiv.org/abs/2405.01419)]
 
-- SQUAT: Stateful Quantization-Aware Training in Recurrent Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2404.19668)]
+-      Oxygen vacancies modulated VO2 for neurons and Spiking Neural Network construction     [[arxiv](https://arxiv.org/abs/2405.00700)]
 
-- Active Dendrites Enable Efficient Continual Learning in Time-To-First-Spike Neural Networks [[arxiv](https://arxiv.org/abs/2404.19419)]
-
-- DelGrad: Exact gradients in spiking networks for learning transmission delays and weights [[arxiv](https://arxiv.org/abs/2404.19165)]
+-      Direct Training Needs Regularisation: Anytime Optimal Inference Spiking Neural Network     [[arxiv](https://arxiv.org/abs/2405.00699)]
 
