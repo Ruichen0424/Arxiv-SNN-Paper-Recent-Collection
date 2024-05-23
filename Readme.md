@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-05-23)** 
+ ### **Last 5 working days (Updated on 2024-05-24)** 
 
 
 - Training and inference in the ReckON RSNN architecture implemented on a MPSoC [[arxiv](https://arxiv.org/abs/2405.12849)]
