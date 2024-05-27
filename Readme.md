@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-05-27)** 
+ ### **Last 5 working days (Updated on 2024-05-28)** 
 
 
 - Study on spike-and-wave detection in epileptic signals using t-location-scale distribution and the K-nearest neighbors classifier [[arxiv](https://arxiv.org/abs/2405.14896)]
