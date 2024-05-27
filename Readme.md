@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-05-26)** 
+ ### **Last 5 working days (Updated on 2024-05-27)** 
 
+
+- Study on spike-and-wave detection in epileptic signals using t-location-scale distribution and the K-nearest neighbors classifier [[arxiv](https://arxiv.org/abs/2405.14896)]
 
 - Time Cell Inspired Temporal Codebook in Spiking Neural Networks for Enhanced Image Generation [[arxiv](https://arxiv.org/abs/2405.14474)]
 
