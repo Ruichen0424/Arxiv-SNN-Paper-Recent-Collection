@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-05-29)** 
+ ### **Last 5 working days (Updated on 2024-05-30)** 
 
+
+- Signal-Plus-Noise Decomposition of Nonlinear Spiked Random Matrix Models [[arxiv](https://arxiv.org/abs/2405.18274)]
+
+- Optimality of Approximate Message Passing Algorithms for Spiked Matrix Models with Rotationally Invariant Noise [[arxiv](https://arxiv.org/abs/2405.18081)]
 
 - Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning [[arxiv](https://arxiv.org/abs/2405.16851)]
 
@@ -41,8 +45,4 @@
 - Exact Gradients for Stochastic Spiking Neural Networks Driven by Rough Signals [[arxiv](https://arxiv.org/abs/2405.13587)]
 
 - Training and inference in the ReckON RSNN architecture implemented on a MPSoC [[arxiv](https://arxiv.org/abs/2405.12849)]
-
-- Learning Regularities from Data using Spiking Functions: A Theory [[arxiv](https://arxiv.org/abs/2405.11684)]
-
-- Conditionally-Conjugate Gaussian Process Factor Analysis for Spike Count Data via Data Augmentation [[arxiv](https://arxiv.org/abs/2405.11683)]
 
