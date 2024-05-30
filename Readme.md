@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-05-30)** 
+ ### **Last 5 working days (Updated on 2024-05-31)** 
 
+
+- A Study of Plasticity Loss in On-Policy Deep Reinforcement Learning [[arxiv](https://arxiv.org/abs/2405.19153)]
 
 - Signal-Plus-Noise Decomposition of Nonlinear Spiked Random Matrix Models [[arxiv](https://arxiv.org/abs/2405.18274)]
 
@@ -43,6 +45,4 @@
 - Contribute to balance, wire in accordance: Emergence of backpropagation from a simple, bio-plausible neuroplasticity rule [[arxiv](https://arxiv.org/abs/2405.14139)]
 
 - Exact Gradients for Stochastic Spiking Neural Networks Driven by Rough Signals [[arxiv](https://arxiv.org/abs/2405.13587)]
-
-- Training and inference in the ReckON RSNN architecture implemented on a MPSoC [[arxiv](https://arxiv.org/abs/2405.12849)]
 
