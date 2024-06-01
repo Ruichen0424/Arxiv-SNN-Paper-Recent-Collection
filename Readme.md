@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-05-31)** 
+ ### **Last 5 working days (Updated on 2024-06-01)** 
 
+
+- Autonomous Driving with Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2405.19687)]
+
+- Resonate-and-Fire Spiking Neurons for Target Detection and Hand Gesture Recognition: A Hybrid Approach [[arxiv](https://arxiv.org/abs/2405.19351)]
 
 - A Study of Plasticity Loss in On-Policy Deep Reinforcement Learning [[arxiv](https://arxiv.org/abs/2405.19153)]
 
@@ -25,24 +29,4 @@
 - Spiketrum: An FPGA-based Implementation of a Neuromorphic Cochlea [[arxiv](https://arxiv.org/abs/2405.15923)]
 
 - Study on spike-and-wave detection in epileptic signals using t-location-scale distribution and the K-nearest neighbors classifier [[arxiv](https://arxiv.org/abs/2405.14896)]
-
-- Time Cell Inspired Temporal Codebook in Spiking Neural Networks for Enhanced Image Generation [[arxiv](https://arxiv.org/abs/2405.14474)]
-
-- Mitigating Quantization Errors Due to Activation Spikes in GLU-Based LLMs [[arxiv](https://arxiv.org/abs/2405.14428)]
-
-- SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network [[arxiv](https://arxiv.org/abs/2405.14398)]
-
-- Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators [[arxiv](https://arxiv.org/abs/2405.14362)]
-
-- EchoSpike Predictive Plasticity: An Online Local Learning Rule for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2405.13976)]
-
-- Learning To Play Atari Games Using Dueling Q-Learning and Hebbian Plasticity [[arxiv](https://arxiv.org/abs/2405.13960)]
-
-- Advancing Spiking Neural Networks towards Multiscale Spatiotemporal Interaction Learning [[arxiv](https://arxiv.org/abs/2405.13672)]
-
-- Elastic-gap free strain gradient crystal plasticity model that effectively account for plastic slip gradient and grain boundary dissipation [[arxiv](https://arxiv.org/abs/2405.13384)]
-
-- Contribute to balance, wire in accordance: Emergence of backpropagation from a simple, bio-plausible neuroplasticity rule [[arxiv](https://arxiv.org/abs/2405.14139)]
-
-- Exact Gradients for Stochastic Spiking Neural Networks Driven by Rough Signals [[arxiv](https://arxiv.org/abs/2405.13587)]
 
