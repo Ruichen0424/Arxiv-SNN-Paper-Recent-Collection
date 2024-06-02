@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-06-02)** 
+ ### **Last 5 working days (Updated on 2024-06-03)** 
 
 
 - Autonomous Driving with Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2405.19687)]
