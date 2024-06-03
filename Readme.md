@@ -1,8 +1,16 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-06-03)** 
+ ### **Last 5 working days (Updated on 2024-06-04)** 
 
+
+- Information limits and Thouless-Anderson-Palmer equations for spiked matrix models with structured noise [[arxiv](https://arxiv.org/abs/2405.20993)]
+
+- Robust Stable Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2405.20694)]
+
+- Comparing Quantum Annealing and Spiking Neuromorphic Computing for Sampling Binary Sparse Coding QUBO Problems [[arxiv](https://arxiv.org/abs/2405.20525)]
+
+- Enhancing Adversarial Robustness in SNNs with Sparse Gradients [[arxiv](https://arxiv.org/abs/2405.20355)]
 
 - Autonomous Driving with Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2405.19687)]
 
@@ -27,6 +35,4 @@
 - Application based Evaluation of an Efficient Spike-Encoder, "Spiketrum" [[arxiv](https://arxiv.org/abs/2405.15927)]
 
 - Spiketrum: An FPGA-based Implementation of a Neuromorphic Cochlea [[arxiv](https://arxiv.org/abs/2405.15923)]
-
-- Study on spike-and-wave detection in epileptic signals using t-location-scale distribution and the K-nearest neighbors classifier [[arxiv](https://arxiv.org/abs/2405.14896)]
 
