@@ -1,8 +1,16 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-06-04)** 
+ ### **Last 5 working days (Updated on 2024-06-05)** 
 
+
+- Towards Efficient Deep Spiking Neural Networks Construction with Spiking Activity based Pruning [[arxiv](https://arxiv.org/abs/2406.01072)]
+
+- Pedestrian intention prediction in Adverse Weather Conditions with Spiking Neural Networks and Dynamic Vision Sensors [[arxiv](https://arxiv.org/abs/2406.00473)]
+
+- Autaptic Synaptic Circuit Enhances Spatio-temporal Predictive Learning of Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2406.00405)]
+
+- SpikeMM: Flexi-Magnification of High-Speed Micro-Motions [[arxiv](https://arxiv.org/abs/2406.00383)]
 
 - Information limits and Thouless-Anderson-Palmer equations for spiked matrix models with structured noise [[arxiv](https://arxiv.org/abs/2405.20993)]
 
@@ -21,18 +29,4 @@
 - Signal-Plus-Noise Decomposition of Nonlinear Spiked Random Matrix Models [[arxiv](https://arxiv.org/abs/2405.18274)]
 
 - Optimality of Approximate Message Passing Algorithms for Spiked Matrix Models with Rotationally Invariant Noise [[arxiv](https://arxiv.org/abs/2405.18081)]
-
-- Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning [[arxiv](https://arxiv.org/abs/2405.16851)]
-
-- SCSim: A Realistic Spike Cameras Simulator [[arxiv](https://arxiv.org/abs/2405.16790)]
-
-- High-Performance Temporal Reversible Spiking Neural Networks with $O(L)$ Training Memory and $O(1)$ Inference Cost [[arxiv](https://arxiv.org/abs/2405.16466)]
-
-- Spiking Neural Network Phase Encoding for Cognitive Computing [[arxiv](https://arxiv.org/abs/2405.16023)]
-
-- Theories of synaptic memory consolidation and intelligent plasticity for continual learning [[arxiv](https://arxiv.org/abs/2405.16922)]
-
-- Application based Evaluation of an Efficient Spike-Encoder, "Spiketrum" [[arxiv](https://arxiv.org/abs/2405.15927)]
-
-- Spiketrum: An FPGA-based Implementation of a Neuromorphic Cochlea [[arxiv](https://arxiv.org/abs/2405.15923)]
 
