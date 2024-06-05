@@ -1,8 +1,14 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-06-05)** 
+ ### **Last 5 working days (Updated on 2024-06-06)** 
 
+
+- CADE: Cosine Annealing Differential Evolution for Spiking Neural Network [[arxiv](https://arxiv.org/abs/2406.02349)]
+
+- Context Gating in Spiking Neural Networks: Achieving Lifelong Learning through Integration of Local and Global Plasticity [[arxiv](https://arxiv.org/abs/2406.01883)]
+
+- Projection scheme for a perfect plasticity model with a time-dependent constraint set [[arxiv](https://arxiv.org/abs/2406.02218)]
 
 - Towards Efficient Deep Spiking Neural Networks Construction with Spiking Activity based Pruning [[arxiv](https://arxiv.org/abs/2406.01072)]
 
@@ -25,8 +31,4 @@
 - Resonate-and-Fire Spiking Neurons for Target Detection and Hand Gesture Recognition: A Hybrid Approach [[arxiv](https://arxiv.org/abs/2405.19351)]
 
 - A Study of Plasticity Loss in On-Policy Deep Reinforcement Learning [[arxiv](https://arxiv.org/abs/2405.19153)]
-
-- Signal-Plus-Noise Decomposition of Nonlinear Spiked Random Matrix Models [[arxiv](https://arxiv.org/abs/2405.18274)]
-
-- Optimality of Approximate Message Passing Algorithms for Spiked Matrix Models with Rotationally Invariant Noise [[arxiv](https://arxiv.org/abs/2405.18081)]
 
