@@ -1,8 +1,22 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-06-06)** 
+ ### **Last 5 working days (Updated on 2024-06-07)** 
 
+
+- SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN [[arxiv](https://arxiv.org/abs/2406.03470)]
+
+- A discrete dislocation analysis of size-dependent plasticity in torsion [[arxiv](https://arxiv.org/abs/2406.03375)]
+
+- SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms [[arxiv](https://arxiv.org/abs/2406.03287)]
+
+- Spiking representation learning for associative memories [[arxiv](https://arxiv.org/abs/2406.03054)]
+
+- When Spiking neural networks meet temporal attention image decoding and adaptive spiking neuron [[arxiv](https://arxiv.org/abs/2406.03046)]
+
+- Rethinking Spiking Neural Networks as State Space Models [[arxiv](https://arxiv.org/abs/2406.02923)]
+
+- Slow and Steady Wins the Race: Maintaining Plasticity with Hare and Tortoise Networks [[arxiv](https://arxiv.org/abs/2406.02596)]
 
 - CADE: Cosine Annealing Differential Evolution for Spiking Neural Network [[arxiv](https://arxiv.org/abs/2406.02349)]
 
@@ -29,6 +43,4 @@
 - Autonomous Driving with Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2405.19687)]
 
 - Resonate-and-Fire Spiking Neurons for Target Detection and Hand Gesture Recognition: A Hybrid Approach [[arxiv](https://arxiv.org/abs/2405.19351)]
-
-- A Study of Plasticity Loss in On-Policy Deep Reinforcement Learning [[arxiv](https://arxiv.org/abs/2405.19153)]
 
