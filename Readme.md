@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-06-07)** 
+ ### **Last 5 working days (Updated on 2024-06-08)** 
 
 
 - SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN [[arxiv](https://arxiv.org/abs/2406.03470)]
@@ -39,8 +39,4 @@
 - Comparing Quantum Annealing and Spiking Neuromorphic Computing for Sampling Binary Sparse Coding QUBO Problems [[arxiv](https://arxiv.org/abs/2405.20525)]
 
 - Enhancing Adversarial Robustness in SNNs with Sparse Gradients [[arxiv](https://arxiv.org/abs/2405.20355)]
-
-- Autonomous Driving with Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2405.19687)]
-
-- Resonate-and-Fire Spiking Neurons for Target Detection and Hand Gesture Recognition: A Hybrid Approach [[arxiv](https://arxiv.org/abs/2405.19351)]
 
