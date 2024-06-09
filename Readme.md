@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-06-09)** 
+ ### **Last 5 working days (Updated on 2024-06-10)** 
 
 
 - SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN [[arxiv](https://arxiv.org/abs/2406.03470)]
