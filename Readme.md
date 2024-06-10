@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-06-10)** 
+ ### **Last 5 working days (Updated on 2024-06-11)** 
 
+
+- Unsupervised representation learning with Hebbian synaptic and structural plasticity in brain-like feedforward neural networks [[arxiv](https://arxiv.org/abs/2406.04733)]
 
 - SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN [[arxiv](https://arxiv.org/abs/2406.03470)]
 
@@ -31,12 +33,4 @@
 - Autaptic Synaptic Circuit Enhances Spatio-temporal Predictive Learning of Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2406.00405)]
 
 - SpikeMM: Flexi-Magnification of High-Speed Micro-Motions [[arxiv](https://arxiv.org/abs/2406.00383)]
-
-- Information limits and Thouless-Anderson-Palmer equations for spiked matrix models with structured noise [[arxiv](https://arxiv.org/abs/2405.20993)]
-
-- Robust Stable Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2405.20694)]
-
-- Comparing Quantum Annealing and Spiking Neuromorphic Computing for Sampling Binary Sparse Coding QUBO Problems [[arxiv](https://arxiv.org/abs/2405.20525)]
-
-- Enhancing Adversarial Robustness in SNNs with Sparse Gradients [[arxiv](https://arxiv.org/abs/2405.20355)]
 
