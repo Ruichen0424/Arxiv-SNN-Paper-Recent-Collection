@@ -1,12 +1,18 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-06-11)** 
+ ### **Last 5 working days (Updated on 2024-06-12)** 
 
 
-- Unsupervised representation learning with Hebbian synaptic and structural plasticity in brain-like feedforward neural networks [[arxiv](https://arxiv.org/abs/2406.04733)]
+- NeuroMoCo: A Neuromorphic Momentum Contrast Learning Method for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2406.06305)]
+
+- Supervised Radio Frequency Interference Detection with SNNs [[arxiv](https://arxiv.org/abs/2406.06075)]
+
+- Spiking Neural Networks with Consistent Mapping Relations Allow High-Accuracy Inference [[arxiv](https://arxiv.org/abs/2406.05371)]
 
 - SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN [[arxiv](https://arxiv.org/abs/2406.03470)]
+
+- Unsupervised representation learning with Hebbian synaptic and structural plasticity in brain-like feedforward neural networks [[arxiv](https://arxiv.org/abs/2406.04733)]
 
 - A discrete dislocation analysis of size-dependent plasticity in torsion [[arxiv](https://arxiv.org/abs/2406.03375)]
 
@@ -25,12 +31,4 @@
 - Context Gating in Spiking Neural Networks: Achieving Lifelong Learning through Integration of Local and Global Plasticity [[arxiv](https://arxiv.org/abs/2406.01883)]
 
 - Projection scheme for a perfect plasticity model with a time-dependent constraint set [[arxiv](https://arxiv.org/abs/2406.02218)]
-
-- Towards Efficient Deep Spiking Neural Networks Construction with Spiking Activity based Pruning [[arxiv](https://arxiv.org/abs/2406.01072)]
-
-- Pedestrian intention prediction in Adverse Weather Conditions with Spiking Neural Networks and Dynamic Vision Sensors [[arxiv](https://arxiv.org/abs/2406.00473)]
-
-- Autaptic Synaptic Circuit Enhances Spatio-temporal Predictive Learning of Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2406.00405)]
-
-- SpikeMM: Flexi-Magnification of High-Speed Micro-Motions [[arxiv](https://arxiv.org/abs/2406.00383)]
 
