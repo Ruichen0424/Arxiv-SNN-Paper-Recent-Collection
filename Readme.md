@@ -1,8 +1,14 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-06-12)** 
+ ### **Last 5 working days (Updated on 2024-06-13)** 
 
+
+- Self-Distillation Learning Based on Temporal-Spatial Consistency for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2406.07862)]
+
+- SparrowSNN: A Hardware/software Co-design for Energy Efficient ECG Classification [[arxiv](https://arxiv.org/abs/2406.06543)]
+
+- SpikePipe: Accelerated Training of Spiking Neural Networks via Inter-Layer Pipelining and Multiprocessor Scheduling [[arxiv](https://arxiv.org/abs/2406.06879)]
 
 - NeuroMoCo: A Neuromorphic Momentum Contrast Learning Method for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2406.06305)]
 
@@ -13,22 +19,4 @@
 - SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN [[arxiv](https://arxiv.org/abs/2406.03470)]
 
 - Unsupervised representation learning with Hebbian synaptic and structural plasticity in brain-like feedforward neural networks [[arxiv](https://arxiv.org/abs/2406.04733)]
-
-- A discrete dislocation analysis of size-dependent plasticity in torsion [[arxiv](https://arxiv.org/abs/2406.03375)]
-
-- SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms [[arxiv](https://arxiv.org/abs/2406.03287)]
-
-- Spiking representation learning for associative memories [[arxiv](https://arxiv.org/abs/2406.03054)]
-
-- When Spiking neural networks meet temporal attention image decoding and adaptive spiking neuron [[arxiv](https://arxiv.org/abs/2406.03046)]
-
-- Rethinking Spiking Neural Networks as State Space Models [[arxiv](https://arxiv.org/abs/2406.02923)]
-
-- Slow and Steady Wins the Race: Maintaining Plasticity with Hare and Tortoise Networks [[arxiv](https://arxiv.org/abs/2406.02596)]
-
-- CADE: Cosine Annealing Differential Evolution for Spiking Neural Network [[arxiv](https://arxiv.org/abs/2406.02349)]
-
-- Context Gating in Spiking Neural Networks: Achieving Lifelong Learning through Integration of Local and Global Plasticity [[arxiv](https://arxiv.org/abs/2406.01883)]
-
-- Projection scheme for a perfect plasticity model with a time-dependent constraint set [[arxiv](https://arxiv.org/abs/2406.02218)]
 
