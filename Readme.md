@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-06-16)** 
+ ### **Last 5 working days (Updated on 2024-06-17)** 
 
 
 - Self-Distillation Learning Based on Temporal-Spatial Consistency for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2406.07862)] [[paper with code](https://paperswithcode.com/paper/self-distillation-learning-based-on-temporal)]
