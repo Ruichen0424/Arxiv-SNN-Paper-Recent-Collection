@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-06-17)** 
+ ### **Last 5 working days (Updated on 2024-06-18)** 
 
+
+- Heterogeneous Federated Learning with Convolutional and Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2406.09680)] [[paper with code](https://paperswithcode.com/paper/heterogeneous-federated-learning-with)]
 
 - Self-Distillation Learning Based on Temporal-Spatial Consistency for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2406.07862)] [[paper with code](https://paperswithcode.com/paper/self-distillation-learning-based-on-temporal)]
 
@@ -17,6 +19,4 @@
 - Spiking Neural Networks with Consistent Mapping Relations Allow High-Accuracy Inference [[arxiv](https://arxiv.org/abs/2406.05371)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-networks-with-consistent)]
 
 - SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN [[arxiv](https://arxiv.org/abs/2406.03470)] [[paper with code](https://paperswithcode.com/paper/spikezip-tf-conversion-is-all-you-need-for)] [[code](https://github.com/Intelligent-Computing-Research-Group/SpikeZIP-TF)]
-
-- Unsupervised representation learning with Hebbian synaptic and structural plasticity in brain-like feedforward neural networks [[arxiv](https://arxiv.org/abs/2406.04733)] [[paper with code](https://paperswithcode.com/paper/unsupervised-representation-learning-with-3)]
 
