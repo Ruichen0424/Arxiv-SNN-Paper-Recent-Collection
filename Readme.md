@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-06-18)** 
+ ### **Last 5 working days (Updated on 2024-06-19)** 
 
+
+- Brain-inspired Computational Modeling of Action Recognition with Recurrent Spiking Neural Networks Equipped with Reinforcement Delay Learning [[arxiv](https://arxiv.org/abs/2406.11778)] [[paper with code](https://paperswithcode.com/paper/brain-inspired-computational-modeling-of)]
 
 - Heterogeneous Federated Learning with Convolutional and Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2406.09680)] [[paper with code](https://paperswithcode.com/paper/heterogeneous-federated-learning-with)]
 
@@ -11,12 +13,4 @@
 - SparrowSNN: A Hardware/software Co-design for Energy Efficient ECG Classification [[arxiv](https://arxiv.org/abs/2406.06543)] [[paper with code](https://paperswithcode.com/paper/sparrowsnn-a-hardware-software-co-design-for)]
 
 - SpikePipe: Accelerated Training of Spiking Neural Networks via Inter-Layer Pipelining and Multiprocessor Scheduling [[arxiv](https://arxiv.org/abs/2406.06879)] [[paper with code](https://paperswithcode.com/paper/spikepipe-accelerated-training-of-spiking)]
-
-- NeuroMoCo: A Neuromorphic Momentum Contrast Learning Method for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2406.06305)] [[paper with code](https://paperswithcode.com/paper/neuromoco-a-neuromorphic-momentum-contrast)]
-
-- Supervised Radio Frequency Interference Detection with SNNs [[arxiv](https://arxiv.org/abs/2406.06075)] [[paper with code](https://paperswithcode.com/paper/supervised-radio-frequency-interference)]
-
-- Spiking Neural Networks with Consistent Mapping Relations Allow High-Accuracy Inference [[arxiv](https://arxiv.org/abs/2406.05371)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-networks-with-consistent)]
-
-- SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN [[arxiv](https://arxiv.org/abs/2406.03470)] [[paper with code](https://paperswithcode.com/paper/spikezip-tf-conversion-is-all-you-need-for)] [[code](https://github.com/Intelligent-Computing-Research-Group/SpikeZIP-TF)]
 
