@@ -1,10 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-06-20)** 
+ ### **Last 5 working days (Updated on 2024-06-21)** 
 
 
-- ED-sKWS: Early-Decision Spiking Neural Networks for Rapid,and Energy-Efficient Keyword Spotting [[arxiv](https://arxiv.org/abs/2406.12726)]
+- ED-sKWS: Early-Decision Spiking Neural Networks for Rapid,and Energy-Efficient Keyword Spotting [[arxiv](https://arxiv.org/abs/2406.12726)] [[paper with code](https://paperswithcode.com/paper/ed-skws-early-decision-spiking-neural)]
 
 - Evolutionary Spiking Neural Networks: A Survey [[arxiv](https://arxiv.org/abs/2406.12552)] [[paper with code](https://paperswithcode.com/paper/evolutionary-spiking-neural-networks-a-survey)]
 
