@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-06-24)** 
+ ### **Last 5 working days (Updated on 2024-06-25)** 
 
+
+- SVFormer: A Direct Training Spiking Transformer for Efficient Video Action Recognition [[arxiv](https://arxiv.org/abs/2406.15034)] [[paper with code](https://paperswithcode.com/paper/svformer-a-direct-training-spiking)]
 
 - RTFormer: Re-parameter TSBN Spiking Transformer [[arxiv](https://arxiv.org/abs/2406.14180)] [[paper with code](https://paperswithcode.com/paper/rtformer-re-parameter-tsbn-spiking)]
 
