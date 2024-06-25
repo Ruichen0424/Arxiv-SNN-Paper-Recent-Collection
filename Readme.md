@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-06-25)** 
+ ### **Last 5 working days (Updated on 2024-06-26)** 
 
 
 - SVFormer: A Direct Training Spiking Transformer for Efficient Video Action Recognition [[arxiv](https://arxiv.org/abs/2406.15034)] [[paper with code](https://paperswithcode.com/paper/svformer-a-direct-training-spiking)]
@@ -25,6 +25,4 @@
 - SFedCA: Credit Assignment-Based Active Client Selection Strategy for Spiking Federated Learning [[arxiv](https://arxiv.org/abs/2406.12200)] [[paper with code](https://paperswithcode.com/paper/sfedca-credit-assignment-based-active-client)]
 
 - Brain-inspired Computational Modeling of Action Recognition with Recurrent Spiking Neural Networks Equipped with Reinforcement Delay Learning [[arxiv](https://arxiv.org/abs/2406.11778)] [[paper with code](https://paperswithcode.com/paper/brain-inspired-computational-modeling-of)]
-
-- Heterogeneous Federated Learning with Convolutional and Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2406.09680)] [[paper with code](https://paperswithcode.com/paper/heterogeneous-federated-learning-with)]
 
