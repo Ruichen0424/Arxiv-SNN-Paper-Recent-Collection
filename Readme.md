@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-06-26)** 
+ ### **Last 5 working days (Updated on 2024-06-27)** 
 
+
+- Embedded event based object detection with spiking neural network [[arxiv](https://arxiv.org/abs/2406.17617)] [[paper with code](https://paperswithcode.com/paper/embedded-event-based-object-detection-with)]
+
+- Fast Switching Serial and Parallel Paradigms of SNN Inference on Multi-core Heterogeneous Neuromorphic Platform SpiNNaker2 [[arxiv](https://arxiv.org/abs/2406.17049)]
 
 - SVFormer: A Direct Training Spiking Transformer for Efficient Video Action Recognition [[arxiv](https://arxiv.org/abs/2406.15034)] [[paper with code](https://paperswithcode.com/paper/svformer-a-direct-training-spiking)]
 
@@ -23,6 +27,4 @@
 - Evolutionary Spiking Neural Networks: A Survey [[arxiv](https://arxiv.org/abs/2406.12552)] [[paper with code](https://paperswithcode.com/paper/evolutionary-spiking-neural-networks-a-survey)]
 
 - SFedCA: Credit Assignment-Based Active Client Selection Strategy for Spiking Federated Learning [[arxiv](https://arxiv.org/abs/2406.12200)] [[paper with code](https://paperswithcode.com/paper/sfedca-credit-assignment-based-active-client)]
-
-- Brain-inspired Computational Modeling of Action Recognition with Recurrent Spiking Neural Networks Equipped with Reinforcement Delay Learning [[arxiv](https://arxiv.org/abs/2406.11778)] [[paper with code](https://paperswithcode.com/paper/brain-inspired-computational-modeling-of)]
 
