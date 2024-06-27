@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-06-27)** 
+ ### **Last 5 working days (Updated on 2024-06-28)** 
 
+
+- On Reducing Activity with Distillation and Regularization for Energy Efficient Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2406.18350)] [[paper with code](https://paperswithcode.com/paper/on-reducing-activity-with-distillation-and)]
 
 - Embedded event based object detection with spiking neural network [[arxiv](https://arxiv.org/abs/2406.17617)] [[paper with code](https://paperswithcode.com/paper/embedded-event-based-object-detection-with)]
 
@@ -21,10 +23,4 @@
 - Global-Local Convolution with Spiking Neural Networks for Energy-efficient Keyword Spotting [[arxiv](https://arxiv.org/abs/2406.13179)] [[paper with code](https://paperswithcode.com/paper/global-local-convolution-with-spiking-neural)]
 
 - Brain-Inspired Spike Echo State Network Dynamics for Aero-Engine Intelligent Fault Prediction [[arxiv](https://arxiv.org/abs/2406.12918)] [[paper with code](https://paperswithcode.com/paper/brain-inspired-spike-echo-state-network)]
-
-- ED-sKWS: Early-Decision Spiking Neural Networks for Rapid,and Energy-Efficient Keyword Spotting [[arxiv](https://arxiv.org/abs/2406.12726)] [[paper with code](https://paperswithcode.com/paper/ed-skws-early-decision-spiking-neural)]
-
-- Evolutionary Spiking Neural Networks: A Survey [[arxiv](https://arxiv.org/abs/2406.12552)] [[paper with code](https://paperswithcode.com/paper/evolutionary-spiking-neural-networks-a-survey)]
-
-- SFedCA: Credit Assignment-Based Active Client Selection Strategy for Spiking Federated Learning [[arxiv](https://arxiv.org/abs/2406.12200)] [[paper with code](https://paperswithcode.com/paper/sfedca-credit-assignment-based-active-client)]
 
