@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-07-04)** 
+ ### **Last 5 working days (Updated on 2024-07-05)** 
 
 
 - Compressed Latent Replays for Lightweight Continual Learning on Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2407.03111)]
