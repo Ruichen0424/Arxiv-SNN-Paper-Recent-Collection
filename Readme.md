@@ -1,10 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-07-07)** 
+ ### **Last 5 working days (Updated on 2024-07-08)** 
 
 
-- Compressed Latent Replays for Lightweight Continual Learning on Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2407.03111)]
+- Compressed Latent Replays for Lightweight Continual Learning on Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2407.03111)] [[paper with code](https://paperswithcode.com/paper/compressed-latent-replays-for-lightweight)]
 
 - Sign Gradient Descent-based Neuronal Dynamics: ANN-to-SNN Conversion Beyond ReLU Network [[arxiv](https://arxiv.org/abs/2407.01645)] [[paper with code](https://paperswithcode.com/paper/sign-gradient-descent-based-neuronal-dynamics)] [[code](https://github.com/snuhcs/snn_signgd)]
 
