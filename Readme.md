@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-07-09)** 
+ ### **Last 5 working days (Updated on 2024-07-10)** 
 
+
+- An Attempt to Devise a Pairwise Ising-Type Maximum Entropy Model Integrated Cost Function for Optimizing SNN Deployment [[arxiv](https://arxiv.org/abs/2407.07014)] [[paper with code](https://paperswithcode.com/paper/an-attempt-to-devise-a-pairwise-ising-type)]
+
+- Exploiting Heterogeneity in Timescales for Sparse Recurrent Spiking Neural Networks for Energy-Efficient Edge Computing [[arxiv](https://arxiv.org/abs/2407.06452)] [[paper with code](https://paperswithcode.com/paper/exploiting-heterogeneity-in-timescales-for)]
 
 - Multi-Bit Mechanism: A Novel Information Transmission Paradigm for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2407.05739)] [[paper with code](https://paperswithcode.com/paper/multi-bit-mechanism-a-novel-information)]
 
@@ -21,8 +25,4 @@
 - Compressed Latent Replays for Lightweight Continual Learning on Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2407.03111)] [[paper with code](https://paperswithcode.com/paper/compressed-latent-replays-for-lightweight)] [[code](https://github.com/dequino/spiking-compressed-continual-learning)]
 
 - Sign Gradient Descent-based Neuronal Dynamics: ANN-to-SNN Conversion Beyond ReLU Network [[arxiv](https://arxiv.org/abs/2407.01645)] [[paper with code](https://paperswithcode.com/paper/sign-gradient-descent-based-neuronal-dynamics)] [[code](https://github.com/snuhcs/snn_signgd)]
-
-- HASNAS: A Hardware-Aware Spiking Neural Architecture Search Framework for Neuromorphic Compute-in-Memory Systems [[arxiv](https://arxiv.org/abs/2407.00641)] [[paper with code](https://paperswithcode.com/paper/hasnas-a-hardware-aware-spiking-neural)]
-
-- NeuroMoCo: A Neuromorphic Momentum Contrast Learning Method for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2406.06305)] [[paper with code](https://paperswithcode.com/paper/neuromoco-a-neuromorphic-momentum-contrast)]
 
