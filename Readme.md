@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-07-10)** 
+ ### **Last 5 working days (Updated on 2024-07-11)** 
 
+
+- Neuromimetic metaplasticity for adaptive continual learning [[arxiv](https://arxiv.org/abs/2407.07133)] [[paper with code](https://paperswithcode.com/paper/neuromimetic-metaplasticity-for-adaptive)]
 
 - An Attempt to Devise a Pairwise Ising-Type Maximum Entropy Model Integrated Cost Function for Optimizing SNN Deployment [[arxiv](https://arxiv.org/abs/2407.07014)] [[paper with code](https://paperswithcode.com/paper/an-attempt-to-devise-a-pairwise-ising-type)]
 
@@ -23,6 +25,4 @@
 - SpikeGS: Reconstruct 3D scene via fast-moving bio-inspired sensors [[arxiv](https://arxiv.org/abs/2407.03771)] [[paper with code](https://paperswithcode.com/paper/spikegs-reconstruct-3d-scene-via-fast-moving)]
 
 - Compressed Latent Replays for Lightweight Continual Learning on Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2407.03111)] [[paper with code](https://paperswithcode.com/paper/compressed-latent-replays-for-lightweight)] [[code](https://github.com/dequino/spiking-compressed-continual-learning)]
-
-- Sign Gradient Descent-based Neuronal Dynamics: ANN-to-SNN Conversion Beyond ReLU Network [[arxiv](https://arxiv.org/abs/2407.01645)] [[paper with code](https://paperswithcode.com/paper/sign-gradient-descent-based-neuronal-dynamics)] [[code](https://github.com/snuhcs/snn_signgd)]
 
