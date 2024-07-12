@@ -1,8 +1,14 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-07-11)** 
+ ### **Last 5 working days (Updated on 2024-07-13)** 
 
+
+- Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware [[arxiv](https://arxiv.org/abs/2407.08704)] [[paper with code](https://paperswithcode.com/paper/towards-efficient-deployment-of-hybrid-snns)]
+
+- STAL: Spike Threshold Adaptive Learning Encoder for Classification of Pain-Related Biosignal Data [[arxiv](https://arxiv.org/abs/2407.08362)] [[paper with code](https://paperswithcode.com/paper/stal-spike-threshold-adaptive-learning)]
+
+- Spiking Tucker Fusion Transformer for Audio-Visual Zero-Shot Learning [[arxiv](https://arxiv.org/abs/2407.08130)] [[paper with code](https://paperswithcode.com/paper/spiking-tucker-fusion-transformer-for-audio)]
 
 - Neuromimetic metaplasticity for adaptive continual learning [[arxiv](https://arxiv.org/abs/2407.07133)] [[paper with code](https://paperswithcode.com/paper/neuromimetic-metaplasticity-for-adaptive)]
 
@@ -23,6 +29,4 @@
 - Natively neuromorphic LMU architecture for encoding-free SNN-based HAR on commercial edge devices [[arxiv](https://arxiv.org/abs/2407.04076)] [[paper with code](https://paperswithcode.com/paper/natively-neuromorphic-lmu-architecture-for)]
 
 - SpikeGS: Reconstruct 3D scene via fast-moving bio-inspired sensors [[arxiv](https://arxiv.org/abs/2407.03771)] [[paper with code](https://paperswithcode.com/paper/spikegs-reconstruct-3d-scene-via-fast-moving)]
-
-- Compressed Latent Replays for Lightweight Continual Learning on Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2407.03111)] [[paper with code](https://paperswithcode.com/paper/compressed-latent-replays-for-lightweight)] [[code](https://github.com/dequino/spiking-compressed-continual-learning)]
 
