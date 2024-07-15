@@ -1,8 +1,18 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-07-13)** 
+ ### **Last 5 working days (Updated on 2024-07-16)** 
 
+
+- BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation [[arxiv](https://arxiv.org/abs/2407.09083)] [[paper with code](https://paperswithcode.com/paper/bkdsnn-enhancing-the-performance-of-learning)]
+
+- A Hybrid Spiking-Convolutional Neural Network Approach for Advancing Machine Learning Models [[arxiv](https://arxiv.org/abs/2407.08861)] [[paper with code](https://paperswithcode.com/paper/a-hybrid-spiking-convolutional-neural-network)]
+
+- Iteration over event space in time-to-first-spike spiking neural networks for Twitter bot classification [[arxiv](https://arxiv.org/abs/2407.08746)]
+
+- Toward Efficient Deep Spiking Neuron Networks:A Survey On Compression [[arxiv](https://arxiv.org/abs/2407.08744)]
+
+- Latent Diffusion for Neural Spiking Data [[arxiv](https://arxiv.org/abs/2407.08751)]
 
 - Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware [[arxiv](https://arxiv.org/abs/2407.08704)] [[paper with code](https://paperswithcode.com/paper/towards-efficient-deployment-of-hybrid-snns)]
 
@@ -22,11 +32,7 @@
 
 - Modeling localized failure in geomaterials by large-deformation-plasticity periporomechanics [[arxiv](https://arxiv.org/abs/2407.05129)]
 
-- SpikeLLM: Scaling up Spiking Neural Network to Large Language Models via Saliency-based Spiking [[arxiv](https://arxiv.org/abs/2407.04752)] [[paper with code](https://paperswithcode.com/paper/spikellm-scaling-up-spiking-neural-network-to)]
+- SpikeLLM: Scaling up Spiking Neural Network to Large Language Models via Saliency-based Spiking [[arxiv](https://arxiv.org/abs/2407.04752)] [[paper with code](https://paperswithcode.com/paper/spikellm-scaling-up-spiking-neural-network-to)] [[code](https://github.com/xingrun-xing/spikelm)]
 
 - Ternary Spike-based Neuromorphic Signal Processing System [[arxiv](https://arxiv.org/abs/2407.05310)] [[paper with code](https://paperswithcode.com/paper/ternary-spike-based-neuromorphic-signal)]
-
-- Natively neuromorphic LMU architecture for encoding-free SNN-based HAR on commercial edge devices [[arxiv](https://arxiv.org/abs/2407.04076)] [[paper with code](https://paperswithcode.com/paper/natively-neuromorphic-lmu-architecture-for)]
-
-- SpikeGS: Reconstruct 3D scene via fast-moving bio-inspired sensors [[arxiv](https://arxiv.org/abs/2407.03771)] [[paper with code](https://paperswithcode.com/paper/spikegs-reconstruct-3d-scene-via-fast-moving)]
 
