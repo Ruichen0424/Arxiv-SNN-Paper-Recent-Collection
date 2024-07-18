@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-07-17)** 
+ ### **Last 5 working days (Updated on 2024-07-19)** 
 
+
+- Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2407.12516)] [[paper with code](https://paperswithcode.com/paper/online-pseudo-zeroth-order-training-of)]
 
 - SpikeGS: 3D Gaussian Splatting from Spike Streams with High-Speed Camera Motion [[arxiv](https://arxiv.org/abs/2407.10062)] [[paper with code](https://paperswithcode.com/paper/spikegs-3d-gaussian-splatting-from-spike)]
 
@@ -16,17 +18,11 @@
 
 - Toward Efficient Deep Spiking Neuron Networks:A Survey On Compression [[arxiv](https://arxiv.org/abs/2407.08744)] [[paper with code](https://paperswithcode.com/paper/toward-efficient-deep-spiking-neuron-networks)]
 
-- Latent Diffusion for Neural Spiking Data [[arxiv](https://arxiv.org/abs/2407.08751)]
+- Latent Diffusion for Neural Spiking Data [[arxiv](https://arxiv.org/abs/2407.08751)] [[paper with code](https://paperswithcode.com/paper/latent-diffusion-for-neural-spiking-data)]
 
 - Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware [[arxiv](https://arxiv.org/abs/2407.08704)] [[paper with code](https://paperswithcode.com/paper/towards-efficient-deployment-of-hybrid-snns)]
 
 - STAL: Spike Threshold Adaptive Learning Encoder for Classification of Pain-Related Biosignal Data [[arxiv](https://arxiv.org/abs/2407.08362)] [[paper with code](https://paperswithcode.com/paper/stal-spike-threshold-adaptive-learning)] [[code](https://github.com/freek1/emopain-stl)]
 
 - Spiking Tucker Fusion Transformer for Audio-Visual Zero-Shot Learning [[arxiv](https://arxiv.org/abs/2407.08130)] [[paper with code](https://paperswithcode.com/paper/spiking-tucker-fusion-transformer-for-audio)]
-
-- Neuromimetic metaplasticity for adaptive continual learning [[arxiv](https://arxiv.org/abs/2407.07133)] [[paper with code](https://paperswithcode.com/paper/neuromimetic-metaplasticity-for-adaptive)]
-
-- An Attempt to Devise a Pairwise Ising-Type Maximum Entropy Model Integrated Cost Function for Optimizing SNN Deployment [[arxiv](https://arxiv.org/abs/2407.07014)] [[paper with code](https://paperswithcode.com/paper/an-attempt-to-devise-a-pairwise-ising-type)]
-
-- Exploiting Heterogeneity in Timescales for Sparse Recurrent Spiking Neural Networks for Energy-Efficient Edge Computing [[arxiv](https://arxiv.org/abs/2407.06452)] [[paper with code](https://paperswithcode.com/paper/exploiting-heterogeneity-in-timescales-for)]
 
