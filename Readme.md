@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-07-19)** 
+ ### **Last 5 working days (Updated on 2024-07-20)** 
 
+
+- Accurate Mapping of RNNs on Neuromorphic Hardware with Adaptive Spiking Neurons [[arxiv](https://arxiv.org/abs/2407.13534)] [[paper with code](https://paperswithcode.com/paper/accurate-mapping-of-rnns-on-neuromorphic)]
 
 - Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2407.12516)] [[paper with code](https://paperswithcode.com/paper/online-pseudo-zeroth-order-training-of)]
 
@@ -19,10 +21,4 @@
 - Toward Efficient Deep Spiking Neuron Networks:A Survey On Compression [[arxiv](https://arxiv.org/abs/2407.08744)] [[paper with code](https://paperswithcode.com/paper/toward-efficient-deep-spiking-neuron-networks)]
 
 - Latent Diffusion for Neural Spiking Data [[arxiv](https://arxiv.org/abs/2407.08751)] [[paper with code](https://paperswithcode.com/paper/latent-diffusion-for-neural-spiking-data)]
-
-- Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware [[arxiv](https://arxiv.org/abs/2407.08704)] [[paper with code](https://paperswithcode.com/paper/towards-efficient-deployment-of-hybrid-snns)]
-
-- STAL: Spike Threshold Adaptive Learning Encoder for Classification of Pain-Related Biosignal Data [[arxiv](https://arxiv.org/abs/2407.08362)] [[paper with code](https://paperswithcode.com/paper/stal-spike-threshold-adaptive-learning)] [[code](https://github.com/freek1/emopain-stl)]
-
-- Spiking Tucker Fusion Transformer for Audio-Visual Zero-Shot Learning [[arxiv](https://arxiv.org/abs/2407.08130)] [[paper with code](https://paperswithcode.com/paper/spiking-tucker-fusion-transformer-for-audio)]
 
