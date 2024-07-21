@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-07-21)** 
+ ### **Last 5 working days (Updated on 2024-07-22)** 
 
 
 - Accurate Mapping of RNNs on Neuromorphic Hardware with Adaptive Spiking Neurons [[arxiv](https://arxiv.org/abs/2407.13534)] [[paper with code](https://paperswithcode.com/paper/accurate-mapping-of-rnns-on-neuromorphic)]
