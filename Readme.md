@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-07-24)** 
+ ### **Last 5 working days (Updated on 2024-07-25)** 
 
+
+- A Quantum Leaky Integrate-and-Fire Spiking Neuron and Network [[arxiv](https://arxiv.org/abs/2407.16398)] [[paper with code](https://paperswithcode.com/paper/a-quantum-leaky-integrate-and-fire-spiking)]
 
 - SwinSF: Image Reconstruction from Spatial-Temporal Spike Streams [[arxiv](https://arxiv.org/abs/2407.15708)] [[paper with code](https://paperswithcode.com/paper/swinsf-image-reconstruction-from-spatial)]
 
