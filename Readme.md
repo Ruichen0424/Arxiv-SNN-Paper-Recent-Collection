@@ -1,22 +1,22 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-07-25)** 
+ ### **Last 5 working days (Updated on 2024-07-26)** 
 
 
-- A Quantum Leaky Integrate-and-Fire Spiking Neuron and Network [[arxiv](https://arxiv.org/abs/2407.16398)] [[paper with code](https://paperswithcode.com/paper/a-quantum-leaky-integrate-and-fire-spiking)]
+- Continual Learning in Bio-plausible Spiking Neural Networks with Hebbian and Spike Timing Dependent Plasticity: A Survey and Perspective [[arxiv](https://arxiv.org/abs/2407.17305)] [[paper with code](https://paperswithcode.com/paper/continual-learning-in-bio-plausible-spiking)]
 
-- SwinSF: Image Reconstruction from Spatial-Temporal Spike Streams [[arxiv](https://arxiv.org/abs/2407.15708)] [[paper with code](https://paperswithcode.com/paper/swinsf-image-reconstruction-from-spatial)]
+- A Quantum Leaky Integrate-and-Fire Spiking Neuron and Network [[arxiv](https://arxiv.org/abs/2407.16398)] [[paper with code](https://paperswithcode.com/paper/a-quantum-leaky-integrate-and-fire-spiking)] [[code](https://github.com/deanbrand/QSNN)]
+
+- SwinSF: Image Reconstruction from Spatial-Temporal Spike Streams [[arxiv](https://arxiv.org/abs/2407.15708)] [[paper with code](https://paperswithcode.com/paper/swinsf-image-reconstruction-from-spatial)] [[code](https://github.com/bupt-ai-cz/SwinSF)]
 
 - SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator [[arxiv](https://arxiv.org/abs/2407.15152)]
 
 - Towards a "universal translator" for neural dynamics at single-cell, single-spike resolution [[arxiv](https://arxiv.org/abs/2407.14668)] [[paper with code](https://paperswithcode.com/paper/towards-a-universal-translator-for-neural)]
 
-- On the Robustness of Fully-Spiking Neural Networks in Open-World Scenarios using Forward-Only Learning Algorithms [[arxiv](https://arxiv.org/abs/2407.14097)] [[paper with code](https://paperswithcode.com/paper/on-the-robustness-of-fully-spiking-neural)]
+- On the Robustness of Fully-Spiking Neural Networks in Open-World Scenarios using Forward-Only Learning Algorithms [[arxiv](https://arxiv.org/abs/2407.14097)] [[paper with code](https://paperswithcode.com/paper/on-the-robustness-of-fully-spiking-neural)] [[code](https://github.com/AnonymousSquirrel316/FFA_OOD)]
 
 - LoAS: Fully Temporal-Parallel Datatflow for Dual-Sparse Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2407.14073)] [[paper with code](https://paperswithcode.com/paper/loas-fully-temporal-parallel-datatflow-for)]
 
 - Accurate Mapping of RNNs on Neuromorphic Hardware with Adaptive Spiking Neurons [[arxiv](https://arxiv.org/abs/2407.13534)] [[paper with code](https://paperswithcode.com/paper/accurate-mapping-of-rnns-on-neuromorphic)]
-
-- Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2407.12516)] [[paper with code](https://paperswithcode.com/paper/online-pseudo-zeroth-order-training-of)]
 
