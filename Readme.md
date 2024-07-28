@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-07-28)** 
+ ### **Last 5 working days (Updated on 2024-07-29)** 
 
 
 - Spiking Neural Networks in Vertical Federated Learning: Performance Trade-offs [[arxiv](https://arxiv.org/abs/2407.17672)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-networks-in-vertical-federated)]
