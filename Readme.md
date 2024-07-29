@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-07-29)** 
+ ### **Last 5 working days (Updated on 2024-07-30)** 
 
+
+- The Role of Temporal Hierarchy in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2407.18838)] [[paper with code](https://paperswithcode.com/paper/the-role-of-temporal-hierarchy-in-spiking)]
+
+- Topology Optimization of Random Memristors for Input-Aware Dynamic SNN [[arxiv](https://arxiv.org/abs/2407.18625)] [[paper with code](https://paperswithcode.com/paper/topology-optimization-of-random-memristors)]
 
 - Spiking Neural Networks in Vertical Federated Learning: Performance Trade-offs [[arxiv](https://arxiv.org/abs/2407.17672)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-networks-in-vertical-federated)]
 
@@ -12,11 +16,7 @@
 
 - SwinSF: Image Reconstruction from Spatial-Temporal Spike Streams [[arxiv](https://arxiv.org/abs/2407.15708)] [[paper with code](https://paperswithcode.com/paper/swinsf-image-reconstruction-from-spatial)] [[code](https://github.com/bupt-ai-cz/SwinSF)]
 
-- SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator [[arxiv](https://arxiv.org/abs/2407.15152)]
+- SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator [[arxiv](https://arxiv.org/abs/2407.15152)] [[paper with code](https://paperswithcode.com/paper/snngx-securing-spiking-neural-networks-with)] [[code](https://github.com/u3556440/SNNGX_qSNN_encryption)]
 
 - Towards a "universal translator" for neural dynamics at single-cell, single-spike resolution [[arxiv](https://arxiv.org/abs/2407.14668)] [[paper with code](https://paperswithcode.com/paper/towards-a-universal-translator-for-neural)]
-
-- On the Robustness of Fully-Spiking Neural Networks in Open-World Scenarios using Forward-Only Learning Algorithms [[arxiv](https://arxiv.org/abs/2407.14097)] [[paper with code](https://paperswithcode.com/paper/on-the-robustness-of-fully-spiking-neural)] [[code](https://github.com/AnonymousSquirrel316/FFA_OOD)]
-
-- LoAS: Fully Temporal-Parallel Datatflow for Dual-Sparse Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2407.14073)] [[paper with code](https://paperswithcode.com/paper/loas-fully-temporal-parallel-datatflow-for)]
 
