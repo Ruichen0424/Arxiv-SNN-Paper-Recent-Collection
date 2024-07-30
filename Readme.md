@@ -1,8 +1,16 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-07-30)** 
+ ### **Last 5 working days (Updated on 2024-07-31)** 
 
+
+- RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding [[arxiv](https://arxiv.org/abs/2407.20099)] [[paper with code](https://paperswithcode.com/paper/rsc-snn-exploring-the-trade-off-between)] [[code](https://github.com/KemingWu/RSC-SNN)]
+
+- Rouser: Robust SNN training using adaptive threshold learning [[arxiv](https://arxiv.org/abs/2407.19566)] [[paper with code](https://paperswithcode.com/paper/rouser-robust-snn-training-using-adaptive)]
+
+- Accounting for plasticity: An extension of inelastic Constitutive Artificial Neural Networks [[arxiv](https://arxiv.org/abs/2407.19326)] [[paper with code](https://paperswithcode.com/paper/accounting-for-plasticity-an-extension-of)]
+
+- Spatio-temporal Structure of Excitation and Inhibition Emerges in Spiking Neural Networks with and without Biologically Plausible Constraints [[arxiv](https://arxiv.org/abs/2407.18917)] [[paper with code](https://paperswithcode.com/paper/spatio-temporal-structure-of-excitation-and)]
 
 - The Role of Temporal Hierarchy in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2407.18838)] [[paper with code](https://paperswithcode.com/paper/the-role-of-temporal-hierarchy-in-spiking)]
 
@@ -13,10 +21,4 @@
 - Continual Learning in Bio-plausible Spiking Neural Networks with Hebbian and Spike Timing Dependent Plasticity: A Survey and Perspective [[arxiv](https://arxiv.org/abs/2407.17305)] [[paper with code](https://paperswithcode.com/paper/continual-learning-in-bio-plausible-spiking)]
 
 - A Quantum Leaky Integrate-and-Fire Spiking Neuron and Network [[arxiv](https://arxiv.org/abs/2407.16398)] [[paper with code](https://paperswithcode.com/paper/a-quantum-leaky-integrate-and-fire-spiking)] [[code](https://github.com/deanbrand/QSNN)]
-
-- SwinSF: Image Reconstruction from Spatial-Temporal Spike Streams [[arxiv](https://arxiv.org/abs/2407.15708)] [[paper with code](https://paperswithcode.com/paper/swinsf-image-reconstruction-from-spatial)] [[code](https://github.com/bupt-ai-cz/SwinSF)]
-
-- SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator [[arxiv](https://arxiv.org/abs/2407.15152)] [[paper with code](https://paperswithcode.com/paper/snngx-securing-spiking-neural-networks-with)] [[code](https://github.com/u3556440/SNNGX_qSNN_encryption)]
-
-- Towards a "universal translator" for neural dynamics at single-cell, single-spike resolution [[arxiv](https://arxiv.org/abs/2407.14668)] [[paper with code](https://paperswithcode.com/paper/towards-a-universal-translator-for-neural)]
 
