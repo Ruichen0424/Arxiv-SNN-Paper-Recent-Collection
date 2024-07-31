@@ -1,8 +1,20 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-07-31)** 
+ ### **Last 5 working days (Updated on 2024-08-01)** 
 
+
+- An Asynchronous Multi-core Accelerator for SNN inference [[arxiv](https://arxiv.org/abs/2407.20947)] [[paper with code](https://paperswithcode.com/paper/an-asynchronous-multi-core-accelerator-for)]
+
+- Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection [[arxiv](https://arxiv.org/abs/2407.20708)] [[paper with code](https://paperswithcode.com/paper/integer-valued-training-and-spike-driven)] [[code](https://github.com/biclab/spikeyolo)]
+
+- Spiking-DD: Neuromorphic Event Camera based Driver Distraction Detection with Spiking Neural Network [[arxiv](https://arxiv.org/abs/2407.20633)] [[paper with code](https://paperswithcode.com/paper/spiking-dd-neuromorphic-event-camera-based)]
+
+- Neuromorphic on-chip reservoir computing with spiking neural network architectures [[arxiv](https://arxiv.org/abs/2407.20547)] [[paper with code](https://paperswithcode.com/paper/neuromorphic-on-chip-reservoir-computing-with)]
+
+- Unveiling the Potential of Spiking Dynamics in Graph Representation Learning through Spatial-Temporal Normalization and Coding Strategies [[arxiv](https://arxiv.org/abs/2407.20508)] [[paper with code](https://paperswithcode.com/paper/unveiling-the-potential-of-spiking-dynamics)]
+
+- Event-based Optical Flow on Neuromorphic Processor: ANN vs. SNN Comparison based on Activation Sparsification [[arxiv](https://arxiv.org/abs/2407.20421)] [[paper with code](https://paperswithcode.com/paper/event-based-optical-flow-on-neuromorphic)]
 
 - RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding [[arxiv](https://arxiv.org/abs/2407.20099)] [[paper with code](https://paperswithcode.com/paper/rsc-snn-exploring-the-trade-off-between)] [[code](https://github.com/KemingWu/RSC-SNN)]
 
@@ -19,6 +31,4 @@
 - Spiking Neural Networks in Vertical Federated Learning: Performance Trade-offs [[arxiv](https://arxiv.org/abs/2407.17672)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-networks-in-vertical-federated)]
 
 - Continual Learning in Bio-plausible Spiking Neural Networks with Hebbian and Spike Timing Dependent Plasticity: A Survey and Perspective [[arxiv](https://arxiv.org/abs/2407.17305)] [[paper with code](https://paperswithcode.com/paper/continual-learning-in-bio-plausible-spiking)]
-
-- A Quantum Leaky Integrate-and-Fire Spiking Neuron and Network [[arxiv](https://arxiv.org/abs/2407.16398)] [[paper with code](https://paperswithcode.com/paper/a-quantum-leaky-integrate-and-fire-spiking)] [[code](https://github.com/deanbrand/QSNN)]
 
