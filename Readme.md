@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-08-01)** 
+ ### **Last 5 working days (Updated on 2024-08-02)** 
 
 
 - An Asynchronous Multi-core Accelerator for SNN inference [[arxiv](https://arxiv.org/abs/2407.20947)] [[paper with code](https://paperswithcode.com/paper/an-asynchronous-multi-core-accelerator-for)]
@@ -29,6 +29,4 @@
 - Topology Optimization of Random Memristors for Input-Aware Dynamic SNN [[arxiv](https://arxiv.org/abs/2407.18625)] [[paper with code](https://paperswithcode.com/paper/topology-optimization-of-random-memristors)]
 
 - Spiking Neural Networks in Vertical Federated Learning: Performance Trade-offs [[arxiv](https://arxiv.org/abs/2407.17672)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-networks-in-vertical-federated)]
-
-- Continual Learning in Bio-plausible Spiking Neural Networks with Hebbian and Spike Timing Dependent Plasticity: A Survey and Perspective [[arxiv](https://arxiv.org/abs/2407.17305)] [[paper with code](https://paperswithcode.com/paper/continual-learning-in-bio-plausible-spiking)]
 
