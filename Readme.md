@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-08-02)** 
+ ### **Last 5 working days (Updated on 2024-08-03)** 
 
+
+- Using CSNNs to Perform Event-based Data Processing & Classification on ASL-DVS [[arxiv](https://arxiv.org/abs/2408.00611)]
+
+- Towards Scalable GPU-Accelerated SNN Training via Temporal Fusion [[arxiv](https://arxiv.org/abs/2408.00280)]
 
 - An Asynchronous Multi-core Accelerator for SNN inference [[arxiv](https://arxiv.org/abs/2407.20947)] [[paper with code](https://paperswithcode.com/paper/an-asynchronous-multi-core-accelerator-for)]
 
@@ -27,6 +31,4 @@
 - The Role of Temporal Hierarchy in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2407.18838)] [[paper with code](https://paperswithcode.com/paper/the-role-of-temporal-hierarchy-in-spiking)]
 
 - Topology Optimization of Random Memristors for Input-Aware Dynamic SNN [[arxiv](https://arxiv.org/abs/2407.18625)] [[paper with code](https://paperswithcode.com/paper/topology-optimization-of-random-memristors)]
-
-- Spiking Neural Networks in Vertical Federated Learning: Performance Trade-offs [[arxiv](https://arxiv.org/abs/2407.17672)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-networks-in-vertical-federated)]
 
