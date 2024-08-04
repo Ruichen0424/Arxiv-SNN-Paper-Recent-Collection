@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-08-04)** 
+ ### **Last 5 working days (Updated on 2024-08-05)** 
 
 
 - Using CSNNs to Perform Event-based Data Processing & Classification on ASL-DVS [[arxiv](https://arxiv.org/abs/2408.00611)]
