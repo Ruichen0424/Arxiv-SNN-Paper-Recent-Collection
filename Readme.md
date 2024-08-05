@@ -1,8 +1,16 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-08-05)** 
+ ### **Last 5 working days (Updated on 2024-08-06)** 
 
+
+- Continuous-Time Neural Networks Can Stably Memorize Random Spike Trains [[arxiv](https://arxiv.org/abs/2408.01166)]
+
+- CCSRP: Robust Pruning of Spiking Neural Networks through Cooperative Coevolution [[arxiv](https://arxiv.org/abs/2408.00794)]
+
+- SpikeVoice: High-Quality Text-to-Speech Via Efficient Spiking Neural Network [[arxiv](https://arxiv.org/abs/2408.00788)]
+
+- Spike Talk: Genesis and Neural Coding Scheme Translations [[arxiv](https://arxiv.org/abs/2408.00773)]
 
 - Using CSNNs to Perform Event-based Data Processing & Classification on ASL-DVS [[arxiv](https://arxiv.org/abs/2408.00611)]
 
@@ -27,8 +35,4 @@
 - Accounting for plasticity: An extension of inelastic Constitutive Artificial Neural Networks [[arxiv](https://arxiv.org/abs/2407.19326)] [[paper with code](https://paperswithcode.com/paper/accounting-for-plasticity-an-extension-of)]
 
 - Spatio-temporal Structure of Excitation and Inhibition Emerges in Spiking Neural Networks with and without Biologically Plausible Constraints [[arxiv](https://arxiv.org/abs/2407.18917)] [[paper with code](https://paperswithcode.com/paper/spatio-temporal-structure-of-excitation-and)]
-
-- The Role of Temporal Hierarchy in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2407.18838)] [[paper with code](https://paperswithcode.com/paper/the-role-of-temporal-hierarchy-in-spiking)]
-
-- Topology Optimization of Random Memristors for Input-Aware Dynamic SNN [[arxiv](https://arxiv.org/abs/2407.18625)] [[paper with code](https://paperswithcode.com/paper/topology-optimization-of-random-memristors)]
 
