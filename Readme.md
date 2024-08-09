@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-08-09)** 
+ ### **Last 5 working days (Updated on 2024-08-10)** 
 
+
+- Sparse Spiking Neural-like Membrane Systems on Graphics Processing Units [[arxiv](https://arxiv.org/abs/2408.04343)] [[paper with code](https://paperswithcode.com/paper/sparse-spiking-neural-like-membrane-systems)]
 
 - Synaptic Modulation using Interspike Intervals Increases Energy Efficiency of Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2408.02961)] [[paper with code](https://paperswithcode.com/paper/2408-02961)]
 
@@ -17,8 +19,4 @@
 - SpikeVoice: High-Quality Text-to-Speech Via Efficient Spiking Neural Network [[arxiv](https://arxiv.org/abs/2408.00788)] [[paper with code](https://paperswithcode.com/paper/2408-00788)]
 
 - Spike Talk: Genesis and Neural Coding Scheme Translations [[arxiv](https://arxiv.org/abs/2408.00773)] [[paper with code](https://paperswithcode.com/paper/spike-talk-genesis-and-neural-coding-scheme)]
-
-- Using CSNNs to Perform Event-based Data Processing & Classification on ASL-DVS [[arxiv](https://arxiv.org/abs/2408.00611)] [[paper with code](https://paperswithcode.com/paper/2408-00611)]
-
-- Towards Scalable GPU-Accelerated SNN Training via Temporal Fusion [[arxiv](https://arxiv.org/abs/2408.00280)] [[paper with code](https://paperswithcode.com/paper/2408-00280)]
 
