@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-08-11)** 
+ ### **Last 5 working days (Updated on 2024-08-12)** 
 
 
 - Sparse Spiking Neural-like Membrane Systems on Graphics Processing Units [[arxiv](https://arxiv.org/abs/2408.04343)] [[paper with code](https://paperswithcode.com/paper/sparse-spiking-neural-like-membrane-systems)]
