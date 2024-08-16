@@ -1,22 +1,26 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-08-12)** 
+ ### **Last 5 working days (Updated on 2024-08-17)** 
 
 
-- Sparse Spiking Neural-like Membrane Systems on Graphics Processing Units [[arxiv](https://arxiv.org/abs/2408.04343)] [[paper with code](https://paperswithcode.com/paper/sparse-spiking-neural-like-membrane-systems)]
+- Analog Spiking Neuron in CMOS 28 nm Towards Large-Scale Neuromorphic Processors [[arxiv](https://arxiv.org/abs/2408.07734)] [[paper with code](https://paperswithcode.com/paper/analog-spiking-neuron-in-cmos-28-nm-towards)]
 
-- Synaptic Modulation using Interspike Intervals Increases Energy Efficiency of Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2408.02961)] [[paper with code](https://paperswithcode.com/paper/2408-02961)]
+- Advancing Spatio-Temporal Processing in Spiking Neural Networks through Adaptation [[arxiv](https://arxiv.org/abs/2408.07517)] [[paper with code](https://paperswithcode.com/paper/advancing-spatio-temporal-processing-in)] [[code](https://github.com/IGITUGraz/SE-adlif)]
 
-- Configuring Safe Spiking Neural Controllers for Cyber-Physical Systems through Formal Verification [[arxiv](https://arxiv.org/abs/2408.01996)]
+- DPSNN: Spiking Neural Network for Low-Latency Streaming Speech Enhancement [[arxiv](https://arxiv.org/abs/2408.07388)] [[paper with code](https://paperswithcode.com/paper/dpsnn-spiking-neural-network-for-low-latency)]
 
-- Signal-SGN: A Spiking Graph Convolutional Network for Skeletal Action Recognition via Learning Temporal-Frequency Dynamics [[arxiv](https://arxiv.org/abs/2408.01701)] [[paper with code](https://paperswithcode.com/paper/2408-01701)]
+- The Potential of Combined Learning Strategies to Enhance Energy Efficiency of Spiking Neuromorphic Systems [[arxiv](https://arxiv.org/abs/2408.07150)] [[paper with code](https://paperswithcode.com/paper/the-potential-of-combined-learning-strategies)]
 
-- Continuous-Time Neural Networks Can Stably Memorize Random Spike Trains [[arxiv](https://arxiv.org/abs/2408.01166)]
+- High-dimensional optimization for multi-spiked tensor PCA [[arxiv](https://arxiv.org/abs/2408.06401)] [[paper with code](https://paperswithcode.com/paper/high-dimensional-optimization-for-multi)]
 
-- CCSRP: Robust Pruning of Spiking Neural Networks through Cooperative Coevolution [[arxiv](https://arxiv.org/abs/2408.00794)] [[paper with code](https://paperswithcode.com/paper/2408-00794)]
+- Robust online reconstruction of continuous-time signals from a lean spike train ensemble code [[arxiv](https://arxiv.org/abs/2408.05950)] [[paper with code](https://paperswithcode.com/paper/robust-online-reconstruction-of-continuous)]
 
-- SpikeVoice: High-Quality Text-to-Speech Via Efficient Spiking Neural Network [[arxiv](https://arxiv.org/abs/2408.00788)] [[paper with code](https://paperswithcode.com/paper/2408-00788)]
+- On the Solvability of the {XOR} Problem by Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2408.05845)] [[paper with code](https://paperswithcode.com/paper/on-the-solvability-of-the-xor-problem-by)]
 
-- Spike Talk: Genesis and Neural Coding Scheme Translations [[arxiv](https://arxiv.org/abs/2408.00773)] [[paper with code](https://paperswithcode.com/paper/spike-talk-genesis-and-neural-coding-scheme)]
+- Cellular Plasticity Model for Bottom-Up Robotic Design [[arxiv](https://arxiv.org/abs/2408.05604)]
+
+- Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings [[arxiv](https://arxiv.org/abs/2306.17670)] [[paper with code](https://paperswithcode.com/paper/learning-delays-in-spiking-neural-networks)] [[code](https://github.com/thvnvtos/snn-delays)]
+
+- Overcoming the Limitations of Layer Synchronization in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2408.05098)] [[paper with code](https://paperswithcode.com/paper/overcoming-the-limitations-of-layer)]
 
