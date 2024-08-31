@@ -1,26 +1,34 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-08-18)** 
+ ### **Last 5 working days (Updated on 2024-08-31)** 
 
 
-- Analog Spiking Neuron in CMOS 28 nm Towards Large-Scale Neuromorphic Processors [[arxiv](https://arxiv.org/abs/2408.07734)] [[paper with code](https://paperswithcode.com/paper/analog-spiking-neuron-in-cmos-28-nm-towards)]
+- Human-Inspired Audio-Visual Speech Recognition: Spike Activity, Cueing Interaction and Causal Processing [[arxiv](https://arxiv.org/abs/2408.16564)]
 
-- Advancing Spatio-Temporal Processing in Spiking Neural Networks through Adaptation [[arxiv](https://arxiv.org/abs/2408.07517)] [[paper with code](https://paperswithcode.com/paper/advancing-spatio-temporal-processing-in)] [[code](https://github.com/IGITUGraz/SE-adlif)]
+- Spiking Diffusion Models [[arxiv](https://arxiv.org/abs/2408.16467)] [[paper with code](https://paperswithcode.com/paper/spiking-diffusion-models)] [[code](https://github.com/andycao1125/sdm)]
 
-- DPSNN: Spiking Neural Network for Low-Latency Streaming Speech Enhancement [[arxiv](https://arxiv.org/abs/2408.07388)] [[paper with code](https://paperswithcode.com/paper/dpsnn-spiking-neural-network-for-low-latency)]
+- NeuroVE: Brain-inspired Linear-Angular Velocity Estimation with Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2408.15663)]
 
-- The Potential of Combined Learning Strategies to Enhance Energy Efficiency of Spiking Neuromorphic Systems [[arxiv](https://arxiv.org/abs/2408.07150)] [[paper with code](https://paperswithcode.com/paper/the-potential-of-combined-learning-strategies)]
+- FireFly-S: Exploiting Dual-Side Sparsity for Spiking Neural Networks Acceleration with Reconfigurable Spatial Architecture [[arxiv](https://arxiv.org/abs/2408.15578)]
 
-- High-dimensional optimization for multi-spiked tensor PCA [[arxiv](https://arxiv.org/abs/2408.06401)] [[paper with code](https://paperswithcode.com/paper/high-dimensional-optimization-for-multi)]
+- PMSN: A Parallel Multi-compartment Spiking Neuron for Multi-scale Temporal Processing [[arxiv](https://arxiv.org/abs/2408.14917)] [[paper with code](https://paperswithcode.com/paper/pmsn-a-parallel-multi-compartment-spiking)]
 
-- Robust online reconstruction of continuous-time signals from a lean spike train ensemble code [[arxiv](https://arxiv.org/abs/2408.05950)] [[paper with code](https://paperswithcode.com/paper/robust-online-reconstruction-of-continuous)]
+- SpikingSSMs: Learning Long Sequences with Sparse and Parallel Spiking State Space Models [[arxiv](https://arxiv.org/abs/2408.14909)] [[paper with code](https://paperswithcode.com/paper/spikingssms-learning-long-sequences-with)]
 
-- On the Solvability of the {XOR} Problem by Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2408.05845)] [[paper with code](https://paperswithcode.com/paper/on-the-solvability-of-the-xor-problem-by)]
+- Automated model discovery of finite strain elastoplasticity from uniaxial experiments [[arxiv](https://arxiv.org/abs/2408.14615)]
 
-- Cellular Plasticity Model for Bottom-Up Robotic Design [[arxiv](https://arxiv.org/abs/2408.05604)]
+- SHEDAD: SNN-Enhanced District Heating Anomaly Detection for Urban Substations [[arxiv](https://arxiv.org/abs/2408.14499)] [[paper with code](https://paperswithcode.com/paper/shedad-snn-enhanced-district-heating-anomaly)]
 
-- Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings [[arxiv](https://arxiv.org/abs/2306.17670)] [[paper with code](https://paperswithcode.com/paper/learning-delays-in-spiking-neural-networks)] [[code](https://github.com/thvnvtos/snn-delays)]
+- Sparsity-Aware Hardware-Software Co-Design of Spiking Neural Networks: An Overview [[arxiv](https://arxiv.org/abs/2408.14437)] [[paper with code](https://paperswithcode.com/paper/sparsity-aware-hardware-software-co-design-of)]
 
-- Overcoming the Limitations of Layer Synchronization in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2408.05098)] [[paper with code](https://paperswithcode.com/paper/overcoming-the-limitations-of-layer)]
+- Research Advances and New Paradigms for Biology-inspired Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2408.13996)] [[paper with code](https://paperswithcode.com/paper/research-advances-and-new-paradigms-for)]
+
+- N-DriverMotion: Driver motion learning and prediction using an event-based camera and directly trained spiking neural networks [[arxiv](https://arxiv.org/abs/2408.13379)] [[paper with code](https://paperswithcode.com/paper/n-drivermotion-driver-motion-learning-and)]
+
+- Energy-Efficient Spiking Recurrent Neural Network for Gesture Recognition on Embedded GPUs [[arxiv](https://arxiv.org/abs/2408.12978)] [[paper with code](https://paperswithcode.com/paper/energy-efficient-spiking-recurrent-neural)]
+
+- When In-memory Computing Meets Spiking Neural Networks -- A Perspective on Device-Circuit-System-and-Algorithm Co-design [[arxiv](https://arxiv.org/abs/2408.12767)] [[paper with code](https://paperswithcode.com/paper/when-in-memory-computing-meets-spiking-neural)]
+
+- A frugal Spiking Neural Network for unsupervised classification of continuous multivariate temporal data [[arxiv](https://arxiv.org/abs/2408.12608)] [[paper with code](https://paperswithcode.com/paper/a-frugal-spiking-neural-network-for)]
 
