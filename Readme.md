@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-09-08)** 
+ ### **Last 5 working days (Updated on 2024-09-09)** 
 
 
 - Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications [[arxiv](https://arxiv.org/abs/2409.03368)] [[paper with code](https://paperswithcode.com/paper/training-free-conversion-of-pretrained-anns)]
