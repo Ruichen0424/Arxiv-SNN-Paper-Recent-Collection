@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-09-09)** 
+ ### **Last 5 working days (Updated on 2024-09-10)** 
 
+
+- Hybrid Spiking Neural Networks for Low-Power Intra-Cortical Brain-Machine Interfaces [[arxiv](https://arxiv.org/abs/2409.04428)] [[paper with code](https://paperswithcode.com/paper/hybrid-spiking-neural-networks-for-low-power)]
+
+- SDformerFlow: Spatiotemporal swin spikeformer for event-based optical flow estimation [[arxiv](https://arxiv.org/abs/2409.04082)] [[paper with code](https://paperswithcode.com/paper/sdformerflow-spatiotemporal-swin-spikeformer)] [[code](https://github.com/yitian97/SDformerFlow)]
 
 - Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications [[arxiv](https://arxiv.org/abs/2409.03368)] [[paper with code](https://paperswithcode.com/paper/training-free-conversion-of-pretrained-anns)]
 
@@ -31,8 +35,4 @@
 - Digit Recognition using Multimodal Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2409.00552)] [[paper with code](https://paperswithcode.com/paper/digit-recognition-using-multimodal-spiking)]
 
 - Stepwise Weighted Spike Coding for Deep Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2408.17245)] [[paper with code](https://paperswithcode.com/paper/stepwise-weighted-spike-coding-for-deep)]
-
-- Human-Inspired Audio-Visual Speech Recognition: Spike Activity, Cueing Interaction and Causal Processing [[arxiv](https://arxiv.org/abs/2408.16564)]
-
-- Spiking Diffusion Models [[arxiv](https://arxiv.org/abs/2408.16467)] [[paper with code](https://paperswithcode.com/paper/spiking-diffusion-models)] [[code](https://github.com/andycao1125/sdm)]
 
