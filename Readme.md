@@ -1,8 +1,14 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-09-10)** 
+ ### **Last 5 working days (Updated on 2024-09-11)** 
 
+
+- SpikingRx: From Neural to Spiking Receiver [[arxiv](https://arxiv.org/abs/2409.05610)]
+
+- Time-independent Spiking Neuron via Membrane Potential Estimation for Efficient Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2409.04978)] [[paper with code](https://paperswithcode.com/paper/time-independent-spiking-neuron-via-membrane)] [[code](https://github.com/chrazqee/mpe-psn)]
+
+- Learning polycrystal plasticity using mesh-based subgraph geometric deep learning [[arxiv](https://arxiv.org/abs/2409.05169)] [[paper with code](https://paperswithcode.com/paper/learning-polycrystal-plasticity-using-mesh)]
 
 - Hybrid Spiking Neural Networks for Low-Power Intra-Cortical Brain-Machine Interfaces [[arxiv](https://arxiv.org/abs/2409.04428)] [[paper with code](https://paperswithcode.com/paper/hybrid-spiking-neural-networks-for-low-power)]
 
@@ -33,6 +39,4 @@
 - Decoding finger velocity from cortical spike trains with recurrent spiking neural networks [[arxiv](https://arxiv.org/abs/2409.01762)] [[paper with code](https://paperswithcode.com/paper/decoding-finger-velocity-from-cortical-spike)] [[code](https://github.com/fmi-basel/neural-decoding-RSNN)]
 
 - Digit Recognition using Multimodal Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2409.00552)] [[paper with code](https://paperswithcode.com/paper/digit-recognition-using-multimodal-spiking)]
-
-- Stepwise Weighted Spike Coding for Deep Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2408.17245)] [[paper with code](https://paperswithcode.com/paper/stepwise-weighted-spike-coding-for-deep)]
 
