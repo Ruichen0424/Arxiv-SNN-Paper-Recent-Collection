@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-09-11)** 
+ ### **Last 5 working days (Updated on 2024-09-12)** 
 
 
 - SpikingRx: From Neural to Spiking Receiver [[arxiv](https://arxiv.org/abs/2409.05610)]
@@ -25,18 +25,4 @@
 - Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network [[arxiv](https://arxiv.org/abs/2409.02146)] [[paper with code](https://paperswithcode.com/paper/brain-inspired-online-adaptation-for-remote)]
 
 - Toward Large-scale Spiking Neural Networks: A Comprehensive Survey and Future Directions [[arxiv](https://arxiv.org/abs/2409.02111)]
-
-- SPiKE: 3D Human Pose from Point Cloud Sequences [[arxiv](https://arxiv.org/abs/2409.01879)] [[paper with code](https://paperswithcode.com/paper/spike-3d-human-pose-from-point-cloud)] [[code](https://github.com/iballester/SPiKE)]
-
-- ReSpike: Residual Frames-based Hybrid Spiking Neural Networks for Efficient Action Recognition [[arxiv](https://arxiv.org/abs/2409.01564)] [[paper with code](https://paperswithcode.com/paper/respike-residual-frames-based-hybrid-spiking)]
-
-- CoLaNET -- A Spiking Neural Network with Columnar Layered Architecture for Classification [[arxiv](https://arxiv.org/abs/2409.01230)] [[paper with code](https://paperswithcode.com/paper/colanet-a-spiking-neural-network-with)]
-
-- A More Accurate Approximation of Activation Function with Few Spikes Neurons [[arxiv](https://arxiv.org/abs/2409.00044)] [[paper with code](https://paperswithcode.com/paper/a-more-accurate-approximation-of-activation)]
-
-- TACOS: Task Agnostic Continual Learning in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2409.00021)] [[paper with code](https://paperswithcode.com/paper/tacos-task-agnostic-continual-learning-in)]
-
-- Decoding finger velocity from cortical spike trains with recurrent spiking neural networks [[arxiv](https://arxiv.org/abs/2409.01762)] [[paper with code](https://paperswithcode.com/paper/decoding-finger-velocity-from-cortical-spike)] [[code](https://github.com/fmi-basel/neural-decoding-RSNN)]
-
-- Digit Recognition using Multimodal Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2409.00552)] [[paper with code](https://paperswithcode.com/paper/digit-recognition-using-multimodal-spiking)]
 
