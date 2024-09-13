@@ -1,8 +1,14 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-09-13)** 
+ ### **Last 5 working days (Updated on 2024-09-14)** 
 
+
+- Classifying Images with CoLaNET Spiking Neural Network -- the MNIST Example [[arxiv](https://arxiv.org/abs/2409.07833)] [[paper with code](https://paperswithcode.com/paper/classifying-images-with-colanet-spiking)]
+
+- Training Spiking Neural Networks via Augmented Direct Feedback Alignment [[arxiv](https://arxiv.org/abs/2409.07776)] [[paper with code](https://paperswithcode.com/paper/training-spiking-neural-networks-via)]
+
+- Spike-timing-dependent-plasticity learning in a planar magnetic domain wall artificial synapsis [[arxiv](https://arxiv.org/abs/2409.08055)]
 
 - SpikingRx: From Neural to Spiking Receiver [[arxiv](https://arxiv.org/abs/2409.05610)]
 
@@ -13,8 +19,4 @@
 - Hybrid Spiking Neural Networks for Low-Power Intra-Cortical Brain-Machine Interfaces [[arxiv](https://arxiv.org/abs/2409.04428)] [[paper with code](https://paperswithcode.com/paper/hybrid-spiking-neural-networks-for-low-power)]
 
 - SDformerFlow: Spatiotemporal swin spikeformer for event-based optical flow estimation [[arxiv](https://arxiv.org/abs/2409.04082)] [[paper with code](https://paperswithcode.com/paper/sdformerflow-spatiotemporal-swin-spikeformer)] [[code](https://github.com/yitian97/SDformerFlow)]
-
-- Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications [[arxiv](https://arxiv.org/abs/2409.03368)] [[paper with code](https://paperswithcode.com/paper/training-free-conversion-of-pretrained-anns)]
-
-- Non-stationary and Sparsely-correlated Multi-output Gaussian Process with Spike-and-Slab Prior [[arxiv](https://arxiv.org/abs/2409.03149)] [[paper with code](https://paperswithcode.com/paper/non-stationary-and-sparsely-correlated-multi)]
 
