@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-09-15)** 
+ ### **Last 5 working days (Updated on 2024-09-16)** 
 
 
 - Classifying Images with CoLaNET Spiking Neural Network -- the MNIST Example [[arxiv](https://arxiv.org/abs/2409.07833)] [[paper with code](https://paperswithcode.com/paper/classifying-images-with-colanet-spiking)]
