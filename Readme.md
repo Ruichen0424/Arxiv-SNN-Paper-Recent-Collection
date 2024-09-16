@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-09-16)** 
+ ### **Last 5 working days (Updated on 2024-09-17)** 
 
+
+- Reconsidering the energy efficiency of spiking neural networks [[arxiv](https://arxiv.org/abs/2409.08290)] [[paper with code](https://paperswithcode.com/paper/reconsidering-the-energy-efficiency-of)]
 
 - Classifying Images with CoLaNET Spiking Neural Network -- the MNIST Example [[arxiv](https://arxiv.org/abs/2409.07833)] [[paper with code](https://paperswithcode.com/paper/classifying-images-with-colanet-spiking)]
 
@@ -15,8 +17,4 @@
 - Time-independent Spiking Neuron via Membrane Potential Estimation for Efficient Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2409.04978)] [[paper with code](https://paperswithcode.com/paper/time-independent-spiking-neuron-via-membrane)] [[code](https://github.com/chrazqee/mpe-psn)]
 
 - Learning polycrystal plasticity using mesh-based subgraph geometric deep learning [[arxiv](https://arxiv.org/abs/2409.05169)] [[paper with code](https://paperswithcode.com/paper/learning-polycrystal-plasticity-using-mesh)]
-
-- Hybrid Spiking Neural Networks for Low-Power Intra-Cortical Brain-Machine Interfaces [[arxiv](https://arxiv.org/abs/2409.04428)] [[paper with code](https://paperswithcode.com/paper/hybrid-spiking-neural-networks-for-low-power)]
-
-- SDformerFlow: Spatiotemporal swin spikeformer for event-based optical flow estimation [[arxiv](https://arxiv.org/abs/2409.04082)] [[paper with code](https://paperswithcode.com/paper/sdformerflow-spatiotemporal-swin-spikeformer)] [[code](https://github.com/yitian97/SDformerFlow)]
 
