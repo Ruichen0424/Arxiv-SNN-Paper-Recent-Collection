@@ -1,8 +1,14 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-09-19)** 
+ ### **Last 5 working days (Updated on 2024-09-20)** 
 
+
+- Hardware-Friendly Implementation of Physical Reservoir Computing with CMOS-based Time-domain Analog Spiking Neurons [[arxiv](https://arxiv.org/abs/2409.11612)] [[paper with code](https://paperswithcode.com/paper/hardware-friendly-implementation-of-physical)]
+
+- Inferno: An Extensible Framework for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2409.11567)] [[paper with code](https://paperswithcode.com/paper/inferno-an-extensible-framework-for-spiking)] [[code](https://github.com/mdominijanni/inferno)]
+
+- Hyperspectral Image Classification Based on Faster Residual Multi-branch Spiking Neural Network [[arxiv](https://arxiv.org/abs/2409.11619)] [[paper with code](https://paperswithcode.com/paper/hyperspectral-image-classification-based-on-3)]
 
 - SDP: Spiking Diffusion Policy for Robotic Manipulation with Learnable Channel-Wise Membrane Thresholds [[arxiv](https://arxiv.org/abs/2409.11195)] [[paper with code](https://paperswithcode.com/paper/sdp-spiking-diffusion-policy-for-robotic)]
 
