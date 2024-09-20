@@ -1,8 +1,14 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-09-20)** 
+ ### **Last 5 working days (Updated on 2024-09-21)** 
 
+
+- The Robustness of Spiking Neural Networks in Communication and its Application towards Network Efficiency in Federated Learning [[arxiv](https://arxiv.org/abs/2409.12769)]
+
+- A dynamic vision sensor object recognition model based on trainable event-driven convolution and spiking attention mechanism [[arxiv](https://arxiv.org/abs/2409.12691)]
+
+- Towards Low-latency Event-based Visual Recognition with Hybrid Step-wise Distillation Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2409.12507)]
 
 - Hardware-Friendly Implementation of Physical Reservoir Computing with CMOS-based Time-domain Analog Spiking Neurons [[arxiv](https://arxiv.org/abs/2409.11612)] [[paper with code](https://paperswithcode.com/paper/hardware-friendly-implementation-of-physical)]
 
@@ -15,10 +21,4 @@
 - Micropolar elastoplasticity using a fast Fourier transform-based solver [[arxiv](https://arxiv.org/abs/2409.10774)]
 
 - Reconsidering the energy efficiency of spiking neural networks [[arxiv](https://arxiv.org/abs/2409.08290)] [[paper with code](https://paperswithcode.com/paper/reconsidering-the-energy-efficiency-of)]
-
-- Classifying Images with CoLaNET Spiking Neural Network -- the MNIST Example [[arxiv](https://arxiv.org/abs/2409.07833)] [[paper with code](https://paperswithcode.com/paper/classifying-images-with-colanet-spiking)]
-
-- Training Spiking Neural Networks via Augmented Direct Feedback Alignment [[arxiv](https://arxiv.org/abs/2409.07776)] [[paper with code](https://paperswithcode.com/paper/training-spiking-neural-networks-via)]
-
-- Spike-timing-dependent-plasticity learning in a planar magnetic domain wall artificial synapsis [[arxiv](https://arxiv.org/abs/2409.08055)]
 
