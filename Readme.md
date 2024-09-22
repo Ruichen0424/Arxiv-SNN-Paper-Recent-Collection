@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-09-22)** 
+ ### **Last 5 working days (Updated on 2024-09-23)** 
 
 
 - The Robustness of Spiking Neural Networks in Communication and its Application towards Network Efficiency in Federated Learning [[arxiv](https://arxiv.org/abs/2409.12769)] [[paper with code](https://paperswithcode.com/paper/the-robustness-of-spiking-neural-networks-in)]
