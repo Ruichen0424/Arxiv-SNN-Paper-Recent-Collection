@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-09-23)** 
+ ### **Last 5 working days (Updated on 2024-09-24)** 
 
+
+- FaFeSort: A Fast and Few-shot End-to-end Neural Network for Multi-channel Spike Sorting [[arxiv](https://arxiv.org/abs/2409.13067)]
 
 - The Robustness of Spiking Neural Networks in Communication and its Application towards Network Efficiency in Federated Learning [[arxiv](https://arxiv.org/abs/2409.12769)] [[paper with code](https://paperswithcode.com/paper/the-robustness-of-spiking-neural-networks-in)]
 
@@ -19,6 +21,4 @@
 - SDP: Spiking Diffusion Policy for Robotic Manipulation with Learnable Channel-Wise Membrane Thresholds [[arxiv](https://arxiv.org/abs/2409.11195)] [[paper with code](https://paperswithcode.com/paper/sdp-spiking-diffusion-policy-for-robotic)]
 
 - Micropolar elastoplasticity using a fast Fourier transform-based solver [[arxiv](https://arxiv.org/abs/2409.10774)]
-
-- Reconsidering the energy efficiency of spiking neural networks [[arxiv](https://arxiv.org/abs/2409.08290)] [[paper with code](https://paperswithcode.com/paper/reconsidering-the-energy-efficiency-of)]
 
