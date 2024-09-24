@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-09-24)** 
+ ### **Last 5 working days (Updated on 2024-09-25)** 
 
+
+- SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream [[arxiv](https://arxiv.org/abs/2409.15176)] [[paper with code](https://paperswithcode.com/paper/spikegs-learning-3d-gaussian-fields-from)]
 
 - FaFeSort: A Fast and Few-shot End-to-end Neural Network for Multi-channel Spike Sorting [[arxiv](https://arxiv.org/abs/2409.13067)]
 
