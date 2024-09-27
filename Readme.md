@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-09-27)** 
+ ### **Last 5 working days (Updated on 2024-09-28)** 
 
+
+- Functional Classification of Spiking Signal Data Using Artificial Intelligence Techniques: A Review [[arxiv](https://arxiv.org/abs/2409.17516)] [[paper with code](https://paperswithcode.com/paper/functional-classification-of-spiking-signal)]
+
+- Neural Network Plasticity and Loss Sharpness [[arxiv](https://arxiv.org/abs/2409.17300)] [[paper with code](https://paperswithcode.com/paper/neural-network-plasticity-and-loss-sharpness)]
 
 - Twin Network Augmentation: A Novel Training Strategy for Improved Spiking Neural Networks and Efficient Weight Quantization [[arxiv](https://arxiv.org/abs/2409.15849)] [[paper with code](https://paperswithcode.com/paper/twin-network-augmentation-a-novel-training)]
 
@@ -15,10 +19,4 @@
 - SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream [[arxiv](https://arxiv.org/abs/2409.15176)] [[paper with code](https://paperswithcode.com/paper/spikegs-learning-3d-gaussian-fields-from)] [[code](https://github.com/520jz/spikegs)]
 
 - FaFeSort: A Fast and Few-shot End-to-end Neural Network for Multi-channel Spike Sorting [[arxiv](https://arxiv.org/abs/2409.13067)]
-
-- The Robustness of Spiking Neural Networks in Communication and its Application towards Network Efficiency in Federated Learning [[arxiv](https://arxiv.org/abs/2409.12769)] [[paper with code](https://paperswithcode.com/paper/the-robustness-of-spiking-neural-networks-in)]
-
-- A dynamic vision sensor object recognition model based on trainable event-driven convolution and spiking attention mechanism [[arxiv](https://arxiv.org/abs/2409.12691)] [[paper with code](https://paperswithcode.com/paper/a-dynamic-vision-sensor-object-recognition)]
-
-- Towards Low-latency Event-based Visual Recognition with Hybrid Step-wise Distillation Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2409.12507)] [[paper with code](https://paperswithcode.com/paper/towards-low-latency-event-based-visual)]
 
