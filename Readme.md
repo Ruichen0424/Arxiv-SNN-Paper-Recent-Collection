@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-09-29)** 
+ ### **Last 5 working days (Updated on 2024-09-30)** 
 
 
 - Functional Classification of Spiking Signal Data Using Artificial Intelligence Techniques: A Review [[arxiv](https://arxiv.org/abs/2409.17516)] [[paper with code](https://paperswithcode.com/paper/functional-classification-of-spiking-signal)]
