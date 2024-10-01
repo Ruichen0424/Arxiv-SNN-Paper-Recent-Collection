@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-10-01)** 
+ ### **Last 5 working days (Updated on 2024-10-02)** 
 
 
 - Heterogeneous quantization regularizes spiking neural network activity [[arxiv](https://arxiv.org/abs/2409.18396)] [[paper with code](https://paperswithcode.com/paper/heterogeneous-quantization-regularizes)]
