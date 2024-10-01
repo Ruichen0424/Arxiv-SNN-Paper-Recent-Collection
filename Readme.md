@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-09-30)** 
+ ### **Last 5 working days (Updated on 2024-10-01)** 
 
+
+- Heterogeneous quantization regularizes spiking neural network activity [[arxiv](https://arxiv.org/abs/2409.18396)] [[paper with code](https://paperswithcode.com/paper/heterogeneous-quantization-regularizes)]
 
 - Functional Classification of Spiking Signal Data Using Artificial Intelligence Techniques: A Review [[arxiv](https://arxiv.org/abs/2409.17516)] [[paper with code](https://paperswithcode.com/paper/functional-classification-of-spiking-signal)]
 
@@ -17,6 +19,4 @@
 - Sorbet: A Neuromorphic Hardware-Compatible Transformer-Based Spiking Language Model [[arxiv](https://arxiv.org/abs/2409.15298)] [[paper with code](https://paperswithcode.com/paper/sorbet-a-neuromorphic-hardware-compatible)]
 
 - SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream [[arxiv](https://arxiv.org/abs/2409.15176)] [[paper with code](https://paperswithcode.com/paper/spikegs-learning-3d-gaussian-fields-from)] [[code](https://github.com/520jz/spikegs)]
-
-- FaFeSort: A Fast and Few-shot End-to-end Neural Network for Multi-channel Spike Sorting [[arxiv](https://arxiv.org/abs/2409.13067)]
 
