@@ -1,22 +1,22 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-10-02)** 
+ ### **Last 5 working days (Updated on 2024-10-03)** 
 
+
+- Deep activity propagation via weight initialization in spiking neural networks [[arxiv](https://arxiv.org/abs/2410.00580)]
+
+- Spiking Transformer with Spatial-Temporal Attention [[arxiv](https://arxiv.org/abs/2409.19764)] [[paper with code](https://paperswithcode.com/paper/spiking-transformer-with-spatial-temporal)]
+
+- Membership Privacy Evaluation in Deep Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2409.19413)] [[paper with code](https://paperswithcode.com/paper/membership-privacy-evaluation-in-deep-spiking)]
+
+- Enhancing GANs with Contrastive Learning-Based Multistage Progressive Finetuning SNN and RL-Based External Optimization [[arxiv](https://arxiv.org/abs/2409.20340)] [[paper with code](https://paperswithcode.com/paper/enhancing-gans-with-contrastive-learning)]
+
+- Random Features Outperform Linear Models: Effect of Strong Input-Label Correlation in Spiked Covariance Data [[arxiv](https://arxiv.org/abs/2409.20250)] [[paper with code](https://paperswithcode.com/paper/random-features-outperform-linear-models)]
 
 - Heterogeneous quantization regularizes spiking neural network activity [[arxiv](https://arxiv.org/abs/2409.18396)] [[paper with code](https://paperswithcode.com/paper/heterogeneous-quantization-regularizes)]
 
 - Functional Classification of Spiking Signal Data Using Artificial Intelligence Techniques: A Review [[arxiv](https://arxiv.org/abs/2409.17516)] [[paper with code](https://paperswithcode.com/paper/functional-classification-of-spiking-signal)]
 
 - Neural Network Plasticity and Loss Sharpness [[arxiv](https://arxiv.org/abs/2409.17300)] [[paper with code](https://paperswithcode.com/paper/neural-network-plasticity-and-loss-sharpness)]
-
-- Twin Network Augmentation: A Novel Training Strategy for Improved Spiking Neural Networks and Efficient Weight Quantization [[arxiv](https://arxiv.org/abs/2409.15849)] [[paper with code](https://paperswithcode.com/paper/twin-network-augmentation-a-novel-training)]
-
-- Data Poisoning-based Backdoor Attack Framework against Supervised Learning Rules of Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2409.15670)] [[paper with code](https://paperswithcode.com/paper/data-poisoning-based-backdoor-attack)]
-
-- DS2TA: Denoising Spiking Transformer with Attenuated Spatiotemporal Attention [[arxiv](https://arxiv.org/abs/2409.15375)] [[paper with code](https://paperswithcode.com/paper/ds2ta-denoising-spiking-transformer-with)]
-
-- Sorbet: A Neuromorphic Hardware-Compatible Transformer-Based Spiking Language Model [[arxiv](https://arxiv.org/abs/2409.15298)] [[paper with code](https://paperswithcode.com/paper/sorbet-a-neuromorphic-hardware-compatible)]
-
-- SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream [[arxiv](https://arxiv.org/abs/2409.15176)] [[paper with code](https://paperswithcode.com/paper/spikegs-learning-3d-gaussian-fields-from)] [[code](https://github.com/520jz/spikegs)]
 
