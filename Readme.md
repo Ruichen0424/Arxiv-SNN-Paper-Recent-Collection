@@ -1,10 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-10-03)** 
+ ### **Last 5 working days (Updated on 2024-10-04)** 
 
 
-- Deep activity propagation via weight initialization in spiking neural networks [[arxiv](https://arxiv.org/abs/2410.00580)]
+- Deep activity propagation via weight initialization in spiking neural networks [[arxiv](https://arxiv.org/abs/2410.00580)] [[paper with code](https://paperswithcode.com/paper/deep-activity-propagation-via-weight)]
 
 - Spiking Transformer with Spatial-Temporal Attention [[arxiv](https://arxiv.org/abs/2409.19764)] [[paper with code](https://paperswithcode.com/paper/spiking-transformer-with-spatial-temporal)]
 
