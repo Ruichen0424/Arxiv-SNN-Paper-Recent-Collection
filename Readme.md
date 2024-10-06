@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-10-06)** 
+ ### **Last 5 working days (Updated on 2024-10-07)** 
 
 
 - Spiking Neural Network as Adaptive Event Stream Slicer [[arxiv](https://arxiv.org/abs/2410.02249)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-network-as-adaptive-event)]
