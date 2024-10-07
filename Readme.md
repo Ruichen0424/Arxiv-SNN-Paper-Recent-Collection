@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-10-07)** 
+ ### **Last 5 working days (Updated on 2024-10-08)** 
 
+
+- Multiscale fusion enhanced spiking neural network for invasive BCI neural signal decoding [[arxiv](https://arxiv.org/abs/2410.03533)] [[paper with code](https://paperswithcode.com/paper/multiscale-fusion-enhanced-spiking-neural)]
+
+- PRF: Parallel Resonate and Fire Neuron for Long Sequence Learning in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2410.03530)] [[paper with code](https://paperswithcode.com/paper/prf-parallel-resonate-and-fire-neuron-for)]
 
 - Spiking Neural Network as Adaptive Event Stream Slicer [[arxiv](https://arxiv.org/abs/2410.02249)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-network-as-adaptive-event)]
 
@@ -15,6 +19,4 @@
 - Enhancing GANs with Contrastive Learning-Based Multistage Progressive Finetuning SNN and RL-Based External Optimization [[arxiv](https://arxiv.org/abs/2409.20340)] [[paper with code](https://paperswithcode.com/paper/enhancing-gans-with-contrastive-learning)]
 
 - Random Features Outperform Linear Models: Effect of Strong Input-Label Correlation in Spiked Covariance Data [[arxiv](https://arxiv.org/abs/2409.20250)] [[paper with code](https://paperswithcode.com/paper/random-features-outperform-linear-models)]
-
-- Heterogeneous quantization regularizes spiking neural network activity [[arxiv](https://arxiv.org/abs/2409.18396)] [[paper with code](https://paperswithcode.com/paper/heterogeneous-quantization-regularizes)]
 
