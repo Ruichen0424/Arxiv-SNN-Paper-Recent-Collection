@@ -1,8 +1,14 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-10-11)** 
+ ### **Last 5 working days (Updated on 2024-10-12)** 
 
+
+- SNN-PAR: Energy Efficient Pedestrian Attribute Recognition via Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2410.07857)] [[paper with code](https://paperswithcode.com/paper/snn-par-energy-efficient-pedestrian-attribute)] [[code](https://github.com/event-ahu/openpar)]
+
+- Comprehensive Online Training and Deployment for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2410.07547)]
+
+- Spiking GS: Towards High-Accuracy and Low-Cost Surface Reconstruction via Spiking Neuron-based Gaussian Splatting [[arxiv](https://arxiv.org/abs/2410.07266)] [[paper with code](https://paperswithcode.com/paper/spiking-gs-towards-high-accuracy-and-low-cost)] [[code](https://github.com/shippot/spiking_gs)]
 
 - Degree Distribution based Spiking Graph Networks for Domain Adaptation [[arxiv](https://arxiv.org/abs/2410.06883)] [[paper with code](https://paperswithcode.com/paper/degree-distribution-based-spiking-graph)]
 
@@ -12,7 +18,7 @@
 
 - MC-QDSNN: Quantized Deep evolutionary SNN with Multi-Dendritic Compartment Neurons for Stress Detection using Physiological Signals [[arxiv](https://arxiv.org/abs/2410.04992)] [[paper with code](https://paperswithcode.com/paper/mc-qdsnn-quantized-deep-evolutionary-snn-with)]
 
-- Towards Ultra-Low-Power Neuromorphic Speech Enhancement with Spiking-FullSubNet [[arxiv](https://arxiv.org/abs/2410.04785)]
+- Towards Ultra-Low-Power Neuromorphic Speech Enhancement with Spiking-FullSubNet [[arxiv](https://arxiv.org/abs/2410.04785)] [[paper with code](https://paperswithcode.com/paper/towards-ultra-low-power-neuromorphic-speech)] [[code](https://github.com/haoxiangsnr/spiking-fullsubnet)]
 
 - Multiscale fusion enhanced spiking neural network for invasive BCI neural signal decoding [[arxiv](https://arxiv.org/abs/2410.03533)] [[paper with code](https://paperswithcode.com/paper/multiscale-fusion-enhanced-spiking-neural)]
 
