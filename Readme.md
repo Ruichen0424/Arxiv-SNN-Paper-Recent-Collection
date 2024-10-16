@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-10-16)** 
+ ### **Last 5 working days (Updated on 2024-10-17)** 
 
+
+- Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation [[arxiv](https://arxiv.org/abs/2410.11488)] [[paper with code](https://paperswithcode.com/paper/advancing-training-efficiency-of-deep-spiking)] [[code](https://github.com/tab-ct/rate-based-backpropagation)]
+
+- EPi-cKANs: Elasto-Plasticity Informed Kolmogorov-Arnold Networks Using Chebyshev Polynomials [[arxiv](https://arxiv.org/abs/2410.10897)] [[paper with code](https://paperswithcode.com/paper/epi-ckans-elasto-plasticity-informed)]
 
 - Energy-efficient SNN Architecture using 3nm FinFET Multiport SRAM-based CIM with Online Learning [[arxiv](https://arxiv.org/abs/2410.09130)] [[paper with code](https://paperswithcode.com/paper/energy-efficient-snn-architecture-using-3nm)]
 
@@ -23,10 +27,4 @@
 - Degree Distribution based Spiking Graph Networks for Domain Adaptation [[arxiv](https://arxiv.org/abs/2410.06883)] [[paper with code](https://paperswithcode.com/paper/degree-distribution-based-spiking-graph)]
 
 - A Timeline and Analysis for Representation Plasticity in Large Language Models [[arxiv](https://arxiv.org/abs/2410.06225)] [[paper with code](https://paperswithcode.com/paper/a-timeline-and-analysis-for-representation)]
-
-- Initialization of Large Language Models via Reparameterization to Mitigate Loss Spikes [[arxiv](https://arxiv.org/abs/2410.05052)] [[paper with code](https://paperswithcode.com/paper/initialization-of-large-language-models-via)]
-
-- MC-QDSNN: Quantized Deep evolutionary SNN with Multi-Dendritic Compartment Neurons for Stress Detection using Physiological Signals [[arxiv](https://arxiv.org/abs/2410.04992)] [[paper with code](https://paperswithcode.com/paper/mc-qdsnn-quantized-deep-evolutionary-snn-with)]
-
-- Towards Ultra-Low-Power Neuromorphic Speech Enhancement with Spiking-FullSubNet [[arxiv](https://arxiv.org/abs/2410.04785)] [[paper with code](https://paperswithcode.com/paper/towards-ultra-low-power-neuromorphic-speech)] [[code](https://github.com/haoxiangsnr/spiking-fullsubnet)]
 
