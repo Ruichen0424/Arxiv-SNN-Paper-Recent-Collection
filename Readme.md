@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-10-17)** 
+ ### **Last 5 working days (Updated on 2024-10-18)** 
 
+
+- Metal Price Spike Prediction via a Neurosymbolic Ensemble Approach [[arxiv](https://arxiv.org/abs/2410.12785)] [[paper with code](https://paperswithcode.com/paper/metal-price-spike-prediction-via-a)]
 
 - Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation [[arxiv](https://arxiv.org/abs/2410.11488)] [[paper with code](https://paperswithcode.com/paper/advancing-training-efficiency-of-deep-spiking)] [[code](https://github.com/tab-ct/rate-based-backpropagation)]
 
@@ -23,8 +25,4 @@
 - Comprehensive Online Training and Deployment for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2410.07547)] [[paper with code](https://paperswithcode.com/paper/comprehensive-online-training-and-deployment)]
 
 - Spiking GS: Towards High-Accuracy and Low-Cost Surface Reconstruction via Spiking Neuron-based Gaussian Splatting [[arxiv](https://arxiv.org/abs/2410.07266)] [[paper with code](https://paperswithcode.com/paper/spiking-gs-towards-high-accuracy-and-low-cost)] [[code](https://github.com/zju-bmi-lab/spikinggs)]
-
-- Degree Distribution based Spiking Graph Networks for Domain Adaptation [[arxiv](https://arxiv.org/abs/2410.06883)] [[paper with code](https://paperswithcode.com/paper/degree-distribution-based-spiking-graph)]
-
-- A Timeline and Analysis for Representation Plasticity in Large Language Models [[arxiv](https://arxiv.org/abs/2410.06225)] [[paper with code](https://paperswithcode.com/paper/a-timeline-and-analysis-for-representation)]
 
