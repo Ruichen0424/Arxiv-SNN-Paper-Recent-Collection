@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-10-18)** 
+ ### **Last 5 working days (Updated on 2024-10-19)** 
 
 
 - Metal Price Spike Prediction via a Neurosymbolic Ensemble Approach [[arxiv](https://arxiv.org/abs/2410.12785)] [[paper with code](https://paperswithcode.com/paper/metal-price-spike-prediction-via-a)]
@@ -19,10 +19,4 @@
 - Improving Spiking Neural Network Accuracy With Color Model Information Encoded Bit Planes [[arxiv](https://arxiv.org/abs/2410.08229)] [[paper with code](https://paperswithcode.com/paper/improving-spiking-neural-network-accuracy-1)]
 
 - Embedding an ANN-Based Crystal Plasticity Model into the Finite Element Framework using an ABAQUS User-Material Subroutine [[arxiv](https://arxiv.org/abs/2410.08214)] [[paper with code](https://paperswithcode.com/paper/embedding-an-ann-based-crystal-plasticity)]
-
-- SNN-PAR: Energy Efficient Pedestrian Attribute Recognition via Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2410.07857)] [[paper with code](https://paperswithcode.com/paper/snn-par-energy-efficient-pedestrian-attribute)] [[code](https://github.com/event-ahu/openpar)]
-
-- Comprehensive Online Training and Deployment for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2410.07547)] [[paper with code](https://paperswithcode.com/paper/comprehensive-online-training-and-deployment)]
-
-- Spiking GS: Towards High-Accuracy and Low-Cost Surface Reconstruction via Spiking Neuron-based Gaussian Splatting [[arxiv](https://arxiv.org/abs/2410.07266)] [[paper with code](https://paperswithcode.com/paper/spiking-gs-towards-high-accuracy-and-low-cost)] [[code](https://github.com/zju-bmi-lab/spikinggs)]
 
