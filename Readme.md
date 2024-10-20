@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-10-20)** 
+ ### **Last 5 working days (Updated on 2024-10-21)** 
 
 
 - Metal Price Spike Prediction via a Neurosymbolic Ensemble Approach [[arxiv](https://arxiv.org/abs/2410.12785)] [[paper with code](https://paperswithcode.com/paper/metal-price-spike-prediction-via-a)]
