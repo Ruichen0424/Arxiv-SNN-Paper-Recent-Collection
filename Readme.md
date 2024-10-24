@@ -1,8 +1,14 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-10-24)** 
+ ### **Last 5 working days (Updated on 2024-10-25)** 
 
+
+- Spiking Graph Neural Network on Riemannian Manifolds [[arxiv](https://arxiv.org/abs/2410.17941)] [[paper with code](https://paperswithcode.com/paper/spiking-graph-neural-network-on-riemannian)]
+
+- SPikE-SSM: A Sparse, Precise, and Efficient Spiking State Space Model for Long Sequences Learning [[arxiv](https://arxiv.org/abs/2410.17268)] [[paper with code](https://paperswithcode.com/paper/spike-ssm-a-sparse-precise-and-efficient)]
+
+- On the Sampling Sparsity of Neuromorphic Analog-to-Spike Conversion based on Leaky Integrate-and-Fire [[arxiv](https://arxiv.org/abs/2410.17441)] [[paper with code](https://paperswithcode.com/paper/on-the-sampling-sparsity-of-neuromorphic)]
 
 - Neuronal Competition Groups with Supervised STDP for Spike-Based Classification [[arxiv](https://arxiv.org/abs/2410.17066)] [[paper with code](https://paperswithcode.com/paper/neuronal-competition-groups-with-supervised)]
 
@@ -25,6 +31,4 @@
 - BrainTransformers: SNN-LLM [[arxiv](https://arxiv.org/abs/2410.14687)] [[paper with code](https://paperswithcode.com/paper/braintransformers-snn-llm)]
 
 - Generalization for Least Squares Regression With Simple Spiked Covariances [[arxiv](https://arxiv.org/abs/2410.13991)] [[paper with code](https://paperswithcode.com/paper/generalization-for-least-squares-regression)]
-
-- Metal Price Spike Prediction via a Neurosymbolic Ensemble Approach [[arxiv](https://arxiv.org/abs/2410.12785)] [[paper with code](https://paperswithcode.com/paper/metal-price-spike-prediction-via-a)]
 
