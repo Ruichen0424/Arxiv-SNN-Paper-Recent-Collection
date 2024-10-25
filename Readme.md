@@ -1,10 +1,16 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-10-25)** 
+ ### **Last 5 working days (Updated on 2024-10-26)** 
 
 
-- Spiking Graph Neural Network on Riemannian Manifolds [[arxiv](https://arxiv.org/abs/2410.17941)] [[paper with code](https://paperswithcode.com/paper/spiking-graph-neural-network-on-riemannian)]
+- Spatial-Temporal Search for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2410.18580)] [[paper with code](https://paperswithcode.com/paper/spatial-temporal-search-for-spiking-neural)]
+
+- Stochastic gradient descent in high dimensions for multi-spiked tensor PCA [[arxiv](https://arxiv.org/abs/2410.18162)] [[paper with code](https://paperswithcode.com/paper/stochastic-gradient-descent-in-high)]
+
+- Real-time Sub-milliwatt Epilepsy Detection Implemented on a Spiking Neural Network Edge Inference Processor [[arxiv](https://arxiv.org/abs/2410.16613)] [[paper with code](https://paperswithcode.com/paper/real-time-sub-milliwatt-epilepsy-detection)]
+
+- Spiking Graph Neural Network on Riemannian Manifolds [[arxiv](https://arxiv.org/abs/2410.17941)] [[paper with code](https://paperswithcode.com/paper/spiking-graph-neural-network-on-riemannian)] [[code](https://github.com/ZhenhHuang/MSG)]
 
 - SPikE-SSM: A Sparse, Precise, and Efficient Spiking State Space Model for Long Sequences Learning [[arxiv](https://arxiv.org/abs/2410.17268)] [[paper with code](https://paperswithcode.com/paper/spike-ssm-a-sparse-precise-and-efficient)]
 
@@ -17,8 +23,6 @@
 - Gradient-Free Supervised Learning using Spike-Timing-Dependent Plasticity for Image Recognition [[arxiv](https://arxiv.org/abs/2410.16524)] [[paper with code](https://paperswithcode.com/paper/gradient-free-supervised-learning-using-spike)] [[code](https://github.com/wxie2013/gdfree-supervised-snn-mnist)]
 
 - Hardware-Software Co-optimised Fast and Accurate Deep Reconfigurable Spiking Inference Accelerator Architecture Design Methodology [[arxiv](https://arxiv.org/abs/2410.16298)] [[paper with code](https://paperswithcode.com/paper/hardware-software-co-optimised-fast-and)]
-
-- Real-time Sub-milliwatt Epilepsy Detection Implemented on a Spiking Neural Network Edge Inference Processor [[arxiv](https://arxiv.org/abs/2410.16613)] [[paper with code](https://paperswithcode.com/paper/real-time-sub-milliwatt-epilepsy-detection)]
 
 - Spiking Neural Networks as a Controller for Emergent Swarm Agents [[arxiv](https://arxiv.org/abs/2410.16175)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-networks-as-a-controller-for)]
 
