@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-10-27)** 
+ ### **Last 5 working days (Updated on 2024-10-28)** 
 
 
 - Spatial-Temporal Search for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2410.18580)] [[paper with code](https://paperswithcode.com/paper/spatial-temporal-search-for-spiking-neural)]
@@ -18,7 +18,7 @@
 
 - Neuronal Competition Groups with Supervised STDP for Spike-Based Classification [[arxiv](https://arxiv.org/abs/2410.17066)] [[paper with code](https://paperswithcode.com/paper/neuronal-competition-groups-with-supervised)]
 
-- SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition [[arxiv](https://arxiv.org/abs/2410.16746)] [[paper with code](https://paperswithcode.com/paper/spikmamba-when-snn-meets-mamba-in-event-based)]
+- SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition [[arxiv](https://arxiv.org/abs/2410.16746)] [[paper with code](https://paperswithcode.com/paper/spikmamba-when-snn-meets-mamba-in-event-based)] [[code](https://github.com/typistchen/spikmamba)]
 
 - Gradient-Free Supervised Learning using Spike-Timing-Dependent Plasticity for Image Recognition [[arxiv](https://arxiv.org/abs/2410.16524)] [[paper with code](https://paperswithcode.com/paper/gradient-free-supervised-learning-using-spike)] [[code](https://github.com/wxie2013/gdfree-supervised-snn-mnist)]
 
