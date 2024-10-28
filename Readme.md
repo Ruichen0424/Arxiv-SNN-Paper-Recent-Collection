@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-10-28)** 
+ ### **Last 5 working days (Updated on 2024-10-29)** 
 
+
+- Learning Coupled Subspaces for Multi-Condition Spike Data [[arxiv](https://arxiv.org/abs/2410.19153)] [[paper with code](https://paperswithcode.com/paper/learning-coupled-subspaces-for-multi)]
 
 - Spatial-Temporal Search for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2410.18580)] [[paper with code](https://paperswithcode.com/paper/spatial-temporal-search-for-spiking-neural)]
 
@@ -33,6 +35,4 @@
 - Fractional-order spike-timing-dependent gradient descent for multi-layer spiking neural networks [[arxiv](https://arxiv.org/abs/2410.15293)] [[paper with code](https://paperswithcode.com/paper/fractional-order-spike-timing-dependent)]
 
 - BrainTransformers: SNN-LLM [[arxiv](https://arxiv.org/abs/2410.14687)] [[paper with code](https://paperswithcode.com/paper/braintransformers-snn-llm)]
-
-- Generalization for Least Squares Regression With Simple Spiked Covariances [[arxiv](https://arxiv.org/abs/2410.13991)] [[paper with code](https://paperswithcode.com/paper/generalization-for-least-squares-regression)]
 
