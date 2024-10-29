@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-10-29)** 
+ ### **Last 5 working days (Updated on 2024-10-30)** 
 
+
+- Self-Normalized Resets for Plasticity in Continual Learning [[arxiv](https://arxiv.org/abs/2410.20098)] [[paper with code](https://paperswithcode.com/paper/self-normalized-resets-for-plasticity-in)]
 
 - Learning Coupled Subspaces for Multi-Condition Spike Data [[arxiv](https://arxiv.org/abs/2410.19153)] [[paper with code](https://paperswithcode.com/paper/learning-coupled-subspaces-for-multi)]
 
@@ -25,14 +27,4 @@
 - Gradient-Free Supervised Learning using Spike-Timing-Dependent Plasticity for Image Recognition [[arxiv](https://arxiv.org/abs/2410.16524)] [[paper with code](https://paperswithcode.com/paper/gradient-free-supervised-learning-using-spike)] [[code](https://github.com/wxie2013/gdfree-supervised-snn-mnist)]
 
 - Hardware-Software Co-optimised Fast and Accurate Deep Reconfigurable Spiking Inference Accelerator Architecture Design Methodology [[arxiv](https://arxiv.org/abs/2410.16298)] [[paper with code](https://paperswithcode.com/paper/hardware-software-co-optimised-fast-and)]
-
-- Spiking Neural Networks as a Controller for Emergent Swarm Agents [[arxiv](https://arxiv.org/abs/2410.16175)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-networks-as-a-controller-for)]
-
-- Enhancing SNN-based Spatio-Temporal Learning: A Benchmark Dataset and Cross-Modality Attention Model [[arxiv](https://arxiv.org/abs/2410.15689)] [[paper with code](https://paperswithcode.com/paper/enhancing-snn-based-spatio-temporal-learning)] [[code](https://github.com/JasonKitty/DVS-SLR)]
-
-- SNAP: Stopping Catastrophic Forgetting in Hebbian Learning with Sigmoidal Neuronal Adaptive Plasticity [[arxiv](https://arxiv.org/abs/2410.15318)] [[paper with code](https://paperswithcode.com/paper/snap-stopping-catastrophic-forgetting-in)]
-
-- Fractional-order spike-timing-dependent gradient descent for multi-layer spiking neural networks [[arxiv](https://arxiv.org/abs/2410.15293)] [[paper with code](https://paperswithcode.com/paper/fractional-order-spike-timing-dependent)]
-
-- BrainTransformers: SNN-LLM [[arxiv](https://arxiv.org/abs/2410.14687)] [[paper with code](https://paperswithcode.com/paper/braintransformers-snn-llm)]
 
