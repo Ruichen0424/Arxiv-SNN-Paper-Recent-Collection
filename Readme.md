@@ -1,12 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-11-01)** 
+ ### **Last 5 working days (Updated on 2024-11-02)** 
 
 
-- ETTFS: An Efficient Training Framework for Time-to-First-Spike Neuron [[arxiv](https://arxiv.org/abs/2410.23619)]
+- ETTFS: An Efficient Training Framework for Time-to-First-Spike Neuron [[arxiv](https://arxiv.org/abs/2410.23619)] [[paper with code](https://paperswithcode.com/paper/ettfs-an-efficient-training-framework-for)]
 
-- DASH: Warm-Starting Neural Network Training in Stationary Settings without Loss of Plasticity [[arxiv](https://arxiv.org/abs/2410.23495)]
+- DASH: Warm-Starting Neural Network Training in Stationary Settings without Loss of Plasticity [[arxiv](https://arxiv.org/abs/2410.23495)] [[paper with code](https://paperswithcode.com/paper/dash-warm-starting-neural-network-training-in)]
 
 - Self-Normalized Resets for Plasticity in Continual Learning [[arxiv](https://arxiv.org/abs/2410.20098)] [[paper with code](https://paperswithcode.com/paper/self-normalized-resets-for-plasticity-in)]
 
