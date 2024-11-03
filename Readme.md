@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-11-03)** 
+ ### **Last 5 working days (Updated on 2024-11-04)** 
 
 
 - ETTFS: An Efficient Training Framework for Time-to-First-Spike Neuron [[arxiv](https://arxiv.org/abs/2410.23619)] [[paper with code](https://paperswithcode.com/paper/ettfs-an-efficient-training-framework-for)]
