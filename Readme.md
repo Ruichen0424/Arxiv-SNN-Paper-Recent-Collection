@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-11-06)** 
+ ### **Last 5 working days (Updated on 2024-11-07)** 
 
+
+- Flashy Backdoor: Real-world Environment Backdoor Attack on SNNs with DVS Cameras [[arxiv](https://arxiv.org/abs/2411.03022)] [[paper with code](https://paperswithcode.com/paper/flashy-backdoor-real-world-environment)]
+
+- SpiDR: A Reconfigurable Digital Compute-in-Memory Spiking Neural Network Accelerator for Event-based Perception [[arxiv](https://arxiv.org/abs/2411.02854)] [[paper with code](https://paperswithcode.com/paper/spidr-a-reconfigurable-digital-compute-in)]
 
 - Energy-Aware FPGA Implementation of Spiking Neural Network with LIF Neurons [[arxiv](https://arxiv.org/abs/2411.01628)] [[paper with code](https://paperswithcode.com/paper/energy-aware-fpga-implementation-of-spiking)]
 
