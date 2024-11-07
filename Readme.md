@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-11-07)** 
+ ### **Last 5 working days (Updated on 2024-11-08)** 
 
 
 - Flashy Backdoor: Real-world Environment Backdoor Attack on SNNs with DVS Cameras [[arxiv](https://arxiv.org/abs/2411.03022)] [[paper with code](https://paperswithcode.com/paper/flashy-backdoor-real-world-environment)]
