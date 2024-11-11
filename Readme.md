@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-11-11)** 
+ ### **Last 5 working days (Updated on 2024-11-12)** 
 
 
 - Plasticity Loss in Deep Reinforcement Learning: A Survey [[arxiv](https://arxiv.org/abs/2411.04832)] [[paper with code](https://paperswithcode.com/paper/plasticity-loss-in-deep-reinforcement)]
