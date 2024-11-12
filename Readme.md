@@ -1,8 +1,16 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-11-12)** 
+ ### **Last 5 working days (Updated on 2024-11-13)** 
 
+
+- Randomized Forward Mode Gradient for Spiking Neural Networks in Scientific Machine Learning [[arxiv](https://arxiv.org/abs/2411.07057)] [[paper with code](https://paperswithcode.com/paper/randomized-forward-mode-gradient-for-spiking)]
+
+- Evolving Efficient Genetic Encoding for Deep Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2411.06792)] [[paper with code](https://paperswithcode.com/paper/evolving-efficient-genetic-encoding-for-deep)]
+
+- SkipSNN: Efficiently Classifying Spike Trains with Event-attention [[arxiv](https://arxiv.org/abs/2411.05806)] [[paper with code](https://paperswithcode.com/paper/skipsnn-efficiently-classifying-spike-trains)] [[code](https://github.com/Anonymous6369/SkipSNN)]
+
+- Similarity-based context aware continual learning for spiking neural networks [[arxiv](https://arxiv.org/abs/2411.05802)] [[paper with code](https://paperswithcode.com/paper/similarity-based-context-aware-continual)] [[code](https://github.com/braincog-x/brain-cog)]
 
 - Plasticity Loss in Deep Reinforcement Learning: A Survey [[arxiv](https://arxiv.org/abs/2411.04832)] [[paper with code](https://paperswithcode.com/paper/plasticity-loss-in-deep-reinforcement)]
 
@@ -13,8 +21,4 @@
 - Flashy Backdoor: Real-world Environment Backdoor Attack on SNNs with DVS Cameras [[arxiv](https://arxiv.org/abs/2411.03022)] [[paper with code](https://paperswithcode.com/paper/flashy-backdoor-real-world-environment)]
 
 - SpiDR: A Reconfigurable Digital Compute-in-Memory Spiking Neural Network Accelerator for Event-based Perception [[arxiv](https://arxiv.org/abs/2411.02854)] [[paper with code](https://paperswithcode.com/paper/spidr-a-reconfigurable-digital-compute-in)]
-
-- Energy-Aware FPGA Implementation of Spiking Neural Network with LIF Neurons [[arxiv](https://arxiv.org/abs/2411.01628)] [[paper with code](https://paperswithcode.com/paper/energy-aware-fpga-implementation-of-spiking)]
-
-- Differentiable architecture search with multi-dimensional attention for spiking neural networks [[arxiv](https://arxiv.org/abs/2411.00902)] [[paper with code](https://paperswithcode.com/paper/differentiable-architecture-search-with-multi)]
 
