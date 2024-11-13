@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-11-13)** 
+ ### **Last 5 working days (Updated on 2024-11-14)** 
 
+
+- Spike Talk in Power Electronic Grids -- Leveraging Post Moore's Computing Laws [[arxiv](https://arxiv.org/abs/2411.07654)] [[paper with code](https://paperswithcode.com/paper/spike-talk-in-power-electronic-grids)]
+
+- Spiking Transformer Hardware Accelerators in 3D Integration [[arxiv](https://arxiv.org/abs/2411.07397)] [[paper with code](https://paperswithcode.com/paper/spiking-transformer-hardware-accelerators-in)]
 
 - Randomized Forward Mode Gradient for Spiking Neural Networks in Scientific Machine Learning [[arxiv](https://arxiv.org/abs/2411.07057)] [[paper with code](https://paperswithcode.com/paper/randomized-forward-mode-gradient-for-spiking)]
 
@@ -17,8 +21,4 @@
 - Zero-Shot Temporal Resolution Domain Adaptation for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2411.04760)] [[paper with code](https://paperswithcode.com/paper/zero-shot-temporal-resolution-domain)]
 
 - Neuromorphic Wireless Split Computing with Multi-Level Spikes [[arxiv](https://arxiv.org/abs/2411.04728)] [[paper with code](https://paperswithcode.com/paper/neuromorphic-wireless-split-computing-with)]
-
-- Flashy Backdoor: Real-world Environment Backdoor Attack on SNNs with DVS Cameras [[arxiv](https://arxiv.org/abs/2411.03022)] [[paper with code](https://paperswithcode.com/paper/flashy-backdoor-real-world-environment)]
-
-- SpiDR: A Reconfigurable Digital Compute-in-Memory Spiking Neural Network Accelerator for Event-based Perception [[arxiv](https://arxiv.org/abs/2411.02854)] [[paper with code](https://paperswithcode.com/paper/spidr-a-reconfigurable-digital-compute-in)]
 
