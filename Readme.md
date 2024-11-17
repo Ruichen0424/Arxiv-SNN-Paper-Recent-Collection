@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-11-17)** 
+ ### **Last 5 working days (Updated on 2024-11-18)** 
 
 
 - Spike Talk in Power Electronic Grids -- Leveraging Post Moore's Computing Laws [[arxiv](https://arxiv.org/abs/2411.07654)] [[paper with code](https://paperswithcode.com/paper/spike-talk-in-power-electronic-grids)]
