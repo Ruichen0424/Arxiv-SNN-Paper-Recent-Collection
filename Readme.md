@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-11-19)** 
+ ### **Last 5 working days (Updated on 2024-11-20)** 
 
 
 - STOP: Spatiotemporal Orthogonal Propagation for Weight-Threshold-Leakage Synergistic Training of Deep Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2411.11082)] [[paper with code](https://paperswithcode.com/paper/stop-spatiotemporal-orthogonal-propagation)]
