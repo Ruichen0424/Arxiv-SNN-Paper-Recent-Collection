@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-11-21)** 
+ ### **Last 5 working days (Updated on 2024-11-22)** 
 
 
 - SNN-Based Online Learning of Concepts and Action Laws in an Open World [[arxiv](https://arxiv.org/abs/2411.12308)] [[paper with code](https://paperswithcode.com/paper/snn-based-online-learning-of-concepts-and)]
