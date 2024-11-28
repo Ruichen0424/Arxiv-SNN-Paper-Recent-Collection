@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-11-28)** 
+ ### **Last 5 working days (Updated on 2024-11-29)** 
 
+
+- IKUN: Initialization to Keep snn training and generalization great with sUrrogate-stable variaNce [[arxiv](https://arxiv.org/abs/2411.18250)] [[paper with code](https://paperswithcode.com/paper/ikun-initialization-to-keep-snn-training-and)]
 
 - SpikeAtConv: An Integrated Spiking-Convolutional Attention Architecture for Energy-Efficient Neuromorphic Vision Processing [[arxiv](https://arxiv.org/abs/2411.17439)] [[paper with code](https://paperswithcode.com/paper/spikeatconv-an-integrated-spiking)]
 
