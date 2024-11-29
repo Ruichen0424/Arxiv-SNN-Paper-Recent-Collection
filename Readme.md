@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-11-29)** 
+ ### **Last 5 working days (Updated on 2024-11-30)** 
 
 
 - IKUN: Initialization to Keep snn training and generalization great with sUrrogate-stable variaNce [[arxiv](https://arxiv.org/abs/2411.18250)] [[paper with code](https://paperswithcode.com/paper/ikun-initialization-to-keep-snn-training-and)]
