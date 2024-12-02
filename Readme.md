@@ -1,8 +1,18 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-12-02)** 
+ ### **Last 5 working days (Updated on 2024-12-03)** 
 
+
+- Core Placement Optimization of Many-core Brain-Inspired Near-Storage Systems for Spiking Neural Network Training [[arxiv](https://arxiv.org/abs/2411.19430)] [[paper with code](https://paperswithcode.com/paper/core-placement-optimization-of-many-core)]
+
+- Wafer2Spike: Spiking Neural Network for Wafer Map Pattern Classification [[arxiv](https://arxiv.org/abs/2411.19422)] [[paper with code](https://paperswithcode.com/paper/wafer2spike-spiking-neural-network-for-wafer)]
+
+- Fused-MemBrain: a spiking processor combining CMOS and self-assembled memristive networks [[arxiv](https://arxiv.org/abs/2411.19353)]
+
+- A spiking photonic neural network of 40.000 neurons, trained with rank-order coding for leveraging sparsity [[arxiv](https://arxiv.org/abs/2411.19209)] [[paper with code](https://paperswithcode.com/paper/a-spiking-photonic-neural-network-of-40-000)]
+
+- HDI-Former: Hybrid Dynamic Interaction ANN-SNN Transformer for Object Detection Using Frames and Events [[arxiv](https://arxiv.org/abs/2411.18658)] [[paper with code](https://paperswithcode.com/paper/hdi-former-hybrid-dynamic-interaction-ann-snn)]
 
 - IKUN: Initialization to Keep snn training and generalization great with sUrrogate-stable variaNce [[arxiv](https://arxiv.org/abs/2411.18250)] [[paper with code](https://paperswithcode.com/paper/ikun-initialization-to-keep-snn-training-and)]
 
@@ -25,6 +35,4 @@
 - Federated PCA and Estimation for Spiked Covariance Matrices: Optimal Rates and Efficient Algorithm [[arxiv](https://arxiv.org/abs/2411.15660)] [[paper with code](https://paperswithcode.com/paper/federated-pca-and-estimation-for-spiked)]
 
 - Mode-conditioned music learning and composition: a spiking neural network inspired by neuroscience and psychology [[arxiv](https://arxiv.org/abs/2411.14773)] [[paper with code](https://paperswithcode.com/paper/mode-conditioned-music-learning-and)]
-
-- SpikEmo: Enhancing Emotion Recognition With Spiking Temporal Dynamics in Conversations [[arxiv](https://arxiv.org/abs/2411.13917)] [[paper with code](https://paperswithcode.com/paper/spikemo-enhancing-emotion-recognition-with)] [[code](https://github.com/yu-xm/spikemo)]
 
