@@ -1,12 +1,18 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-12-03)** 
+ ### **Last 5 working days (Updated on 2024-12-04)** 
 
+
+- Gated Parametric Neuron for Spike-based Audio Recognition [[arxiv](https://arxiv.org/abs/2412.01087)]
+
+- Average-Over-Time Spiking Neural Networks for Uncertainty Estimation in Regression [[arxiv](https://arxiv.org/abs/2412.00278)]
+
+- Hybrid Spiking Neural Network -- Transformer Video Classification Model [[arxiv](https://arxiv.org/abs/2412.00237)]
 
 - Core Placement Optimization of Many-core Brain-Inspired Near-Storage Systems for Spiking Neural Network Training [[arxiv](https://arxiv.org/abs/2411.19430)] [[paper with code](https://paperswithcode.com/paper/core-placement-optimization-of-many-core)]
 
-- Wafer2Spike: Spiking Neural Network for Wafer Map Pattern Classification [[arxiv](https://arxiv.org/abs/2411.19422)] [[paper with code](https://paperswithcode.com/paper/wafer2spike-spiking-neural-network-for-wafer)]
+- Wafer2Spike: Spiking Neural Network for Wafer Map Pattern Classification [[arxiv](https://arxiv.org/abs/2411.19422)] [[paper with code](https://paperswithcode.com/paper/wafer2spike-spiking-neural-network-for-wafer)] [[code](https://github.com/abhishekkumarm98/Wafer2Spike)]
 
 - Fused-MemBrain: a spiking processor combining CMOS and self-assembled memristive networks [[arxiv](https://arxiv.org/abs/2411.19353)]
 
@@ -33,6 +39,4 @@
 - Exploring the Sparsity-Quantization Interplay on a Novel Hybrid SNN Event-Driven Architecture [[arxiv](https://arxiv.org/abs/2411.15409)] [[paper with code](https://paperswithcode.com/paper/exploring-the-sparsity-quantization-interplay)] [[code](https://github.com/githubofaliyev/snn-dse)]
 
 - Federated PCA and Estimation for Spiked Covariance Matrices: Optimal Rates and Efficient Algorithm [[arxiv](https://arxiv.org/abs/2411.15660)] [[paper with code](https://paperswithcode.com/paper/federated-pca-and-estimation-for-spiked)]
-
-- Mode-conditioned music learning and composition: a spiking neural network inspired by neuroscience and psychology [[arxiv](https://arxiv.org/abs/2411.14773)] [[paper with code](https://paperswithcode.com/paper/mode-conditioned-music-learning-and)]
 
