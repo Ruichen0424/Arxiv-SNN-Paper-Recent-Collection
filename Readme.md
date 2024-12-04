@@ -1,12 +1,14 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-12-04)** 
+ ### **Last 5 working days (Updated on 2024-12-05)** 
 
 
-- Gated Parametric Neuron for Spike-based Audio Recognition [[arxiv](https://arxiv.org/abs/2412.01087)]
+- FL-QDSNNs: Federated Learning with Quantum Dynamic Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2412.02293)]
 
-- Average-Over-Time Spiking Neural Networks for Uncertainty Estimation in Regression [[arxiv](https://arxiv.org/abs/2412.00278)]
+- Gated Parametric Neuron for Spike-based Audio Recognition [[arxiv](https://arxiv.org/abs/2412.01087)] [[paper with code](https://paperswithcode.com/paper/gated-parametric-neuron-for-spike-based-audio)]
+
+- Average-Over-Time Spiking Neural Networks for Uncertainty Estimation in Regression [[arxiv](https://arxiv.org/abs/2412.00278)] [[paper with code](https://paperswithcode.com/paper/average-over-time-spiking-neural-networks-for)]
 
 - Hybrid Spiking Neural Network -- Transformer Video Classification Model [[arxiv](https://arxiv.org/abs/2412.00237)]
 
@@ -31,12 +33,4 @@
 - TSkips: Efficiency Through Explicit Temporal Delay Connections in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2411.16711)] [[paper with code](https://paperswithcode.com/paper/tskips-efficiency-through-explicit-temporal)]
 
 - Storing overlapping associative memories on latent manifolds in low-rank spiking networks [[arxiv](https://arxiv.org/abs/2411.17485)] [[paper with code](https://paperswithcode.com/paper/storing-overlapping-associative-memories-on)]
-
-- Plastic Arbor: a modern simulation framework for synaptic plasticity $\unicode{x2013}$ from single synapses to networks of morphological neurons [[arxiv](https://arxiv.org/abs/2411.16445)] [[paper with code](https://paperswithcode.com/paper/plastic-arbor-a-modern-simulation-framework)] [[code](https://github.com/tetzlab/plastic_arbor)]
-
-- Scaling Spike-driven Transformer with Efficient Spike Firing Approximation Training [[arxiv](https://arxiv.org/abs/2411.16061)] [[paper with code](https://paperswithcode.com/paper/scaling-spike-driven-transformer-with)] [[code](https://github.com/biclab/spike-driven-transformer-v3)]
-
-- Exploring the Sparsity-Quantization Interplay on a Novel Hybrid SNN Event-Driven Architecture [[arxiv](https://arxiv.org/abs/2411.15409)] [[paper with code](https://paperswithcode.com/paper/exploring-the-sparsity-quantization-interplay)] [[code](https://github.com/githubofaliyev/snn-dse)]
-
-- Federated PCA and Estimation for Spiked Covariance Matrices: Optimal Rates and Efficient Algorithm [[arxiv](https://arxiv.org/abs/2411.15660)] [[paper with code](https://paperswithcode.com/paper/federated-pca-and-estimation-for-spiked)]
 
