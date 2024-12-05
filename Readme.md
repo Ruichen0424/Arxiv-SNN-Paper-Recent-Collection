@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-12-05)** 
+ ### **Last 5 working days (Updated on 2024-12-06)** 
 
+
+- Integrating programmable plasticity in experiment descriptions for analog neuromorphic hardware [[arxiv](https://arxiv.org/abs/2412.03128)] [[paper with code](https://paperswithcode.com/paper/integrating-programmable-plasticity-in)]
 
 - FL-QDSNNs: Federated Learning with Quantum Dynamic Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2412.02293)]
 
@@ -16,21 +18,11 @@
 
 - Wafer2Spike: Spiking Neural Network for Wafer Map Pattern Classification [[arxiv](https://arxiv.org/abs/2411.19422)] [[paper with code](https://paperswithcode.com/paper/wafer2spike-spiking-neural-network-for-wafer)] [[code](https://github.com/abhishekkumarm98/Wafer2Spike)]
 
-- Fused-MemBrain: a spiking processor combining CMOS and self-assembled memristive networks [[arxiv](https://arxiv.org/abs/2411.19353)]
+- Fused-MemBrain: a spiking processor combining CMOS and self-assembled memristive networks [[arxiv](https://arxiv.org/abs/2411.19353)] [[paper with code](https://paperswithcode.com/paper/fused-membrain-a-spiking-processor-combining)] [[code](https://github.com/CipolliniDavide/FusedMemBrain)]
 
 - A spiking photonic neural network of 40.000 neurons, trained with rank-order coding for leveraging sparsity [[arxiv](https://arxiv.org/abs/2411.19209)] [[paper with code](https://paperswithcode.com/paper/a-spiking-photonic-neural-network-of-40-000)]
 
 - HDI-Former: Hybrid Dynamic Interaction ANN-SNN Transformer for Object Detection Using Frames and Events [[arxiv](https://arxiv.org/abs/2411.18658)] [[paper with code](https://paperswithcode.com/paper/hdi-former-hybrid-dynamic-interaction-ann-snn)]
 
 - IKUN: Initialization to Keep snn training and generalization great with sUrrogate-stable variaNce [[arxiv](https://arxiv.org/abs/2411.18250)] [[paper with code](https://paperswithcode.com/paper/ikun-initialization-to-keep-snn-training-and)]
-
-- SpikeAtConv: An Integrated Spiking-Convolutional Attention Architecture for Energy-Efficient Neuromorphic Vision Processing [[arxiv](https://arxiv.org/abs/2411.17439)] [[paper with code](https://paperswithcode.com/paper/spikeatconv-an-integrated-spiking)]
-
-- Noise Adaptor: Enhancing Low-Latency Spiking Neural Networks through Noise-Injected Low-Bit ANN Conversion [[arxiv](https://arxiv.org/abs/2411.17431)] [[paper with code](https://paperswithcode.com/paper/noise-adaptor-enhancing-low-latency-spiking)]
-
-- Event-based Spiking Neural Networks for Object Detection: A Review of Datasets, Architectures, Learning Rules, and Implementation [[arxiv](https://arxiv.org/abs/2411.17006)] [[paper with code](https://paperswithcode.com/paper/event-based-spiking-neural-networks-for)] [[code](https://github.com/radlab-sketch/Event-SNN-Resources)]
-
-- TSkips: Efficiency Through Explicit Temporal Delay Connections in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2411.16711)] [[paper with code](https://paperswithcode.com/paper/tskips-efficiency-through-explicit-temporal)]
-
-- Storing overlapping associative memories on latent manifolds in low-rank spiking networks [[arxiv](https://arxiv.org/abs/2411.17485)] [[paper with code](https://paperswithcode.com/paper/storing-overlapping-associative-memories-on)]
 
