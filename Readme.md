@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-12-06)** 
+ ### **Last 5 working days (Updated on 2024-12-07)** 
 
 
 - Integrating programmable plasticity in experiment descriptions for analog neuromorphic hardware [[arxiv](https://arxiv.org/abs/2412.03128)] [[paper with code](https://paperswithcode.com/paper/integrating-programmable-plasticity-in)]
@@ -23,6 +23,4 @@
 - A spiking photonic neural network of 40.000 neurons, trained with rank-order coding for leveraging sparsity [[arxiv](https://arxiv.org/abs/2411.19209)] [[paper with code](https://paperswithcode.com/paper/a-spiking-photonic-neural-network-of-40-000)]
 
 - HDI-Former: Hybrid Dynamic Interaction ANN-SNN Transformer for Object Detection Using Frames and Events [[arxiv](https://arxiv.org/abs/2411.18658)] [[paper with code](https://paperswithcode.com/paper/hdi-former-hybrid-dynamic-interaction-ann-snn)]
-
-- IKUN: Initialization to Keep snn training and generalization great with sUrrogate-stable variaNce [[arxiv](https://arxiv.org/abs/2411.18250)] [[paper with code](https://paperswithcode.com/paper/ikun-initialization-to-keep-snn-training-and)]
 
