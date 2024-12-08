@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-12-08)** 
+ ### **Last 5 working days (Updated on 2024-12-09)** 
 
 
 - Integrating programmable plasticity in experiment descriptions for analog neuromorphic hardware [[arxiv](https://arxiv.org/abs/2412.03128)] [[paper with code](https://paperswithcode.com/paper/integrating-programmable-plasticity-in)]
