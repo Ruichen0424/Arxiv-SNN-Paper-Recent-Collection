@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-12-09)** 
+ ### **Last 5 working days (Updated on 2024-12-10)** 
 
+
+- Simultaneous identification of the parameters in the plasticity function for power hardening materials : A Bayesian approach [[arxiv](https://arxiv.org/abs/2412.05241)]
+
+- MTSpark: Enabling Multi-Task Learning with Spiking Neural Networks for Generalist Agents [[arxiv](https://arxiv.org/abs/2412.04847)] [[paper with code](https://paperswithcode.com/paper/mtspark-enabling-multi-task-learning-with)]
 
 - Integrating programmable plasticity in experiment descriptions for analog neuromorphic hardware [[arxiv](https://arxiv.org/abs/2412.03128)] [[paper with code](https://paperswithcode.com/paper/integrating-programmable-plasticity-in)]
 
@@ -13,14 +17,4 @@
 - Average-Over-Time Spiking Neural Networks for Uncertainty Estimation in Regression [[arxiv](https://arxiv.org/abs/2412.00278)] [[paper with code](https://paperswithcode.com/paper/average-over-time-spiking-neural-networks-for)]
 
 - Hybrid Spiking Neural Network -- Transformer Video Classification Model [[arxiv](https://arxiv.org/abs/2412.00237)]
-
-- Core Placement Optimization of Many-core Brain-Inspired Near-Storage Systems for Spiking Neural Network Training [[arxiv](https://arxiv.org/abs/2411.19430)] [[paper with code](https://paperswithcode.com/paper/core-placement-optimization-of-many-core)]
-
-- Wafer2Spike: Spiking Neural Network for Wafer Map Pattern Classification [[arxiv](https://arxiv.org/abs/2411.19422)] [[paper with code](https://paperswithcode.com/paper/wafer2spike-spiking-neural-network-for-wafer)] [[code](https://github.com/abhishekkumarm98/Wafer2Spike)]
-
-- Fused-MemBrain: a spiking processor combining CMOS and self-assembled memristive networks [[arxiv](https://arxiv.org/abs/2411.19353)] [[paper with code](https://paperswithcode.com/paper/fused-membrain-a-spiking-processor-combining)] [[code](https://github.com/CipolliniDavide/FusedMemBrain)]
-
-- A spiking photonic neural network of 40.000 neurons, trained with rank-order coding for leveraging sparsity [[arxiv](https://arxiv.org/abs/2411.19209)] [[paper with code](https://paperswithcode.com/paper/a-spiking-photonic-neural-network-of-40-000)]
-
-- HDI-Former: Hybrid Dynamic Interaction ANN-SNN Transformer for Object Detection Using Frames and Events [[arxiv](https://arxiv.org/abs/2411.18658)] [[paper with code](https://paperswithcode.com/paper/hdi-former-hybrid-dynamic-interaction-ann-snn)]
 
