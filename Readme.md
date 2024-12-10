@@ -1,8 +1,22 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-12-10)** 
+ ### **Last 5 working days (Updated on 2024-12-11)** 
 
+
+- Flexible and Scalable Deep Dendritic Spiking Neural Networks with Multiple Nonlinear Branching [[arxiv](https://arxiv.org/abs/2412.06355)] [[paper with code](https://paperswithcode.com/paper/flexible-and-scalable-deep-dendritic-spiking)]
+
+- Spiking Neural Networks for Radio Frequency Interference Detection in Radio Astronomy [[arxiv](https://arxiv.org/abs/2412.06124)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-networks-for-radio-frequency)]
+
+- Dislocation-based crystal plasticity simulation on grain-size dependence of mechanical properties in dual-phase steels [[arxiv](https://arxiv.org/abs/2412.05630)]
+
+- Towards 3D Acceleration for low-power Mixture-of-Experts and Multi-Head Attention Spiking Transformers [[arxiv](https://arxiv.org/abs/2412.05540)] [[paper with code](https://paperswithcode.com/paper/towards-3d-acceleration-for-low-power-mixture)]
+
+- Trimming Down Large Spiking Vision Transformers via Heterogeneous Quantization Search [[arxiv](https://arxiv.org/abs/2412.05505)] [[paper with code](https://paperswithcode.com/paper/trimming-down-large-spiking-vision)]
+
+- A High Energy-Efficiency Multi-core Neuromorphic Architecture for Deep SNN Training [[arxiv](https://arxiv.org/abs/2412.05302)]
+
+- Computational models of learning and synaptic plasticity [[arxiv](https://arxiv.org/abs/2412.05501)]
 
 - Simultaneous identification of the parameters in the plasticity function for power hardening materials : A Bayesian approach [[arxiv](https://arxiv.org/abs/2412.05241)]
 
@@ -11,10 +25,4 @@
 - Integrating programmable plasticity in experiment descriptions for analog neuromorphic hardware [[arxiv](https://arxiv.org/abs/2412.03128)] [[paper with code](https://paperswithcode.com/paper/integrating-programmable-plasticity-in)]
 
 - FL-QDSNNs: Federated Learning with Quantum Dynamic Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2412.02293)]
-
-- Gated Parametric Neuron for Spike-based Audio Recognition [[arxiv](https://arxiv.org/abs/2412.01087)] [[paper with code](https://paperswithcode.com/paper/gated-parametric-neuron-for-spike-based-audio)]
-
-- Average-Over-Time Spiking Neural Networks for Uncertainty Estimation in Regression [[arxiv](https://arxiv.org/abs/2412.00278)] [[paper with code](https://paperswithcode.com/paper/average-over-time-spiking-neural-networks-for)]
-
-- Hybrid Spiking Neural Network -- Transformer Video Classification Model [[arxiv](https://arxiv.org/abs/2412.00237)]
 
