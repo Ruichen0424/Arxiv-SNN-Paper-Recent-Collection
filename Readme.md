@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-12-11)** 
+ ### **Last 5 working days (Updated on 2024-12-12)** 
 
+
+- Efficient 3D Recognition with Event-driven Spike Sparse Convolution [[arxiv](https://arxiv.org/abs/2412.07360)] [[paper with code](https://paperswithcode.com/paper/efficient-3d-recognition-with-event-driven)]
+
+- SpikeFI: A Fault Injection Framework for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2412.06795)] [[paper with code](https://paperswithcode.com/paper/spikefi-a-fault-injection-framework-for)]
 
 - Flexible and Scalable Deep Dendritic Spiking Neural Networks with Multiple Nonlinear Branching [[arxiv](https://arxiv.org/abs/2412.06355)] [[paper with code](https://paperswithcode.com/paper/flexible-and-scalable-deep-dendritic-spiking)]
 
@@ -14,7 +18,7 @@
 
 - Trimming Down Large Spiking Vision Transformers via Heterogeneous Quantization Search [[arxiv](https://arxiv.org/abs/2412.05505)] [[paper with code](https://paperswithcode.com/paper/trimming-down-large-spiking-vision)]
 
-- A High Energy-Efficiency Multi-core Neuromorphic Architecture for Deep SNN Training [[arxiv](https://arxiv.org/abs/2412.05302)]
+- A High Energy-Efficiency Multi-core Neuromorphic Architecture for Deep SNN Training [[arxiv](https://arxiv.org/abs/2412.05302)] [[paper with code](https://paperswithcode.com/paper/a-high-energy-efficiency-multi-core)]
 
 - Computational models of learning and synaptic plasticity [[arxiv](https://arxiv.org/abs/2412.05501)]
 
@@ -23,6 +27,4 @@
 - MTSpark: Enabling Multi-Task Learning with Spiking Neural Networks for Generalist Agents [[arxiv](https://arxiv.org/abs/2412.04847)] [[paper with code](https://paperswithcode.com/paper/mtspark-enabling-multi-task-learning-with)]
 
 - Integrating programmable plasticity in experiment descriptions for analog neuromorphic hardware [[arxiv](https://arxiv.org/abs/2412.03128)] [[paper with code](https://paperswithcode.com/paper/integrating-programmable-plasticity-in)]
-
-- FL-QDSNNs: Federated Learning with Quantum Dynamic Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2412.02293)]
 
