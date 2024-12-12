@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-12-12)** 
+ ### **Last 5 working days (Updated on 2024-12-13)** 
 
 
 - Efficient 3D Recognition with Event-driven Spike Sparse Convolution [[arxiv](https://arxiv.org/abs/2412.07360)] [[paper with code](https://paperswithcode.com/paper/efficient-3d-recognition-with-event-driven)]
@@ -25,6 +25,4 @@
 - Simultaneous identification of the parameters in the plasticity function for power hardening materials : A Bayesian approach [[arxiv](https://arxiv.org/abs/2412.05241)]
 
 - MTSpark: Enabling Multi-Task Learning with Spiking Neural Networks for Generalist Agents [[arxiv](https://arxiv.org/abs/2412.04847)] [[paper with code](https://paperswithcode.com/paper/mtspark-enabling-multi-task-learning-with)]
-
-- Integrating programmable plasticity in experiment descriptions for analog neuromorphic hardware [[arxiv](https://arxiv.org/abs/2412.03128)] [[paper with code](https://paperswithcode.com/paper/integrating-programmable-plasticity-in)]
 
