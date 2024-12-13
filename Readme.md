@@ -1,8 +1,14 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-12-13)** 
+ ### **Last 5 working days (Updated on 2024-12-14)** 
 
+
+- Hybrid variable spiking graph neural networks for energy-efficient scientific machine learning [[arxiv](https://arxiv.org/abs/2412.09379)] [[paper with code](https://paperswithcode.com/paper/hybrid-variable-spiking-graph-neural-networks)]
+
+- LV-CadeNet: Long View Feature Convolution-Attention Fusion Encoder-Decoder Network for Clinical MEG Spike Detection [[arxiv](https://arxiv.org/abs/2412.08896)] [[paper with code](https://paperswithcode.com/paper/lv-cadenet-long-view-feature-convolution)]
+
+- Maximizing Information in Neuron Populations for Neuromorphic Spike Encoding [[arxiv](https://arxiv.org/abs/2412.08816)] [[paper with code](https://paperswithcode.com/paper/maximizing-information-in-neuron-populations)]
 
 - Efficient 3D Recognition with Event-driven Spike Sparse Convolution [[arxiv](https://arxiv.org/abs/2412.07360)] [[paper with code](https://paperswithcode.com/paper/efficient-3d-recognition-with-event-driven)]
 
