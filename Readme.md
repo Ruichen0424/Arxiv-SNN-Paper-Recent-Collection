@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-12-15)** 
+ ### **Last 5 working days (Updated on 2024-12-16)** 
 
 
 - Hybrid variable spiking graph neural networks for energy-efficient scientific machine learning [[arxiv](https://arxiv.org/abs/2412.09379)] [[paper with code](https://paperswithcode.com/paper/hybrid-variable-spiking-graph-neural-networks)]
