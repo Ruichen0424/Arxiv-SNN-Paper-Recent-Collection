@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-12-16)** 
+ ### **Last 5 working days (Updated on 2024-12-17)** 
 
+
+- Sharpening Your Density Fields: Spiking Neuron Aided Fast Geometry Learning [[arxiv](https://arxiv.org/abs/2412.09881)] [[paper with code](https://paperswithcode.com/paper/sharpening-your-density-fields-spiking-neuron)]
 
 - Hybrid variable spiking graph neural networks for energy-efficient scientific machine learning [[arxiv](https://arxiv.org/abs/2412.09379)] [[paper with code](https://paperswithcode.com/paper/hybrid-variable-spiking-graph-neural-networks)]
 
@@ -27,8 +29,4 @@
 - A High Energy-Efficiency Multi-core Neuromorphic Architecture for Deep SNN Training [[arxiv](https://arxiv.org/abs/2412.05302)] [[paper with code](https://paperswithcode.com/paper/a-high-energy-efficiency-multi-core)]
 
 - Computational models of learning and synaptic plasticity [[arxiv](https://arxiv.org/abs/2412.05501)]
-
-- Simultaneous identification of the parameters in the plasticity function for power hardening materials : A Bayesian approach [[arxiv](https://arxiv.org/abs/2412.05241)]
-
-- MTSpark: Enabling Multi-Task Learning with Spiking Neural Networks for Generalist Agents [[arxiv](https://arxiv.org/abs/2412.04847)] [[paper with code](https://paperswithcode.com/paper/mtspark-enabling-multi-task-learning-with)]
 
