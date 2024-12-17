@@ -1,8 +1,16 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-12-17)** 
+ ### **Last 5 working days (Updated on 2024-12-18)** 
 
+
+- High-speed and High-quality Vision Reconstruction of Spike Camera with Spike Stability Theorem [[arxiv](https://arxiv.org/abs/2412.11639)] [[paper with code](https://paperswithcode.com/paper/high-speed-and-high-quality-vision)]
+
+- SegACIL: Solving the Stability-Plasticity Dilemma in Class-Incremental Semantic Segmentation [[arxiv](https://arxiv.org/abs/2412.10834)] [[paper with code](https://paperswithcode.com/paper/segacil-solving-the-stability-plasticity)] [[code](https://github.com/qwrawq/segacil)]
+
+- Elucidating microstructural influences on fatigue behavior for additively manufactured Hastelloy X using Bayesian-calibrated crystal plasticity model [[arxiv](https://arxiv.org/abs/2412.10405)]
+
+- The Reliability Issue in ReRam-based CIM Architecture for SNN: A Survey [[arxiv](https://arxiv.org/abs/2412.10389)] [[paper with code](https://paperswithcode.com/paper/the-reliability-issue-in-reram-based-cim)]
 
 - Sharpening Your Density Fields: Spiking Neuron Aided Fast Geometry Learning [[arxiv](https://arxiv.org/abs/2412.09881)] [[paper with code](https://paperswithcode.com/paper/sharpening-your-density-fields-spiking-neuron)]
 
@@ -15,18 +23,4 @@
 - Efficient 3D Recognition with Event-driven Spike Sparse Convolution [[arxiv](https://arxiv.org/abs/2412.07360)] [[paper with code](https://paperswithcode.com/paper/efficient-3d-recognition-with-event-driven)]
 
 - SpikeFI: A Fault Injection Framework for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2412.06795)] [[paper with code](https://paperswithcode.com/paper/spikefi-a-fault-injection-framework-for)]
-
-- Flexible and Scalable Deep Dendritic Spiking Neural Networks with Multiple Nonlinear Branching [[arxiv](https://arxiv.org/abs/2412.06355)] [[paper with code](https://paperswithcode.com/paper/flexible-and-scalable-deep-dendritic-spiking)]
-
-- Spiking Neural Networks for Radio Frequency Interference Detection in Radio Astronomy [[arxiv](https://arxiv.org/abs/2412.06124)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-networks-for-radio-frequency)]
-
-- Dislocation-based crystal plasticity simulation on grain-size dependence of mechanical properties in dual-phase steels [[arxiv](https://arxiv.org/abs/2412.05630)]
-
-- Towards 3D Acceleration for low-power Mixture-of-Experts and Multi-Head Attention Spiking Transformers [[arxiv](https://arxiv.org/abs/2412.05540)] [[paper with code](https://paperswithcode.com/paper/towards-3d-acceleration-for-low-power-mixture)]
-
-- Trimming Down Large Spiking Vision Transformers via Heterogeneous Quantization Search [[arxiv](https://arxiv.org/abs/2412.05505)] [[paper with code](https://paperswithcode.com/paper/trimming-down-large-spiking-vision)]
-
-- A High Energy-Efficiency Multi-core Neuromorphic Architecture for Deep SNN Training [[arxiv](https://arxiv.org/abs/2412.05302)] [[paper with code](https://paperswithcode.com/paper/a-high-energy-efficiency-multi-core)]
-
-- Computational models of learning and synaptic plasticity [[arxiv](https://arxiv.org/abs/2412.05501)]
 
