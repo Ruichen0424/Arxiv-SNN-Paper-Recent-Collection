@@ -1,14 +1,28 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-12-18)** 
+ ### **Last 5 working days (Updated on 2024-12-19)** 
 
+
+- Faster and Stronger: When ANN-SNN Conversion Meets Parallel Spiking Calculation [[arxiv](https://arxiv.org/abs/2412.13610)] [[paper with code](https://paperswithcode.com/paper/faster-and-stronger-when-ann-snn-conversion)]
+
+- Combining Aggregated Attention and Transformer Architecture for Accurate and Efficient Performance of Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2412.13553)] [[paper with code](https://paperswithcode.com/paper/combining-aggregated-attention-and)]
+
+- Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation [[arxiv](https://arxiv.org/abs/2412.12858)] [[paper with code](https://paperswithcode.com/paper/efficient-speech-command-recognition)]
+
+- Efficient Event-based Semantic Segmentation with Spike-driven Lightweight Transformer-based Networks [[arxiv](https://arxiv.org/abs/2412.12843)] [[paper with code](https://paperswithcode.com/paper/efficient-event-based-semantic-segmentation)]
+
+- Multi-View Incremental Learning with Structured Hebbian Plasticity for Enhanced Fusion Efficiency [[arxiv](https://arxiv.org/abs/2412.12801)] [[paper with code](https://paperswithcode.com/paper/multi-view-incremental-learning-with)]
+
+- ALADE-SNN: Adaptive Logit Alignment in Dynamically Expandable Spiking Neural Networks for Class Incremental Learning [[arxiv](https://arxiv.org/abs/2412.12696)] [[paper with code](https://paperswithcode.com/paper/alade-snn-adaptive-logit-alignment-in)]
+
+- CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics [[arxiv](https://arxiv.org/abs/2412.12525)] [[paper with code](https://paperswithcode.com/paper/crest-an-efficient-conjointly-trained-spike)] [[code](https://github.com/shen-aoyu/CREST)]
 
 - High-speed and High-quality Vision Reconstruction of Spike Camera with Spike Stability Theorem [[arxiv](https://arxiv.org/abs/2412.11639)] [[paper with code](https://paperswithcode.com/paper/high-speed-and-high-quality-vision)]
 
 - SegACIL: Solving the Stability-Plasticity Dilemma in Class-Incremental Semantic Segmentation [[arxiv](https://arxiv.org/abs/2412.10834)] [[paper with code](https://paperswithcode.com/paper/segacil-solving-the-stability-plasticity)] [[code](https://github.com/qwrawq/segacil)]
 
-- Elucidating microstructural influences on fatigue behavior for additively manufactured Hastelloy X using Bayesian-calibrated crystal plasticity model [[arxiv](https://arxiv.org/abs/2412.10405)]
+- Elucidating microstructural influences on fatigue behavior for additively manufactured Hastelloy X using Bayesian-calibrated crystal plasticity model [[arxiv](https://arxiv.org/abs/2412.10405)] [[paper with code](https://paperswithcode.com/paper/elucidating-microstructural-influences-on)]
 
 - The Reliability Issue in ReRam-based CIM Architecture for SNN: A Survey [[arxiv](https://arxiv.org/abs/2412.10389)] [[paper with code](https://paperswithcode.com/paper/the-reliability-issue-in-reram-based-cim)]
 
@@ -19,8 +33,4 @@
 - LV-CadeNet: Long View Feature Convolution-Attention Fusion Encoder-Decoder Network for Clinical MEG Spike Detection [[arxiv](https://arxiv.org/abs/2412.08896)] [[paper with code](https://paperswithcode.com/paper/lv-cadenet-long-view-feature-convolution)]
 
 - Maximizing Information in Neuron Populations for Neuromorphic Spike Encoding [[arxiv](https://arxiv.org/abs/2412.08816)] [[paper with code](https://paperswithcode.com/paper/maximizing-information-in-neuron-populations)]
-
-- Efficient 3D Recognition with Event-driven Spike Sparse Convolution [[arxiv](https://arxiv.org/abs/2412.07360)] [[paper with code](https://paperswithcode.com/paper/efficient-3d-recognition-with-event-driven)]
-
-- SpikeFI: A Fault Injection Framework for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2412.06795)] [[paper with code](https://paperswithcode.com/paper/spikefi-a-fault-injection-framework-for)]
 
