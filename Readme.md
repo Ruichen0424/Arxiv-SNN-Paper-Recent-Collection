@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-12-19)** 
+ ### **Last 5 working days (Updated on 2024-12-20)** 
 
 
 - Faster and Stronger: When ANN-SNN Conversion Meets Parallel Spiking Calculation [[arxiv](https://arxiv.org/abs/2412.13610)] [[paper with code](https://paperswithcode.com/paper/faster-and-stronger-when-ann-snn-conversion)]
