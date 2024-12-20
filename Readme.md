@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-12-20)** 
+ ### **Last 5 working days (Updated on 2024-12-21)** 
 
+
+- Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation [[arxiv](https://arxiv.org/abs/2412.14587)] [[paper with code](https://paperswithcode.com/paper/spike2former-efficient-spiking-transformer)]
+
+- Permutation recovery of spikes in noisy high-dimensional tensor estimation [[arxiv](https://arxiv.org/abs/2412.14650)] [[paper with code](https://paperswithcode.com/paper/permutation-recovery-of-spikes-in-noisy-high)]
 
 - Faster and Stronger: When ANN-SNN Conversion Meets Parallel Spiking Calculation [[arxiv](https://arxiv.org/abs/2412.13610)] [[paper with code](https://paperswithcode.com/paper/faster-and-stronger-when-ann-snn-conversion)]
 
@@ -27,10 +31,4 @@
 - The Reliability Issue in ReRam-based CIM Architecture for SNN: A Survey [[arxiv](https://arxiv.org/abs/2412.10389)] [[paper with code](https://paperswithcode.com/paper/the-reliability-issue-in-reram-based-cim)]
 
 - Sharpening Your Density Fields: Spiking Neuron Aided Fast Geometry Learning [[arxiv](https://arxiv.org/abs/2412.09881)] [[paper with code](https://paperswithcode.com/paper/sharpening-your-density-fields-spiking-neuron)]
-
-- Hybrid variable spiking graph neural networks for energy-efficient scientific machine learning [[arxiv](https://arxiv.org/abs/2412.09379)] [[paper with code](https://paperswithcode.com/paper/hybrid-variable-spiking-graph-neural-networks)]
-
-- LV-CadeNet: Long View Feature Convolution-Attention Fusion Encoder-Decoder Network for Clinical MEG Spike Detection [[arxiv](https://arxiv.org/abs/2412.08896)] [[paper with code](https://paperswithcode.com/paper/lv-cadenet-long-view-feature-convolution)]
-
-- Maximizing Information in Neuron Populations for Neuromorphic Spike Encoding [[arxiv](https://arxiv.org/abs/2412.08816)] [[paper with code](https://paperswithcode.com/paper/maximizing-information-in-neuron-populations)]
 
