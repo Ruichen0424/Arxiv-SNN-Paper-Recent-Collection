@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-12-22)** 
+ ### **Last 5 working days (Updated on 2024-12-23)** 
 
 
 - Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation [[arxiv](https://arxiv.org/abs/2412.14587)] [[paper with code](https://paperswithcode.com/paper/spike2former-efficient-spiking-transformer)]
