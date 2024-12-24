@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-12-24)** 
+ ### **Last 5 working days (Updated on 2024-12-25)** 
 
 
 - Enhanced Temporal Processing in Spiking Neural Networks for Static Object Detection Using 3D Convolutions [[arxiv](https://arxiv.org/abs/2412.17654)] [[paper with code](https://paperswithcode.com/paper/enhanced-temporal-processing-in-spiking)]
@@ -14,7 +14,7 @@
 
 - Darkit: A User-Friendly Software Toolkit for Spiking Large Language Model [[arxiv](https://arxiv.org/abs/2412.15634)]
 
-- Spiking Neural Belief Propagation Decoder for LDPC Codes with Small Variable Node Degrees [[arxiv](https://arxiv.org/abs/2412.15897)]
+- Spiking Neural Belief Propagation Decoder for LDPC Codes with Small Variable Node Degrees [[arxiv](https://arxiv.org/abs/2412.15897)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-belief-propagation-decoder-for-1)]
 
 - Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation [[arxiv](https://arxiv.org/abs/2412.14587)] [[paper with code](https://paperswithcode.com/paper/spike2former-efficient-spiking-transformer)]
 
