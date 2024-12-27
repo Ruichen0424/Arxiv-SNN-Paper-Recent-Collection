@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-12-27)** 
+ ### **Last 5 working days (Updated on 2024-12-28)** 
 
 
 - Contemporary implementations of spiking bio-inspired neural networks [[arxiv](https://arxiv.org/abs/2412.17926)] [[paper with code](https://paperswithcode.com/paper/contemporary-implementations-of-spiking-bio)]
@@ -14,7 +14,7 @@
 
 - Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Network [[arxiv](https://arxiv.org/abs/2412.16219)] [[paper with code](https://paperswithcode.com/paper/adaptive-calibration-a-unified-conversion)] [[code](https://github.com/bic-l/burst-ann2snn)]
 
-- Darkit: A User-Friendly Software Toolkit for Spiking Large Language Model [[arxiv](https://arxiv.org/abs/2412.15634)]
+- Darkit: A User-Friendly Software Toolkit for Spiking Large Language Model [[arxiv](https://arxiv.org/abs/2412.15634)] [[paper with code](https://paperswithcode.com/paper/darkit-a-user-friendly-software-toolkit-for)] [[code](https://github.com/zju-bmi-lab/DarwinKit)]
 
 - Spiking Neural Belief Propagation Decoder for LDPC Codes with Small Variable Node Degrees [[arxiv](https://arxiv.org/abs/2412.15897)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-belief-propagation-decoder-for-1)]
 
