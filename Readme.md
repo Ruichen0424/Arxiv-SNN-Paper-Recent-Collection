@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-12-29)** 
+ ### **Last 5 working days (Updated on 2024-12-30)** 
 
 
 - Contemporary implementations of spiking bio-inspired neural networks [[arxiv](https://arxiv.org/abs/2412.17926)] [[paper with code](https://paperswithcode.com/paper/contemporary-implementations-of-spiking-bio)]
