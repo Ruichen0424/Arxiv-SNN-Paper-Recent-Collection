@@ -1,8 +1,14 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2024-12-31)** 
+ ### **Last 5 working days (Updated on 2025-01-01)** 
 
+
+- Effective and Efficient Intracortical Brain Signal Decoding with Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2412.20714)]
+
+- A finite strain model for fiber angle plasticity of textile fabrics based on isogeometric shell finite elements [[arxiv](https://arxiv.org/abs/2412.20131)]
+
+- Maintain Plasticity in Long-timescale Continual Test-time Adaptation [[arxiv](https://arxiv.org/abs/2412.20034)] [[paper with code](https://paperswithcode.com/paper/maintain-plasticity-in-long-timescale)]
 
 - Contemporary implementations of spiking bio-inspired neural networks [[arxiv](https://arxiv.org/abs/2412.17926)] [[paper with code](https://paperswithcode.com/paper/contemporary-implementations-of-spiking-bio)]
 
@@ -17,8 +23,4 @@
 - Darkit: A User-Friendly Software Toolkit for Spiking Large Language Model [[arxiv](https://arxiv.org/abs/2412.15634)] [[paper with code](https://paperswithcode.com/paper/darkit-a-user-friendly-software-toolkit-for)] [[code](https://github.com/zju-bmi-lab/DarwinKit)]
 
 - Spiking Neural Belief Propagation Decoder for LDPC Codes with Small Variable Node Degrees [[arxiv](https://arxiv.org/abs/2412.15897)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-belief-propagation-decoder-for-1)]
-
-- Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation [[arxiv](https://arxiv.org/abs/2412.14587)] [[paper with code](https://paperswithcode.com/paper/spike2former-efficient-spiking-transformer)]
-
-- Permutation recovery of spikes in noisy high-dimensional tensor estimation [[arxiv](https://arxiv.org/abs/2412.14650)] [[paper with code](https://paperswithcode.com/paper/permutation-recovery-of-spikes-in-noisy-high)]
 
