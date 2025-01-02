@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-01-02)** 
+ ### **Last 5 working days (Updated on 2025-01-03)** 
 
 
 - Effective and Efficient Intracortical Brain Signal Decoding with Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2412.20714)]
