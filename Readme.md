@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-01-03)** 
+ ### **Last 5 working days (Updated on 2025-01-04)** 
 
+
+- Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL [[arxiv](https://arxiv.org/abs/2501.01038)]
+
+- Temporal Information Reconstruction and Non-Aligned Residual in Spiking Neural Networks for Speech Classification [[arxiv](https://arxiv.org/abs/2501.00348)]
 
 - Effective and Efficient Intracortical Brain Signal Decoding with Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2412.20714)]
 
@@ -19,8 +23,4 @@
 - FedLEC: Effective Federated Learning Algorithm with Spiking Neural Networks Under Label Skews [[arxiv](https://arxiv.org/abs/2412.17305)] [[paper with code](https://paperswithcode.com/paper/fedlec-effective-federated-learning-algorithm)]
 
 - Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Network [[arxiv](https://arxiv.org/abs/2412.16219)] [[paper with code](https://paperswithcode.com/paper/adaptive-calibration-a-unified-conversion)] [[code](https://github.com/bic-l/burst-ann2snn)]
-
-- Darkit: A User-Friendly Software Toolkit for Spiking Large Language Model [[arxiv](https://arxiv.org/abs/2412.15634)] [[paper with code](https://paperswithcode.com/paper/darkit-a-user-friendly-software-toolkit-for)] [[code](https://github.com/zju-bmi-lab/DarwinKit)]
-
-- Spiking Neural Belief Propagation Decoder for LDPC Codes with Small Variable Node Degrees [[arxiv](https://arxiv.org/abs/2412.15897)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-belief-propagation-decoder-for-1)]
 
