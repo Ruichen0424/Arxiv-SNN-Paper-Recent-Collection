@@ -1,12 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-01-05)** 
+ ### **Last 5 working days (Updated on 2025-01-06)** 
 
 
 - Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL [[arxiv](https://arxiv.org/abs/2501.01038)]
 
-- Temporal Information Reconstruction and Non-Aligned Residual in Spiking Neural Networks for Speech Classification [[arxiv](https://arxiv.org/abs/2501.00348)]
+- Temporal Information Reconstruction and Non-Aligned Residual in Spiking Neural Networks for Speech Classification [[arxiv](https://arxiv.org/abs/2501.00348)] [[paper with code](https://paperswithcode.com/paper/temporal-information-reconstruction-and-non)]
 
 - Effective and Efficient Intracortical Brain Signal Decoding with Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2412.20714)] [[paper with code](https://paperswithcode.com/paper/effective-and-efficient-intracortical-brain)] [[code](https://github.com/1439278026/lss-ca-snn)]
 
