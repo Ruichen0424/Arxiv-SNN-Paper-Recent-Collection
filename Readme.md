@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-01-06)** 
+ ### **Last 5 working days (Updated on 2025-01-07)** 
 
+
+- Signal Recovery Using a Spiked Mixture Model [[arxiv](https://arxiv.org/abs/2501.01840)] [[paper with code](https://paperswithcode.com/paper/signal-recovery-using-a-spiked-mixture-model)]
 
 - Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL [[arxiv](https://arxiv.org/abs/2501.01038)]
 
@@ -15,12 +17,4 @@
 - Maintain Plasticity in Long-timescale Continual Test-time Adaptation [[arxiv](https://arxiv.org/abs/2412.20034)] [[paper with code](https://paperswithcode.com/paper/maintain-plasticity-in-long-timescale)]
 
 - Contemporary implementations of spiking bio-inspired neural networks [[arxiv](https://arxiv.org/abs/2412.17926)] [[paper with code](https://paperswithcode.com/paper/contemporary-implementations-of-spiking-bio)]
-
-- Enhanced Temporal Processing in Spiking Neural Networks for Static Object Detection Using 3D Convolutions [[arxiv](https://arxiv.org/abs/2412.17654)] [[paper with code](https://paperswithcode.com/paper/enhanced-temporal-processing-in-spiking)]
-
-- HPCNeuroNet: A Neuromorphic Approach Merging SNN Temporal Dynamics with Transformer Attention for FPGA-based Particle Physics [[arxiv](https://arxiv.org/abs/2412.17571)] [[paper with code](https://paperswithcode.com/paper/hpcneuronet-a-neuromorphic-approach-merging)]
-
-- FedLEC: Effective Federated Learning Algorithm with Spiking Neural Networks Under Label Skews [[arxiv](https://arxiv.org/abs/2412.17305)] [[paper with code](https://paperswithcode.com/paper/fedlec-effective-federated-learning-algorithm)]
-
-- Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Network [[arxiv](https://arxiv.org/abs/2412.16219)] [[paper with code](https://paperswithcode.com/paper/adaptive-calibration-a-unified-conversion)] [[code](https://github.com/bic-l/burst-ann2snn)]
 
