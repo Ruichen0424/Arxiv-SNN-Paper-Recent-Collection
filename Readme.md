@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-01-07)** 
+ ### **Last 5 working days (Updated on 2025-01-08)** 
 
+
+- Spiking monocular event based 6D pose estimation for space application [[arxiv](https://arxiv.org/abs/2501.02916)] [[paper with code](https://paperswithcode.com/paper/spiking-monocular-event-based-6d-pose)]
 
 - Signal Recovery Using a Spiked Mixture Model [[arxiv](https://arxiv.org/abs/2501.01840)] [[paper with code](https://paperswithcode.com/paper/signal-recovery-using-a-spiked-mixture-model)]
 
@@ -15,6 +17,4 @@
 - A finite strain model for fiber angle plasticity of textile fabrics based on isogeometric shell finite elements [[arxiv](https://arxiv.org/abs/2412.20131)]
 
 - Maintain Plasticity in Long-timescale Continual Test-time Adaptation [[arxiv](https://arxiv.org/abs/2412.20034)] [[paper with code](https://paperswithcode.com/paper/maintain-plasticity-in-long-timescale)]
-
-- Contemporary implementations of spiking bio-inspired neural networks [[arxiv](https://arxiv.org/abs/2412.17926)] [[paper with code](https://paperswithcode.com/paper/contemporary-implementations-of-spiking-bio)]
 
