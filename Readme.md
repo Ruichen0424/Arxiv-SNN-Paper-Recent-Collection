@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-01-08)** 
+ ### **Last 5 working days (Updated on 2025-01-09)** 
 
+
+- The Robustness of Spiking Neural Networks in Federated Learning with Compression Against Non-omniscient Byzantine Attacks [[arxiv](https://arxiv.org/abs/2501.03306)] [[paper with code](https://paperswithcode.com/paper/the-robustness-of-spiking-neural-networks-in-1)]
+
+- Breaking Through the Spike: Spike Window Decoding for Accelerated and Precise Automatic Speech Recognition [[arxiv](https://arxiv.org/abs/2501.03257)]
 
 - Spiking monocular event based 6D pose estimation for space application [[arxiv](https://arxiv.org/abs/2501.02916)] [[paper with code](https://paperswithcode.com/paper/spiking-monocular-event-based-6d-pose)]
 
