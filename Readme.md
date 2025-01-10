@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-01-10)** 
+ ### **Last 5 working days (Updated on 2025-01-11)** 
 
+
+- Enhanced Quantile Regression with Spiking Neural Networks for Long-Term System Health Prognostics [[arxiv](https://arxiv.org/abs/2501.05087)]
 
 - A Direct-adjoint Approach for Material Point Model Calibration with Application to Plasticity [[arxiv](https://arxiv.org/abs/2501.04584)]
 
@@ -15,8 +17,4 @@
 - Spiking monocular event based 6D pose estimation for space application [[arxiv](https://arxiv.org/abs/2501.02916)] [[paper with code](https://paperswithcode.com/paper/spiking-monocular-event-based-6d-pose)]
 
 - Signal Recovery Using a Spiked Mixture Model [[arxiv](https://arxiv.org/abs/2501.01840)] [[paper with code](https://paperswithcode.com/paper/signal-recovery-using-a-spiked-mixture-model)]
-
-- Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL [[arxiv](https://arxiv.org/abs/2501.01038)]
-
-- Temporal Information Reconstruction and Non-Aligned Residual in Spiking Neural Networks for Speech Classification [[arxiv](https://arxiv.org/abs/2501.00348)] [[paper with code](https://paperswithcode.com/paper/temporal-information-reconstruction-and-non)]
 
