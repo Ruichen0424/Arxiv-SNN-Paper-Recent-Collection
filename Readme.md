@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-01-12)** 
+ ### **Last 5 working days (Updated on 2025-01-13)** 
 
 
 - Enhanced Quantile Regression with Spiking Neural Networks for Long-Term System Health Prognostics [[arxiv](https://arxiv.org/abs/2501.05087)]
