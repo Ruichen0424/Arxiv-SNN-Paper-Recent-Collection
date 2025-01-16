@@ -1,20 +1,24 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-01-14)** 
+ ### **Last 5 working days (Updated on 2025-01-16)** 
 
+
+- Learnable Sparsification of Die-to-Die Communication via Spike-Based Encoding [[arxiv](https://arxiv.org/abs/2501.08645)]
+
+- Self-Attentive Spatio-Temporal Calibration for Precise Intermediate Layer Matching in ANN-to-SNN Distillation [[arxiv](https://arxiv.org/abs/2501.08049)] [[paper with code](https://paperswithcode.com/paper/self-attentive-spatio-temporal-calibration)]
+
+- Spiking Neural Network Accelerator Architecture for Differential-Time Representation using Learned Encoding [[arxiv](https://arxiv.org/abs/2501.07952)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-network-accelerator)]
+
+- An Efficient Sparse Hardware Accelerator for Spike-Driven Transformer [[arxiv](https://arxiv.org/abs/2501.07825)]
+
+- Efficient Event-based Delay Learning in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2501.07331)] [[paper with code](https://paperswithcode.com/paper/efficient-event-based-delay-learning-in)] [[code](https://github.com/mbalazs98/deventprop)]
+
+- SPAM: Spike-Aware Adam with Momentum Reset for Stable LLM Training [[arxiv](https://arxiv.org/abs/2501.06842)] [[paper with code](https://paperswithcode.com/paper/spam-spike-aware-adam-with-momentum-reset-for)] [[code](https://github.com/tianjinyellow/spam-optimizer)]
+
+- Temporal-Aware Spiking Transformer Hashing Based on 3D-DWT [[arxiv](https://arxiv.org/abs/2501.06786)] [[paper with code](https://paperswithcode.com/paper/temporal-aware-spiking-transformer-hashing)]
 
 - Binary Event-Driven Spiking Transformer [[arxiv](https://arxiv.org/abs/2501.05904)] [[paper with code](https://paperswithcode.com/paper/binary-event-driven-spiking-transformer)]
 
 - Enhanced Quantile Regression with Spiking Neural Networks for Long-Term System Health Prognostics [[arxiv](https://arxiv.org/abs/2501.05087)] [[paper with code](https://paperswithcode.com/paper/enhanced-quantile-regression-with-spiking)]
-
-- A Direct-adjoint Approach for Material Point Model Calibration with Application to Plasticity [[arxiv](https://arxiv.org/abs/2501.04584)]
-
-- Rethinking High-speed Image Reconstruction Framework with Spike Camera [[arxiv](https://arxiv.org/abs/2501.04477)] [[paper with code](https://paperswithcode.com/paper/rethinking-high-speed-image-reconstruction)] [[code](https://github.com/chenkang455/spikeclip)]
-
-- The Robustness of Spiking Neural Networks in Federated Learning with Compression Against Non-omniscient Byzantine Attacks [[arxiv](https://arxiv.org/abs/2501.03306)] [[paper with code](https://paperswithcode.com/paper/the-robustness-of-spiking-neural-networks-in-1)]
-
-- Breaking Through the Spike: Spike Window Decoding for Accelerated and Precise Automatic Speech Recognition [[arxiv](https://arxiv.org/abs/2501.03257)] [[paper with code](https://paperswithcode.com/paper/breaking-through-the-spike-spike-window)]
-
-- Spiking monocular event based 6D pose estimation for space application [[arxiv](https://arxiv.org/abs/2501.02916)] [[paper with code](https://paperswithcode.com/paper/spiking-monocular-event-based-6d-pose)]
 
