@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-01-16)** 
+ ### **Last 5 working days (Updated on 2025-01-17)** 
 
 
 - Learnable Sparsification of Die-to-Die Communication via Spike-Based Encoding [[arxiv](https://arxiv.org/abs/2501.08645)]
