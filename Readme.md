@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-01-17)** 
+ ### **Last 5 working days (Updated on 2025-01-18)** 
 
 
 - Learnable Sparsification of Die-to-Die Communication via Spike-Based Encoding [[arxiv](https://arxiv.org/abs/2501.08645)]
@@ -19,6 +19,4 @@
 - Temporal-Aware Spiking Transformer Hashing Based on 3D-DWT [[arxiv](https://arxiv.org/abs/2501.06786)] [[paper with code](https://paperswithcode.com/paper/temporal-aware-spiking-transformer-hashing)]
 
 - Binary Event-Driven Spiking Transformer [[arxiv](https://arxiv.org/abs/2501.05904)] [[paper with code](https://paperswithcode.com/paper/binary-event-driven-spiking-transformer)]
-
-- Enhanced Quantile Regression with Spiking Neural Networks for Long-Term System Health Prognostics [[arxiv](https://arxiv.org/abs/2501.05087)] [[paper with code](https://paperswithcode.com/paper/enhanced-quantile-regression-with-spiking)]
 
