@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-01-20)** 
+ ### **Last 5 working days (Updated on 2025-01-21)** 
 
 
 - Learnable Sparsification of Die-to-Die Communication via Spike-Based Encoding [[arxiv](https://arxiv.org/abs/2501.08645)]
@@ -17,6 +17,4 @@
 - SPAM: Spike-Aware Adam with Momentum Reset for Stable LLM Training [[arxiv](https://arxiv.org/abs/2501.06842)] [[paper with code](https://paperswithcode.com/paper/spam-spike-aware-adam-with-momentum-reset-for)] [[code](https://github.com/tianjinyellow/spam-optimizer)]
 
 - Temporal-Aware Spiking Transformer Hashing Based on 3D-DWT [[arxiv](https://arxiv.org/abs/2501.06786)] [[paper with code](https://paperswithcode.com/paper/temporal-aware-spiking-transformer-hashing)]
-
-- Binary Event-Driven Spiking Transformer [[arxiv](https://arxiv.org/abs/2501.05904)] [[paper with code](https://paperswithcode.com/paper/binary-event-driven-spiking-transformer)]
 
