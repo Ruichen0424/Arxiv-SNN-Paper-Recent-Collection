@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-01-26)** 
+ ### **Last 5 working days (Updated on 2025-01-27)** 
 
 
 - Quantized Spike-driven Transformer [[arxiv](https://arxiv.org/abs/2501.13492)] [[paper with code](https://paperswithcode.com/paper/quantized-spike-driven-transformer)] [[code](https://github.com/bollossom/qsd-transformer)]
