@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-01-30)** 
+ ### **Last 5 working days (Updated on 2025-01-31)** 
 
+
+- Towards spiking analog hardware implementation of a trajectory interpolation mechanism for smooth closed-loop control of a spiking robot arm [[arxiv](https://arxiv.org/abs/2501.17172)] [[paper with code](https://paperswithcode.com/paper/towards-spiking-analog-hardware)]
 
 - Toward Relative Positional Encoding in Spiking Transformers [[arxiv](https://arxiv.org/abs/2501.16745)] [[paper with code](https://paperswithcode.com/paper/toward-relative-positional-encoding-in)]
 
