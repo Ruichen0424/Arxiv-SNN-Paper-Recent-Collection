@@ -1,26 +1,16 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-01-31)** 
+ ### **Last 5 working days (Updated on 2025-02-28)** 
 
 
-- Towards spiking analog hardware implementation of a trajectory interpolation mechanism for smooth closed-loop control of a spiking robot arm [[arxiv](https://arxiv.org/abs/2501.17172)] [[paper with code](https://paperswithcode.com/paper/towards-spiking-analog-hardware)]
+- Noise-Injected Spiking Graph Convolution for Energy-Efficient 3D Point Cloud Denoising [[arxiv](https://arxiv.org/abs/2502.19660)]
 
-- Toward Relative Positional Encoding in Spiking Transformers [[arxiv](https://arxiv.org/abs/2501.16745)] [[paper with code](https://paperswithcode.com/paper/toward-relative-positional-encoding-in)]
+- On the Privacy-Preserving Properties of Spiking Neural Networks with Unique Surrogate Gradients and Quantization Levels [[arxiv](https://arxiv.org/abs/2502.18623)]
 
-- Efficient Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment [[arxiv](https://arxiv.org/abs/2501.15925)] [[paper with code](https://paperswithcode.com/paper/efficient-distillation-of-deep-spiking-neural)]
+- SpikeRL: A Scalable and Energy-efficient Framework for Deep Spiking Reinforcement Learning [[arxiv](https://arxiv.org/abs/2502.17496)] [[paper with code](https://paperswithcode.com/paper/spikerl-a-scalable-and-energy-efficient)]
 
-- SpikSSD: Better Extraction and Fusion for Object Detection with Spiking Neuron Networks [[arxiv](https://arxiv.org/abs/2501.15151)] [[paper with code](https://paperswithcode.com/paper/spikssd-better-extraction-and-fusion-for)] [[code](https://github.com/yimeng-fan/spikssd)]
+- Advancing Out-of-Distribution Detection via Local Neuroplasticity [[arxiv](https://arxiv.org/abs/2502.15833)] [[paper with code](https://paperswithcode.com/paper/advancing-out-of-distribution-detection-via)] [[code](https://github.com/alessandro-canevaro/KAN-OOD)]
 
-- Neuromorphic Spiking Neural Network Based Classification of COVID-19 Spike Sequences [[arxiv](https://arxiv.org/abs/2501.14746)] [[paper with code](https://paperswithcode.com/paper/neuromorphic-spiking-neural-network-based)]
-
-- FSTA-SNN:Frequency-based Spatial-Temporal Attention Module for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2501.14744)] [[paper with code](https://paperswithcode.com/paper/fsta-snn-frequency-based-spatial-temporal)] [[code](https://github.com/yukairong/fsta-snn)]
-
-- A Recurrent Spiking Network with Hierarchical Intrinsic Excitability Modulation for Schema Learning [[arxiv](https://arxiv.org/abs/2501.14539)] [[paper with code](https://paperswithcode.com/paper/a-recurrent-spiking-network-with-hierarchical)]
-
-- Channel-wise Parallelizable Spiking Neuron with Multiplication-free Dynamics and Large Temporal Receptive Fields [[arxiv](https://arxiv.org/abs/2501.14490)] [[paper with code](https://paperswithcode.com/paper/channel-wise-parallelizable-spiking-neuron)]
-
-- $SpikePack$: Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility [[arxiv](https://arxiv.org/abs/2501.14484)] [[paper with code](https://paperswithcode.com/paper/spikepack-enhanced-information-flow-in)]
-
-- Quantized Spike-driven Transformer [[arxiv](https://arxiv.org/abs/2501.13492)] [[paper with code](https://paperswithcode.com/paper/quantized-spike-driven-transformer)] [[code](https://github.com/bollossom/qsd-transformer)]
+- Spiking Point Transformer for Point Cloud Classification [[arxiv](https://arxiv.org/abs/2502.15811)] [[paper with code](https://paperswithcode.com/paper/spiking-point-transformer-for-point-cloud)] [[code](https://github.com/PeppaWu/SPT)]
 
