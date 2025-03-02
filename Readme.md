@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-03-02)** 
+ ### **Last 5 working days (Updated on 2025-03-03)** 
 
 
 - Noise-Injected Spiking Graph Convolution for Energy-Efficient 3D Point Cloud Denoising [[arxiv](https://arxiv.org/abs/2502.19660)] [[paper with code](https://paperswithcode.com/paper/noise-injected-spiking-graph-convolution-for)]
