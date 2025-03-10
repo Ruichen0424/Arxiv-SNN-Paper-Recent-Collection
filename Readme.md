@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-03-10)** 
+ ### **Last 5 working days (Updated on 2025-03-11)** 
 
 
 - THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks [[arxiv](https://arxiv.org/abs/2503.05112)]
