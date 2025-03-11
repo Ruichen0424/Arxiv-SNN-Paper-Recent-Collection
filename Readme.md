@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-03-11)** 
+ ### **Last 5 working days (Updated on 2025-03-12)** 
 
+
+- Characterizing Learning in Spiking Neural Networks with Astrocyte-Like Units [[arxiv](https://arxiv.org/abs/2503.06798)]
+
+- Lifelong Learning with Task-Specific Adaptation: Addressing the Stability-Plasticity Dilemma [[arxiv](https://arxiv.org/abs/2503.06213)]
 
 - THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks [[arxiv](https://arxiv.org/abs/2503.05112)]
 
@@ -14,7 +18,7 @@
 
 - Prosperity: Accelerating Spiking Neural Networks via Product Sparsity [[arxiv](https://arxiv.org/abs/2503.03379)] [[paper with code](https://paperswithcode.com/paper/prosperity-accelerating-spiking-neural)] [[code](https://github.com/dubcyfor3/Prosperity)]
 
-- Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients [[arxiv](https://arxiv.org/abs/2503.03272)] [[paper with code](https://paperswithcode.com/paper/towards-effective-and-sparse-adversarial)]
+- Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients [[arxiv](https://arxiv.org/abs/2503.03272)] [[paper with code](https://paperswithcode.com/paper/towards-effective-and-sparse-adversarial)] [[code](https://github.com/ryime/pdsg-sda)]
 
 - Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2503.03144)] [[paper with code](https://paperswithcode.com/paper/temporal-separation-with-entropy)]
 
@@ -33,22 +37,4 @@
 - Spike-and-Slab Posterior Sampling in High Dimensions [[arxiv](https://arxiv.org/abs/2503.02798)] [[paper with code](https://paperswithcode.com/paper/spike-and-slab-posterior-sampling-in-high)]
 
 - Weight transport through spike timing for robust local gradients [[arxiv](https://arxiv.org/abs/2503.02642)] [[paper with code](https://paperswithcode.com/paper/weight-transport-through-spike-timing-for)]
-
-- Improving Plasticity in Non-stationary Reinforcement Learning with Evidential Proximal Policy Optimization [[arxiv](https://arxiv.org/abs/2503.01468)] [[paper with code](https://paperswithcode.com/paper/improving-plasticity-in-non-stationary)]
-
-- Range and Angle Estimation with Spiking Neural Resonators for FMCW Radar [[arxiv](https://arxiv.org/abs/2503.00898)] [[paper with code](https://paperswithcode.com/paper/range-and-angle-estimation-with-spiking)]
-
-- Implementing Spiking World Model with Multi-Compartment Neurons for Model-based Reinforcement Learning [[arxiv](https://arxiv.org/abs/2503.00713)] [[paper with code](https://paperswithcode.com/paper/implementing-spiking-world-model-with-multi)]
-
-- Reservoir Network with Structural Plasticity for Human Activity Recognition [[arxiv](https://arxiv.org/abs/2503.00393)]
-
-- Adaptive Wall-Following Control for Unmanned Ground Vehicles Using Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2503.00380)] [[paper with code](https://paperswithcode.com/paper/adaptive-wall-following-control-for-unmanned)]
-
-- Differential Coding for Training-Free ANN-to-SNN Conversion [[arxiv](https://arxiv.org/abs/2503.00301)] [[paper with code](https://paperswithcode.com/paper/differential-coding-for-training-free-ann-to)]
-
-- Maintaining Plasticity in Reinforcement Learning: A Cost-Aware Framework for Aerial Robot Control in Non-stationary Environments [[arxiv](https://arxiv.org/abs/2503.00282)]
-
-- Spiking Transformer:Introducing Accurate Addition-Only Spiking Self-Attention for Transformer [[arxiv](https://arxiv.org/abs/2503.00226)] [[paper with code](https://paperswithcode.com/paper/spiking-transformer-introducing-accurate)]
-
-- Memory-Free and Parallel Computation for Quantized Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2503.00040)] [[paper with code](https://paperswithcode.com/paper/memory-free-and-parallel-computation-for)]
 
