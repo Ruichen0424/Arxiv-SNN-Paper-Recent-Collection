@@ -1,26 +1,22 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-03-13)** 
+ ### **Last 5 working days (Updated on 2025-03-20)** 
 
 
-- Freezing chaos without synaptic plasticity [[arxiv](https://arxiv.org/abs/2503.08069)]
+- Towards efficient keyword spotting using spike-based time difference encoders [[arxiv](https://arxiv.org/abs/2503.15402)]
 
-- Characterizing Learning in Spiking Neural Networks with Astrocyte-Like Units [[arxiv](https://arxiv.org/abs/2503.06798)] [[paper with code](https://paperswithcode.com/paper/characterizing-learning-in-spiking-neural)]
+- Spectrally-Corrected and Regularized QDA Classifier for Spiked Covariance Model [[arxiv](https://arxiv.org/abs/2503.13582)] [[paper with code](https://paperswithcode.com/paper/spectrally-corrected-and-regularized-qda)]
 
-- Lifelong Learning with Task-Specific Adaptation: Addressing the Stability-Plasticity Dilemma [[arxiv](https://arxiv.org/abs/2503.06213)] [[paper with code](https://paperswithcode.com/paper/lifelong-learning-with-task-specific)]
+- UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2503.12905)] [[paper with code](https://paperswithcode.com/paper/ucf-crime-dvs-a-novel-event-based-dataset-for)]
 
-- THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks [[arxiv](https://arxiv.org/abs/2503.05112)]
+- Comparative Study of Spike Encoding Methods for Environmental Sound Classification [[arxiv](https://arxiv.org/abs/2503.11206)]
 
-- TS-LIF: A Temporal Segment Spiking Neuron Network for Time Series Forecasting [[arxiv](https://arxiv.org/abs/2503.05108)]
+- Adding numbers with spiking neural circuits on neuromorphic hardware [[arxiv](https://arxiv.org/abs/2503.10387)] [[paper with code](https://paperswithcode.com/paper/adding-numbers-with-spiking-neural-circuits)]
 
-- Spiking Meets Attention: Efficient Remote Sensing Image Super-Resolution with Attention Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2503.04223)]
+- ST-FlowNet: An Efficient Spiking Neural Network for Event-Based Optical Flow Estimation [[arxiv](https://arxiv.org/abs/2503.10195)] [[paper with code](https://paperswithcode.com/paper/st-flownet-an-efficient-spiking-neural)]
 
-- Neural Models of Task Adaptation: A Tutorial on Spiking Networks for Executive Control [[arxiv](https://arxiv.org/abs/2503.03784)] [[paper with code](https://paperswithcode.com/paper/neural-models-of-task-adaptation-a-tutorial)]
+- DTA: Dual Temporal-channel-wise Attention for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2503.10052)] [[paper with code](https://paperswithcode.com/paper/dta-dual-temporal-channel-wise-attention-for)] [[code](https://github.com/mnjnkim/dta-snn)]
 
-- Prosperity: Accelerating Spiking Neural Networks via Product Sparsity [[arxiv](https://arxiv.org/abs/2503.03379)] [[paper with code](https://paperswithcode.com/paper/prosperity-accelerating-spiking-neural)] [[code](https://github.com/dubcyfor3/Prosperity)]
-
-- Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients [[arxiv](https://arxiv.org/abs/2503.03272)] [[paper with code](https://paperswithcode.com/paper/towards-effective-and-sparse-adversarial)] [[code](https://github.com/ryime/pdsg-sda)]
-
-- Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2503.03144)] [[paper with code](https://paperswithcode.com/paper/temporal-separation-with-entropy)]
+- ES-Parkour: Advanced Robot Parkour with Bio-inspired Event Camera and Spiking Neural Network [[arxiv](https://arxiv.org/abs/2503.09985)] [[paper with code](https://paperswithcode.com/paper/es-parkour-advanced-robot-parkour-with-bio)]
 
