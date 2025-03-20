@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-03-20)** 
+ ### **Last 5 working days (Updated on 2025-03-21)** 
 
 
 - Towards efficient keyword spotting using spike-based time difference encoders [[arxiv](https://arxiv.org/abs/2503.15402)]
