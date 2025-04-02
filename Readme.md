@@ -1,20 +1,38 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-03-24)** 
+ ### **Last 5 working days (Updated on 2025-04-03)** 
 
 
-- GazeSCRNN: Event-based Near-eye Gaze Tracking using a Spiking Neural Network [[arxiv](https://arxiv.org/abs/2503.16012)] [[paper with code](https://paperswithcode.com/paper/gazescrnn-event-based-near-eye-gaze-tracking)]
+- Enabling Efficient Processing of Spiking Neural Networks with On-Chip Learning on Commodity Neuromorphic Processors for Edge AI Systems [[arxiv](https://arxiv.org/abs/2504.00957)]
 
-- SpiLiFormer: Enhancing Spiking Transformers with Lateral Inhibition [[arxiv](https://arxiv.org/abs/2503.15986)] [[paper with code](https://paperswithcode.com/paper/spiliformer-enhancing-spiking-transformers)]
+- QSViT: A Methodology for Quantizing Spiking Vision Transformers [[arxiv](https://arxiv.org/abs/2504.00948)]
 
-- Allostatic Control of Persistent States in Spiking Neural Networks for perception and computation [[arxiv](https://arxiv.org/abs/2503.16085)] [[paper with code](https://paperswithcode.com/paper/allostatic-control-of-persistent-states-in)]
+- SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection [[arxiv](https://arxiv.org/abs/2503.24389)] [[paper with code](https://paperswithcode.com/paper/su-yolo-spiking-neural-network-for-efficient)] [[code](https://github.com/lwxfight/snn-underwater)]
 
-- Towards efficient keyword spotting using spike-based time difference encoders [[arxiv](https://arxiv.org/abs/2503.15402)] [[paper with code](https://paperswithcode.com/paper/towards-efficient-keyword-spotting-using)]
+- A Plasticity-Aware Method for Continual Self-Supervised Learning in Remote Sensing [[arxiv](https://arxiv.org/abs/2503.24088)] [[paper with code](https://paperswithcode.com/paper/a-plasticity-aware-method-for-continual-self)]
 
-- Spectrally-Corrected and Regularized QDA Classifier for Spiked Covariance Model [[arxiv](https://arxiv.org/abs/2503.13582)] [[paper with code](https://paperswithcode.com/paper/spectrally-corrected-and-regularized-qda)]
+- Biologically Inspired Spiking Diffusion Model with Adaptive Lateral Selection Mechanism [[arxiv](https://arxiv.org/abs/2503.23767)] [[paper with code](https://paperswithcode.com/paper/biologically-inspired-spiking-diffusion-model)]
 
-- UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2503.12905)] [[paper with code](https://paperswithcode.com/paper/ucf-crime-dvs-a-novel-event-based-dataset-for)]
+- Pareto Continual Learning: Preference-Conditioned Learning and Adaption for Dynamic Stability-Plasticity Trade-off [[arxiv](https://arxiv.org/abs/2503.23390)] [[paper with code](https://paperswithcode.com/paper/pareto-continual-learning-preference)] [[code](https://github.com/laisong-22004009/paretocl)]
 
-- Comparative Study of Spike Encoding Methods for Environmental Sound Classification [[arxiv](https://arxiv.org/abs/2503.11206)]
+- LightSNN: Lightweight Architecture Search for Sparse and Accurate Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2503.21846)] [[paper with code](https://paperswithcode.com/paper/lightsnn-lightweight-architecture-search-for)]
+
+- Threshold Adaptation in Spiking Networks Enables Shortest Path Finding and Place Disambiguation [[arxiv](https://arxiv.org/abs/2503.21795)] [[paper with code](https://paperswithcode.com/paper/threshold-adaptation-in-spiking-networks)] [[code](https://github.com/dietriro/neuroseq)]
+
+- Input-Triggered Hardware Trojan Attack on Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2503.21793)] [[paper with code](https://paperswithcode.com/paper/input-triggered-hardware-trojan-attack-on)]
+
+- Neuroplasticity in Artificial Intelligence -- An Overview and Inspirations on Drop In & Out Learning [[arxiv](https://arxiv.org/abs/2503.21419)] [[paper with code](https://paperswithcode.com/paper/neuroplasticity-in-artificial-intelligence-an)]
+
+- A 71.2-$μ$W Speech Recognition Accelerator with Recurrent Spiking Neural Network [[arxiv](https://arxiv.org/abs/2503.21337)] [[paper with code](https://paperswithcode.com/paper/a-71-2-m-w-speech-recognition-accelerator)]
+
+- In vitro 2 In vivo : Bidirectional and High-Precision Generation of In Vitro and In Vivo Neuronal Spike Data [[arxiv](https://arxiv.org/abs/2503.20841)] [[paper with code](https://paperswithcode.com/paper/in-vitro-2-in-vivo-bidirectional-and-high)]
+
+- SpikeDerain: Unveiling Clear Videos from Rainy Sequences Using Color Spike Streams [[arxiv](https://arxiv.org/abs/2503.20315)] [[paper with code](https://paperswithcode.com/paper/spikederain-unveiling-clear-videos-from-rainy)]
+
+- VESTA: A Versatile SNN-Based Transformer Accelerator with Unified PEs for Multiple Computational Layers [[arxiv](https://arxiv.org/abs/2503.20246)]
+
+- Experience Replay Addresses Loss of Plasticity in Continual Learning [[arxiv](https://arxiv.org/abs/2503.20018)] [[paper with code](https://paperswithcode.com/paper/experience-replay-addresses-loss-of)]
+
+- Underwater Image Enhancement by Convolutional Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2503.20485)] [[paper with code](https://paperswithcode.com/paper/underwater-image-enhancement-by-convolutional)] [[code](https://github.com/vidya-rejul/uie-snn)]
 
