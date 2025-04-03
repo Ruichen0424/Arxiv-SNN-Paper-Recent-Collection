@@ -1,10 +1,18 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-04-03)** 
+ ### **Last 5 working days (Updated on 2025-04-04)** 
 
 
-- Enabling Efficient Processing of Spiking Neural Networks with On-Chip Learning on Commodity Neuromorphic Processors for Edge AI Systems [[arxiv](https://arxiv.org/abs/2504.00957)]
+- Tunable Thresholds and Frequency Encoding in a Spiking NOD Controller [[arxiv](https://arxiv.org/abs/2504.01878)] [[paper with code](https://paperswithcode.com/paper/tunable-thresholds-and-frequency-encoding-in)]
+
+- Bridge the Gap between SNN and ANN for Image Restoration [[arxiv](https://arxiv.org/abs/2504.01755)]
+
+- FLAMES: A Hybrid Spiking-State Space Model for Adaptive Memory Retention in Event-Based Learning [[arxiv](https://arxiv.org/abs/2504.01257)]
+
+- Dynamic Graph Structure Estimation for Learning Multivariate Point Process using Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2504.01246)]
+
+- Enabling Efficient Processing of Spiking Neural Networks with On-Chip Learning on Commodity Neuromorphic Processors for Edge AI Systems [[arxiv](https://arxiv.org/abs/2504.00957)] [[paper with code](https://paperswithcode.com/paper/enabling-efficient-processing-of-spiking)]
 
 - QSViT: A Methodology for Quantizing Spiking Vision Transformers [[arxiv](https://arxiv.org/abs/2504.00948)]
 
@@ -27,12 +35,4 @@
 - A 71.2-$μ$W Speech Recognition Accelerator with Recurrent Spiking Neural Network [[arxiv](https://arxiv.org/abs/2503.21337)] [[paper with code](https://paperswithcode.com/paper/a-71-2-m-w-speech-recognition-accelerator)]
 
 - In vitro 2 In vivo : Bidirectional and High-Precision Generation of In Vitro and In Vivo Neuronal Spike Data [[arxiv](https://arxiv.org/abs/2503.20841)] [[paper with code](https://paperswithcode.com/paper/in-vitro-2-in-vivo-bidirectional-and-high)]
-
-- SpikeDerain: Unveiling Clear Videos from Rainy Sequences Using Color Spike Streams [[arxiv](https://arxiv.org/abs/2503.20315)] [[paper with code](https://paperswithcode.com/paper/spikederain-unveiling-clear-videos-from-rainy)]
-
-- VESTA: A Versatile SNN-Based Transformer Accelerator with Unified PEs for Multiple Computational Layers [[arxiv](https://arxiv.org/abs/2503.20246)]
-
-- Experience Replay Addresses Loss of Plasticity in Continual Learning [[arxiv](https://arxiv.org/abs/2503.20018)] [[paper with code](https://paperswithcode.com/paper/experience-replay-addresses-loss-of)]
-
-- Underwater Image Enhancement by Convolutional Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2503.20485)] [[paper with code](https://paperswithcode.com/paper/underwater-image-enhancement-by-convolutional)] [[code](https://github.com/vidya-rejul/uie-snn)]
 
