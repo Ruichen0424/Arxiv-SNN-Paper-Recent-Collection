@@ -1,16 +1,22 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-04-04)** 
+ ### **Last 5 working days (Updated on 2025-04-05)** 
 
+
+- State-Space Model Inspired Multiple-Input Multiple-Output Spiking Neurons [[arxiv](https://arxiv.org/abs/2504.02591)]
+
+- ZClip: Adaptive Spike Mitigation for LLM Pre-Training [[arxiv](https://arxiv.org/abs/2504.02507)] [[paper with code](https://paperswithcode.com/paper/zclip-adaptive-spike-mitigation-for-llm-pre)] [[code](https://github.com/bluorion-com/ZClip)]
+
+- SPACE: SPike-Aware Consistency Enhancement for Test-Time Adaptation in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2504.02298)]
 
 - Tunable Thresholds and Frequency Encoding in a Spiking NOD Controller [[arxiv](https://arxiv.org/abs/2504.01878)] [[paper with code](https://paperswithcode.com/paper/tunable-thresholds-and-frequency-encoding-in)]
 
-- Bridge the Gap between SNN and ANN for Image Restoration [[arxiv](https://arxiv.org/abs/2504.01755)]
+- Bridge the Gap between SNN and ANN for Image Restoration [[arxiv](https://arxiv.org/abs/2504.01755)] [[paper with code](https://paperswithcode.com/paper/bridge-the-gap-between-snn-and-ann-for-image)]
 
-- FLAMES: A Hybrid Spiking-State Space Model for Adaptive Memory Retention in Event-Based Learning [[arxiv](https://arxiv.org/abs/2504.01257)]
+- FLAMES: A Hybrid Spiking-State Space Model for Adaptive Memory Retention in Event-Based Learning [[arxiv](https://arxiv.org/abs/2504.01257)] [[paper with code](https://paperswithcode.com/paper/flames-a-hybrid-spiking-state-space-model-for)]
 
-- Dynamic Graph Structure Estimation for Learning Multivariate Point Process using Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2504.01246)]
+- Dynamic Graph Structure Estimation for Learning Multivariate Point Process using Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2504.01246)] [[paper with code](https://paperswithcode.com/paper/dynamic-graph-structure-estimation-for)]
 
 - Enabling Efficient Processing of Spiking Neural Networks with On-Chip Learning on Commodity Neuromorphic Processors for Edge AI Systems [[arxiv](https://arxiv.org/abs/2504.00957)] [[paper with code](https://paperswithcode.com/paper/enabling-efficient-processing-of-spiking)]
 
@@ -29,10 +35,4 @@
 - Threshold Adaptation in Spiking Networks Enables Shortest Path Finding and Place Disambiguation [[arxiv](https://arxiv.org/abs/2503.21795)] [[paper with code](https://paperswithcode.com/paper/threshold-adaptation-in-spiking-networks)] [[code](https://github.com/dietriro/neuroseq)]
 
 - Input-Triggered Hardware Trojan Attack on Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2503.21793)] [[paper with code](https://paperswithcode.com/paper/input-triggered-hardware-trojan-attack-on)]
-
-- Neuroplasticity in Artificial Intelligence -- An Overview and Inspirations on Drop In & Out Learning [[arxiv](https://arxiv.org/abs/2503.21419)] [[paper with code](https://paperswithcode.com/paper/neuroplasticity-in-artificial-intelligence-an)]
-
-- A 71.2-$μ$W Speech Recognition Accelerator with Recurrent Spiking Neural Network [[arxiv](https://arxiv.org/abs/2503.21337)] [[paper with code](https://paperswithcode.com/paper/a-71-2-m-w-speech-recognition-accelerator)]
-
-- In vitro 2 In vivo : Bidirectional and High-Precision Generation of In Vitro and In Vivo Neuronal Spike Data [[arxiv](https://arxiv.org/abs/2503.20841)] [[paper with code](https://paperswithcode.com/paper/in-vitro-2-in-vivo-bidirectional-and-high)]
 
