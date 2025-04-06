@@ -1,14 +1,14 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-04-06)** 
+ ### **Last 5 working days (Updated on 2025-04-07)** 
 
 
-- State-Space Model Inspired Multiple-Input Multiple-Output Spiking Neurons [[arxiv](https://arxiv.org/abs/2504.02591)]
+- State-Space Model Inspired Multiple-Input Multiple-Output Spiking Neurons [[arxiv](https://arxiv.org/abs/2504.02591)] [[paper with code](https://paperswithcode.com/paper/state-space-model-inspired-multiple-input)]
 
 - ZClip: Adaptive Spike Mitigation for LLM Pre-Training [[arxiv](https://arxiv.org/abs/2504.02507)] [[paper with code](https://paperswithcode.com/paper/zclip-adaptive-spike-mitigation-for-llm-pre)] [[code](https://github.com/bluorion-com/ZClip)]
 
-- SPACE: SPike-Aware Consistency Enhancement for Test-Time Adaptation in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2504.02298)]
+- SPACE: SPike-Aware Consistency Enhancement for Test-Time Adaptation in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2504.02298)] [[paper with code](https://paperswithcode.com/paper/space-spike-aware-consistency-enhancement-for)]
 
 - Tunable Thresholds and Frequency Encoding in a Spiking NOD Controller [[arxiv](https://arxiv.org/abs/2504.01878)] [[paper with code](https://paperswithcode.com/paper/tunable-thresholds-and-frequency-encoding-in)]
 
