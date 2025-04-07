@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-04-07)** 
+ ### **Last 5 working days (Updated on 2025-04-08)** 
 
 
 - State-Space Model Inspired Multiple-Input Multiple-Output Spiking Neurons [[arxiv](https://arxiv.org/abs/2504.02591)] [[paper with code](https://paperswithcode.com/paper/state-space-model-inspired-multiple-input)]
@@ -29,10 +29,4 @@
 - Biologically Inspired Spiking Diffusion Model with Adaptive Lateral Selection Mechanism [[arxiv](https://arxiv.org/abs/2503.23767)] [[paper with code](https://paperswithcode.com/paper/biologically-inspired-spiking-diffusion-model)]
 
 - Pareto Continual Learning: Preference-Conditioned Learning and Adaption for Dynamic Stability-Plasticity Trade-off [[arxiv](https://arxiv.org/abs/2503.23390)] [[paper with code](https://paperswithcode.com/paper/pareto-continual-learning-preference)] [[code](https://github.com/laisong-22004009/paretocl)]
-
-- LightSNN: Lightweight Architecture Search for Sparse and Accurate Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2503.21846)] [[paper with code](https://paperswithcode.com/paper/lightsnn-lightweight-architecture-search-for)]
-
-- Threshold Adaptation in Spiking Networks Enables Shortest Path Finding and Place Disambiguation [[arxiv](https://arxiv.org/abs/2503.21795)] [[paper with code](https://paperswithcode.com/paper/threshold-adaptation-in-spiking-networks)] [[code](https://github.com/dietriro/neuroseq)]
-
-- Input-Triggered Hardware Trojan Attack on Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2503.21793)] [[paper with code](https://paperswithcode.com/paper/input-triggered-hardware-trojan-attack-on)]
 
