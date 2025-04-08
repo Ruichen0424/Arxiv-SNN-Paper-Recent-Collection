@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-04-08)** 
+ ### **Last 5 working days (Updated on 2025-04-09)** 
 
+
+- Decision SpikeFormer: Spike-Driven Transformer for Decision Making [[arxiv](https://arxiv.org/abs/2504.03800)]
+
+- HiAER-Spike: Hardware-Software Co-Design for Large-Scale Reconfigurable Event-Driven Neuromorphic Computing [[arxiv](https://arxiv.org/abs/2504.03671)]
 
 - State-Space Model Inspired Multiple-Input Multiple-Output Spiking Neurons [[arxiv](https://arxiv.org/abs/2504.02591)] [[paper with code](https://paperswithcode.com/paper/state-space-model-inspired-multiple-input)]
 
@@ -21,12 +25,4 @@
 - Enabling Efficient Processing of Spiking Neural Networks with On-Chip Learning on Commodity Neuromorphic Processors for Edge AI Systems [[arxiv](https://arxiv.org/abs/2504.00957)] [[paper with code](https://paperswithcode.com/paper/enabling-efficient-processing-of-spiking)]
 
 - QSViT: A Methodology for Quantizing Spiking Vision Transformers [[arxiv](https://arxiv.org/abs/2504.00948)]
-
-- SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection [[arxiv](https://arxiv.org/abs/2503.24389)] [[paper with code](https://paperswithcode.com/paper/su-yolo-spiking-neural-network-for-efficient)] [[code](https://github.com/lwxfight/snn-underwater)]
-
-- A Plasticity-Aware Method for Continual Self-Supervised Learning in Remote Sensing [[arxiv](https://arxiv.org/abs/2503.24088)] [[paper with code](https://paperswithcode.com/paper/a-plasticity-aware-method-for-continual-self)]
-
-- Biologically Inspired Spiking Diffusion Model with Adaptive Lateral Selection Mechanism [[arxiv](https://arxiv.org/abs/2503.23767)] [[paper with code](https://paperswithcode.com/paper/biologically-inspired-spiking-diffusion-model)]
-
-- Pareto Continual Learning: Preference-Conditioned Learning and Adaption for Dynamic Stability-Plasticity Trade-off [[arxiv](https://arxiv.org/abs/2503.23390)] [[paper with code](https://paperswithcode.com/paper/pareto-continual-learning-preference)] [[code](https://github.com/laisong-22004009/paretocl)]
 
