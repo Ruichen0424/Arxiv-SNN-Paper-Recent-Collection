@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-04-13)** 
+ ### **Last 5 working days (Updated on 2025-04-14)** 
 
 
 - Learning in Spiking Neural Networks with a Calcium-based Hebbian Rule for Spike-timing-dependent Plasticity [[arxiv](https://arxiv.org/abs/2504.06796)]
