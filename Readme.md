@@ -1,12 +1,20 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-04-15)** 
+ ### **Last 5 working days (Updated on 2025-04-16)** 
 
+
+- Balancing Stability and Plasticity in Pretrained Detector: A Dual-Path Framework for Incremental Object Detection [[arxiv](https://arxiv.org/abs/2504.10214)]
+
+- Plasticity-Aware Mixture of Experts for Learning Under QoE Shifts in Adaptive Video Streaming [[arxiv](https://arxiv.org/abs/2504.09906)]
+
+- Spiking Neural Network for Intra-cortical Brain Signal Decoding [[arxiv](https://arxiv.org/abs/2504.09213)]
+
+- Toward Spiking Neural Network Local Learning Modules Resistant to Adversarial Attacks [[arxiv](https://arxiv.org/abs/2504.08897)]
 
 - Well-Posedness of Discretizations for Fractional Elasto-Plasticity [[arxiv](https://arxiv.org/abs/2504.08450)]
 
-- Neuron-level Balance between Stability and Plasticity in Deep Reinforcement Learning [[arxiv](https://arxiv.org/abs/2504.08000)]
+- Neuron-level Balance between Stability and Plasticity in Deep Reinforcement Learning [[arxiv](https://arxiv.org/abs/2504.08000)] [[paper with code](https://paperswithcode.com/paper/neuron-level-balance-between-stability-and)]
 
 - Learning in Spiking Neural Networks with a Calcium-based Hebbian Rule for Spike-timing-dependent Plasticity [[arxiv](https://arxiv.org/abs/2504.06796)]
 
@@ -17,8 +25,4 @@
 - SpikeStream: Accelerating Spiking Neural Network Inference on RISC-V Clusters with Sparse Computation Extensions [[arxiv](https://arxiv.org/abs/2504.06134)]
 
 - Three-Factor Learning in Spiking Neural Networks: An Overview of Methods and Trends from a Machine Learning Perspective [[arxiv](https://arxiv.org/abs/2504.05341)]
-
-- Decision SpikeFormer: Spike-Driven Transformer for Decision Making [[arxiv](https://arxiv.org/abs/2504.03800)]
-
-- HiAER-Spike: Hardware-Software Co-Design for Large-Scale Reconfigurable Event-Driven Neuromorphic Computing [[arxiv](https://arxiv.org/abs/2504.03671)] [[paper with code](https://paperswithcode.com/paper/hiaer-spike-hardware-software-co-design-for)]
 
