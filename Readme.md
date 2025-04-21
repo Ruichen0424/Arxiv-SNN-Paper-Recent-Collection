@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-04-21)** 
+ ### **Last 5 working days (Updated on 2025-04-22)** 
 
 
 - Spike-Kal: A Spiking Neuron Network Assisted Kalman Filter [[arxiv](https://arxiv.org/abs/2504.12703)] [[paper with code](https://paperswithcode.com/paper/spike-kal-a-spiking-neuron-network-assisted)]
@@ -10,7 +10,7 @@
 
 - GT-SVQ: A Linear-Time Graph Transformer for Node Classification Using Spiking Vector Quantization [[arxiv](https://arxiv.org/abs/2504.11840)]
 
-- Polarisation-Inclusive Spiking Neural Networks for Real-Time RFI Detection in Modern Radio Telescopes [[arxiv](https://arxiv.org/abs/2504.11720)] [[paper with code](https://paperswithcode.com/paper/polarisation-inclusive-spiking-neural)]
+- Polarisation-Inclusive Spiking Neural Networks for Real-Time RFI Detection in Modern Radio Telescopes [[arxiv](https://arxiv.org/abs/2504.11720)] [[paper with code](https://paperswithcode.com/paper/polarisation-inclusive-spiking-neural)] [[code](https://github.com/pritchardn/SNN-RFI-SUPER)]
 
 - Adaptively Pruned Spiking Neural Networks for Energy-Efficient Intracortical Neural Decoding [[arxiv](https://arxiv.org/abs/2504.11568)]
 
@@ -27,8 +27,4 @@
 - Spiking Neural Network for Intra-cortical Brain Signal Decoding [[arxiv](https://arxiv.org/abs/2504.09213)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-network-for-intra-cortical)] [[code](https://github.com/SongYang008/SNN_iBCIs)]
 
 - Toward Spiking Neural Network Local Learning Modules Resistant to Adversarial Attacks [[arxiv](https://arxiv.org/abs/2504.08897)] [[paper with code](https://paperswithcode.com/paper/toward-spiking-neural-network-local-learning)]
-
-- Well-Posedness of Discretizations for Fractional Elasto-Plasticity [[arxiv](https://arxiv.org/abs/2504.08450)]
-
-- Neuron-level Balance between Stability and Plasticity in Deep Reinforcement Learning [[arxiv](https://arxiv.org/abs/2504.08000)] [[paper with code](https://paperswithcode.com/paper/neuron-level-balance-between-stability-and)]
 
