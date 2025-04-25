@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-04-25)** 
+ ### **Last 5 working days (Updated on 2025-04-26)** 
 
 
 - Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN [[arxiv](https://arxiv.org/abs/2504.17751)]
