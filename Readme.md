@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-04-27)** 
+ ### **Last 5 working days (Updated on 2025-04-29)** 
 
+
+- A Deep Bayesian Convolutional Spiking Neural Network-based CAD system with Uncertainty Quantification for Medical Images Classification [[arxiv](https://arxiv.org/abs/2504.17819)]
 
 - Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN [[arxiv](https://arxiv.org/abs/2504.17751)]
 
