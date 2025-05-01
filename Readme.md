@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-05-01)** 
+ ### **Last 5 working days (Updated on 2025-05-02)** 
 
+
+- Precision Where It Matters: A Novel Spike Aware Mixed-Precision Quantization Strategy for LLaMA-based Language Models [[arxiv](https://arxiv.org/abs/2504.21553)]
 
 - Improvements of Dark Experience Replay and Reservoir Sampling towards Better Balance between Consolidation and Plasticity [[arxiv](https://arxiv.org/abs/2504.20932)]
 
@@ -15,6 +17,4 @@
 - Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN [[arxiv](https://arxiv.org/abs/2504.17751)]
 
 - Plasticine: Accelerating Research in Plasticity-Motivated Deep Reinforcement Learning [[arxiv](https://arxiv.org/abs/2504.17490)]
-
-- Alternately-optimized SNN method for acoustic scattering problem in unbounded domain [[arxiv](https://arxiv.org/abs/2504.16523)]
 
