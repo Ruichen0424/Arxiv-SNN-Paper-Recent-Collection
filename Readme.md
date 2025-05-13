@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-05-13)** 
+ ### **Last 5 working days (Updated on 2025-05-14)** 
 
 
 - Hybrid Spiking Vision Transformer for Object Detection with Event Cameras [[arxiv](https://arxiv.org/abs/2505.07715)] [[paper with code](https://paperswithcode.com/paper/hybrid-spiking-vision-transformer-for-object)]
