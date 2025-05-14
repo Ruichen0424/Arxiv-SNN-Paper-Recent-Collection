@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-05-14)** 
+ ### **Last 5 working days (Updated on 2025-05-15)** 
 
+
+- Convolutional Spiking Neural Network for Image Classification [[arxiv](https://arxiv.org/abs/2505.08514)]
+
+- Self-cross Feature based Spiking Neural Networks for Efficient Few-shot Learning [[arxiv](https://arxiv.org/abs/2505.07921)] [[paper with code](https://paperswithcode.com/paper/self-cross-feature-based-spiking-neural)]
 
 - Hybrid Spiking Vision Transformer for Object Detection with Event Cameras [[arxiv](https://arxiv.org/abs/2505.07715)] [[paper with code](https://paperswithcode.com/paper/hybrid-spiking-vision-transformer-for-object)]
 
