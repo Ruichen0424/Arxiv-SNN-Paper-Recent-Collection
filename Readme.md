@@ -1,8 +1,18 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-05-16)** 
+ ### **Last 5 working days (Updated on 2025-05-17)** 
 
+
+- ILIF: Temporal Inhibitory Leaky Integrate-and-Fire Neuron for Overactivation in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.10371)] [[paper with code](https://paperswithcode.com/paper/ilif-temporal-inhibitory-leaky-integrate-and)]
+
+- Plasticity as the Mirror of Empowerment [[arxiv](https://arxiv.org/abs/2505.10361)] [[paper with code](https://paperswithcode.com/paper/plasticity-as-the-mirror-of-empowerment)]
+
+- SpikeVideoFormer: An Efficient Spike-Driven Video Transformer with Hamming Attention and $\mathcal{O}(T)$ Complexity [[arxiv](https://arxiv.org/abs/2505.10352)] [[paper with code](https://paperswithcode.com/paper/spikevideoformer-an-efficient-spike-driven)]
+
+- Spike-timing-dependent Hebbian learning as noisy gradient descent [[arxiv](https://arxiv.org/abs/2505.10272)] [[paper with code](https://paperswithcode.com/paper/spike-timing-dependent-hebbian-learning-as)]
+
+- LAS: Loss-less ANN-SNN Conversion for Fully Spike-Driven Large Language Models [[arxiv](https://arxiv.org/abs/2505.09659)] [[paper with code](https://paperswithcode.com/paper/las-loss-less-ann-snn-conversion-for-fully)] [[code](https://github.com/lc783/las)]
 
 - Preserving Plasticity in Continual Learning with Adaptive Linearity Injection [[arxiv](https://arxiv.org/abs/2505.09486)] [[paper with code](https://paperswithcode.com/paper/preserving-plasticity-in-continual-learning)]
 
@@ -23,6 +33,4 @@
 - ADMM-Based Training for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.05527)] [[paper with code](https://paperswithcode.com/paper/admm-based-training-for-spiking-neural)]
 
 - Akkumula: Evidence accumulation driver models with Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.05489)] [[paper with code](https://paperswithcode.com/paper/akkumula-evidence-accumulation-driver-models)]
-
-- Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.05375)] [[paper with code](https://paperswithcode.com/paper/threshold-modulation-for-online-test-time)] [[code](https://github.com/nneurotransmitterr/tm-otta-snn)]
 
