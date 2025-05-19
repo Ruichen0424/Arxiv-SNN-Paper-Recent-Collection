@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-05-19)** 
+ ### **Last 5 working days (Updated on 2025-05-20)** 
 
 
 - ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network [[arxiv](https://arxiv.org/abs/2505.11455)] [[paper with code](https://paperswithcode.com/paper/2505-11455)]
