@@ -1,8 +1,20 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-05-18)** 
+ ### **Last 5 working days (Updated on 2025-05-19)** 
 
+
+- ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network [[arxiv](https://arxiv.org/abs/2505.11455)] [[paper with code](https://paperswithcode.com/paper/2505-11455)]
+
+- Energy efficiency analysis of Spiking Neural Networks for space applications [[arxiv](https://arxiv.org/abs/2505.11418)] [[paper with code](https://paperswithcode.com/paper/2505-11418)]
+
+- Lightweight LIF-only SNN accelerator using differential time encoding [[arxiv](https://arxiv.org/abs/2505.11252)] [[paper with code](https://paperswithcode.com/paper/2505-11252)]
+
+- STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking [[arxiv](https://arxiv.org/abs/2505.11151)] [[paper with code](https://paperswithcode.com/paper/2505-11151)]
+
+- Towards Robust Spiking Neural Networks:Mitigating Heterogeneous Training Vulnerability via Dominant Eigencomponent Projection [[arxiv](https://arxiv.org/abs/2505.11134)] [[paper with code](https://paperswithcode.com/paper/2505-11134)]
+
+- Phi: Leveraging Pattern-based Hierarchical Sparsity for High-Efficiency Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.10909)] [[paper with code](https://paperswithcode.com/paper/phi-leveraging-pattern-based-hierarchical)]
 
 - ILIF: Temporal Inhibitory Leaky Integrate-and-Fire Neuron for Overactivation in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.10371)] [[paper with code](https://paperswithcode.com/paper/ilif-temporal-inhibitory-leaky-integrate-and)]
 
@@ -27,10 +39,4 @@
 - Input-Specific and Universal Adversarial Attack Generation for Spiking Neural Networks in the Spiking Domain [[arxiv](https://arxiv.org/abs/2505.06299)] [[paper with code](https://paperswithcode.com/paper/input-specific-and-universal-adversarial)]
 
 - Event-based Neural Spike Detection Using Spiking Neural Networks for Neuromorphic iBMI Systems [[arxiv](https://arxiv.org/abs/2505.06544)] [[paper with code](https://paperswithcode.com/paper/event-based-neural-spike-detection-using)]
-
-- CogniSNN: A First Exploration to Random Graph Architecture based Spiking Neural Networks with Enhanced Expandability and Neuroplasticity [[arxiv](https://arxiv.org/abs/2505.05992)] [[paper with code](https://paperswithcode.com/paper/cognisnn-a-first-exploration-to-random-graph)]
-
-- ADMM-Based Training for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.05527)] [[paper with code](https://paperswithcode.com/paper/admm-based-training-for-spiking-neural)]
-
-- Akkumula: Evidence accumulation driver models with Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.05489)] [[paper with code](https://paperswithcode.com/paper/akkumula-evidence-accumulation-driver-models)]
 
