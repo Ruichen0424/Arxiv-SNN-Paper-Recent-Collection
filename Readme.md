@@ -1,8 +1,20 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-05-20)** 
+ ### **Last 5 working days (Updated on 2025-05-21)** 
 
+
+- FireFly-T: High-Throughput Sparsity Exploitation for Spiking Transformer Acceleration with Dual-Engine Overlay Architecture [[arxiv](https://arxiv.org/abs/2505.12771)]
+
+- SPKLIP: Aligning Spike Video Streams with Natural Language [[arxiv](https://arxiv.org/abs/2505.12656)] [[paper with code](https://paperswithcode.com/paper/spklip-aligning-spike-video-streams-with)]
+
+- Spiking Neural Network: a low power solution for physical layer authentication [[arxiv](https://arxiv.org/abs/2505.12647)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-network-a-low-power-solution)]
+
+- SpikeX: Exploring Accelerator Architecture and Network-Hardware Co-Optimization for Sparse Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.12292)] [[paper with code](https://paperswithcode.com/paper/spikex-exploring-accelerator-architecture-and)]
+
+- Bishop: Sparsified Bundling Spiking Transformers on Heterogeneous Cores with Error-Constrained Pruning [[arxiv](https://arxiv.org/abs/2505.12281)] [[paper with code](https://paperswithcode.com/paper/bishop-sparsified-bundling-spiking)]
+
+- Adaptive Gradient Learning for Spiking Neural Networks by Exploiting Membrane Potential Dynamics [[arxiv](https://arxiv.org/abs/2505.11863)] [[paper with code](https://paperswithcode.com/paper/adaptive-gradient-learning-for-spiking-neural)]
 
 - ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network [[arxiv](https://arxiv.org/abs/2505.11455)] [[paper with code](https://paperswithcode.com/paper/2505-11455)]
 
@@ -31,12 +43,4 @@
 - Convolutional Spiking Neural Network for Image Classification [[arxiv](https://arxiv.org/abs/2505.08514)]
 
 - Self-cross Feature based Spiking Neural Networks for Efficient Few-shot Learning [[arxiv](https://arxiv.org/abs/2505.07921)] [[paper with code](https://paperswithcode.com/paper/self-cross-feature-based-spiking-neural)]
-
-- Hybrid Spiking Vision Transformer for Object Detection with Event Cameras [[arxiv](https://arxiv.org/abs/2505.07715)] [[paper with code](https://paperswithcode.com/paper/hybrid-spiking-vision-transformer-for-object)]
-
-- SAEN-BGS: Energy-Efficient Spiking AutoEncoder Network for Background Subtraction [[arxiv](https://arxiv.org/abs/2505.07336)] [[paper with code](https://paperswithcode.com/paper/saen-bgs-energy-efficient-spiking-autoencoder)]
-
-- Input-Specific and Universal Adversarial Attack Generation for Spiking Neural Networks in the Spiking Domain [[arxiv](https://arxiv.org/abs/2505.06299)] [[paper with code](https://paperswithcode.com/paper/input-specific-and-universal-adversarial)]
-
-- Event-based Neural Spike Detection Using Spiking Neural Networks for Neuromorphic iBMI Systems [[arxiv](https://arxiv.org/abs/2505.06544)] [[paper with code](https://paperswithcode.com/paper/event-based-neural-spike-detection-using)]
 
