@@ -1,8 +1,16 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-05-21)** 
+ ### **Last 5 working days (Updated on 2025-05-22)** 
 
+
+- Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning [[arxiv](https://arxiv.org/abs/2505.14535)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-networks-with-temporal)]
+
+- Energy-Efficient Deep Reinforcement Learning with Spiking Transformers [[arxiv](https://arxiv.org/abs/2505.14533)] [[paper with code](https://paperswithcode.com/paper/energy-efficient-deep-reinforcement-learning)]
+
+- Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.13741)] [[paper with code](https://paperswithcode.com/paper/frozen-backpropagation-relaxing-weight)] [[code](https://gitlab.univ-lille.fr/fox/fbp)]
+
+- Spiking Neural Networks with Random Network Architecture [[arxiv](https://arxiv.org/abs/2505.13622)]
 
 - FireFly-T: High-Throughput Sparsity Exploitation for Spiking Transformer Acceleration with Dual-Engine Overlay Architecture [[arxiv](https://arxiv.org/abs/2505.12771)]
 
@@ -39,8 +47,4 @@
 - LAS: Loss-less ANN-SNN Conversion for Fully Spike-Driven Large Language Models [[arxiv](https://arxiv.org/abs/2505.09659)] [[paper with code](https://paperswithcode.com/paper/las-loss-less-ann-snn-conversion-for-fully)] [[code](https://github.com/lc783/las)]
 
 - Preserving Plasticity in Continual Learning with Adaptive Linearity Injection [[arxiv](https://arxiv.org/abs/2505.09486)] [[paper with code](https://paperswithcode.com/paper/preserving-plasticity-in-continual-learning)]
-
-- Convolutional Spiking Neural Network for Image Classification [[arxiv](https://arxiv.org/abs/2505.08514)]
-
-- Self-cross Feature based Spiking Neural Networks for Efficient Few-shot Learning [[arxiv](https://arxiv.org/abs/2505.07921)] [[paper with code](https://paperswithcode.com/paper/self-cross-feature-based-spiking-neural)]
 
