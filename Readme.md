@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-05-22)** 
+ ### **Last 5 working days (Updated on 2025-05-23)** 
 
+
+- Beyond Pairwise Plasticity: Group-Level Spike Synchrony Facilitates Efficient Learning in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.14841)] [[paper with code](https://paperswithcode.com/paper/beyond-pairwise-plasticity-group-level-spike)]
+
+- MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion [[arxiv](https://arxiv.org/abs/2505.14719)] [[paper with code](https://paperswithcode.com/paper/msvit-improving-spiking-vision-transformer)]
 
 - Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning [[arxiv](https://arxiv.org/abs/2505.14535)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-networks-with-temporal)]
 
@@ -24,13 +28,13 @@
 
 - Adaptive Gradient Learning for Spiking Neural Networks by Exploiting Membrane Potential Dynamics [[arxiv](https://arxiv.org/abs/2505.11863)] [[paper with code](https://paperswithcode.com/paper/adaptive-gradient-learning-for-spiking-neural)]
 
-- ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network [[arxiv](https://arxiv.org/abs/2505.11455)] [[paper with code](https://paperswithcode.com/paper/2505-11455)]
+- ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network [[arxiv](https://arxiv.org/abs/2505.11455)] [[paper with code](https://paperswithcode.com/paper/2505-11455)] [[code](https://github.com/dgxdn/asrc-snn)]
 
 - Energy efficiency analysis of Spiking Neural Networks for space applications [[arxiv](https://arxiv.org/abs/2505.11418)] [[paper with code](https://paperswithcode.com/paper/2505-11418)]
 
 - Lightweight LIF-only SNN accelerator using differential time encoding [[arxiv](https://arxiv.org/abs/2505.11252)] [[paper with code](https://paperswithcode.com/paper/2505-11252)]
 
-- STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking [[arxiv](https://arxiv.org/abs/2505.11151)] [[paper with code](https://paperswithcode.com/paper/2505-11151)]
+- STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking [[arxiv](https://arxiv.org/abs/2505.11151)] [[paper with code](https://paperswithcode.com/paper/2505-11151)] [[code](https://github.com/fancyssc/step)]
 
 - Towards Robust Spiking Neural Networks:Mitigating Heterogeneous Training Vulnerability via Dominant Eigencomponent Projection [[arxiv](https://arxiv.org/abs/2505.11134)] [[paper with code](https://paperswithcode.com/paper/2505-11134)]
 
@@ -45,6 +49,4 @@
 - Spike-timing-dependent Hebbian learning as noisy gradient descent [[arxiv](https://arxiv.org/abs/2505.10272)] [[paper with code](https://paperswithcode.com/paper/spike-timing-dependent-hebbian-learning-as)]
 
 - LAS: Loss-less ANN-SNN Conversion for Fully Spike-Driven Large Language Models [[arxiv](https://arxiv.org/abs/2505.09659)] [[paper with code](https://paperswithcode.com/paper/las-loss-less-ann-snn-conversion-for-fully)] [[code](https://github.com/lc783/las)]
-
-- Preserving Plasticity in Continual Learning with Adaptive Linearity Injection [[arxiv](https://arxiv.org/abs/2505.09486)] [[paper with code](https://paperswithcode.com/paper/preserving-plasticity-in-continual-learning)]
 
