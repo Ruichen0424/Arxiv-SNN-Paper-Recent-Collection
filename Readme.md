@@ -1,12 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-05-25)** 
+ ### **Last 5 working days (Updated on 2025-05-26)** 
 
 
-- TDFormer: A Top-Down Attention-Controlled Spiking Transformer [[arxiv](https://arxiv.org/abs/2505.15840)]
+- TDFormer: A Top-Down Attention-Controlled Spiking Transformer [[arxiv](https://arxiv.org/abs/2505.15840)] [[paper with code](https://paperswithcode.com/paper/tdformer-a-top-down-attention-controlled)]
 
-- Adversarially Robust Spiking Neural Networks with Sparse Connectivity [[arxiv](https://arxiv.org/abs/2505.15833)]
+- Adversarially Robust Spiking Neural Networks with Sparse Connectivity [[arxiv](https://arxiv.org/abs/2505.15833)] [[paper with code](https://paperswithcode.com/paper/adversarially-robust-spiking-neural-networks-1)]
 
 - Beyond Pairwise Plasticity: Group-Level Spike Synchrony Facilitates Efficient Learning in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.14841)] [[paper with code](https://paperswithcode.com/paper/beyond-pairwise-plasticity-group-level-spike)]
 
@@ -16,17 +16,17 @@
 
 - Energy-Efficient Deep Reinforcement Learning with Spiking Transformers [[arxiv](https://arxiv.org/abs/2505.14533)] [[paper with code](https://paperswithcode.com/paper/energy-efficient-deep-reinforcement-learning)]
 
-- Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.13741)] [[paper with code](https://paperswithcode.com/paper/frozen-backpropagation-relaxing-weight)] [[code](https://gitlab.univ-lille.fr/fox/fbp)]
+- Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.13741)]
 
 - Spiking Neural Networks with Random Network Architecture [[arxiv](https://arxiv.org/abs/2505.13622)]
 
 - FireFly-T: High-Throughput Sparsity Exploitation for Spiking Transformer Acceleration with Dual-Engine Overlay Architecture [[arxiv](https://arxiv.org/abs/2505.12771)]
 
-- SPKLIP: Aligning Spike Video Streams with Natural Language [[arxiv](https://arxiv.org/abs/2505.12656)]
+- SPKLIP: Aligning Spike Video Streams with Natural Language [[arxiv](https://arxiv.org/abs/2505.12656)] [[paper with code](https://paperswithcode.com/paper/spklip-aligning-spike-video-streams-with)]
 
 - Spiking Neural Network: a low power solution for physical layer authentication [[arxiv](https://arxiv.org/abs/2505.12647)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-network-a-low-power-solution)]
 
-- SpikeX: Exploring Accelerator Architecture and Network-Hardware Co-Optimization for Sparse Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.12292)]
+- SpikeX: Exploring Accelerator Architecture and Network-Hardware Co-Optimization for Sparse Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.12292)] [[paper with code](https://paperswithcode.com/paper/spikex-exploring-accelerator-architecture-and)]
 
 - Bishop: Sparsified Bundling Spiking Transformers on Heterogeneous Cores with Error-Constrained Pruning [[arxiv](https://arxiv.org/abs/2505.12281)] [[paper with code](https://paperswithcode.com/paper/bishop-sparsified-bundling-spiking)]
 
@@ -34,11 +34,11 @@
 
 - ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network [[arxiv](https://arxiv.org/abs/2505.11455)] [[paper with code](https://paperswithcode.com/paper/2505-11455)] [[code](https://github.com/dgxdn/asrc-snn)]
 
-- Energy efficiency analysis of Spiking Neural Networks for space applications [[arxiv](https://arxiv.org/abs/2505.11418)]
+- Energy efficiency analysis of Spiking Neural Networks for space applications [[arxiv](https://arxiv.org/abs/2505.11418)] [[paper with code](https://paperswithcode.com/paper/2505-11418)]
 
 - Lightweight LIF-only SNN accelerator using differential time encoding [[arxiv](https://arxiv.org/abs/2505.11252)] [[paper with code](https://paperswithcode.com/paper/2505-11252)]
 
-- STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking [[arxiv](https://arxiv.org/abs/2505.11151)]
+- STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking [[arxiv](https://arxiv.org/abs/2505.11151)] [[paper with code](https://paperswithcode.com/paper/2505-11151)] [[code](https://github.com/fancyssc/step)]
 
 - Towards Robust Spiking Neural Networks:Mitigating Heterogeneous Training Vulnerability via Dominant Eigencomponent Projection [[arxiv](https://arxiv.org/abs/2505.11134)] [[paper with code](https://paperswithcode.com/paper/2505-11134)]
 
