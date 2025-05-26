@@ -1,8 +1,16 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-05-26)** 
+ ### **Last 5 working days (Updated on 2025-05-27)** 
 
+
+- SpikeGen: Generative Framework for Visual Spike Stream Processing [[arxiv](https://arxiv.org/abs/2505.18049)]
+
+- Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time [[arxiv](https://arxiv.org/abs/2505.18023)]
+
+- A Principled Bayesian Framework for Training Binary and Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.17962)]
+
+- SVL: Spike-based Vision-language Pretraining for Efficient 3D Open-world Understanding [[arxiv](https://arxiv.org/abs/2505.17674)]
 
 - TDFormer: A Top-Down Attention-Controlled Spiking Transformer [[arxiv](https://arxiv.org/abs/2505.15840)] [[paper with code](https://paperswithcode.com/paper/tdformer-a-top-down-attention-controlled)]
 
@@ -16,7 +24,7 @@
 
 - Energy-Efficient Deep Reinforcement Learning with Spiking Transformers [[arxiv](https://arxiv.org/abs/2505.14533)] [[paper with code](https://paperswithcode.com/paper/energy-efficient-deep-reinforcement-learning)]
 
-- Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.13741)]
+- Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.13741)] [[paper with code](https://paperswithcode.com/paper/frozen-backpropagation-relaxing-weight)] [[code](https://gitlab.univ-lille.fr/fox/fbp)]
 
 - Spiking Neural Networks with Random Network Architecture [[arxiv](https://arxiv.org/abs/2505.13622)]
 
@@ -31,16 +39,4 @@
 - Bishop: Sparsified Bundling Spiking Transformers on Heterogeneous Cores with Error-Constrained Pruning [[arxiv](https://arxiv.org/abs/2505.12281)] [[paper with code](https://paperswithcode.com/paper/bishop-sparsified-bundling-spiking)]
 
 - Adaptive Gradient Learning for Spiking Neural Networks by Exploiting Membrane Potential Dynamics [[arxiv](https://arxiv.org/abs/2505.11863)] [[paper with code](https://paperswithcode.com/paper/adaptive-gradient-learning-for-spiking-neural)]
-
-- ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network [[arxiv](https://arxiv.org/abs/2505.11455)] [[paper with code](https://paperswithcode.com/paper/2505-11455)] [[code](https://github.com/dgxdn/asrc-snn)]
-
-- Energy efficiency analysis of Spiking Neural Networks for space applications [[arxiv](https://arxiv.org/abs/2505.11418)] [[paper with code](https://paperswithcode.com/paper/2505-11418)]
-
-- Lightweight LIF-only SNN accelerator using differential time encoding [[arxiv](https://arxiv.org/abs/2505.11252)] [[paper with code](https://paperswithcode.com/paper/2505-11252)]
-
-- STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking [[arxiv](https://arxiv.org/abs/2505.11151)] [[paper with code](https://paperswithcode.com/paper/2505-11151)] [[code](https://github.com/fancyssc/step)]
-
-- Towards Robust Spiking Neural Networks:Mitigating Heterogeneous Training Vulnerability via Dominant Eigencomponent Projection [[arxiv](https://arxiv.org/abs/2505.11134)] [[paper with code](https://paperswithcode.com/paper/2505-11134)]
-
-- Phi: Leveraging Pattern-based Hierarchical Sparsity for High-Efficiency Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.10909)] [[paper with code](https://paperswithcode.com/paper/phi-leveraging-pattern-based-hierarchical)]
 
