@@ -1,8 +1,16 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-05-27)** 
+ ### **Last 5 working days (Updated on 2025-05-28)** 
 
+
+- Beyond Freezing: Sparse Tuning Enhances Plasticity in Continual Learning with Pre-Trained Models [[arxiv](https://arxiv.org/abs/2505.19943)]
+
+- Multi-Timescale Motion-Decoupled Spiking Transformer for Audio-Visual Zero-Shot Learning [[arxiv](https://arxiv.org/abs/2505.19938)]
+
+- SpikeStereoNet: A Brain-Inspired Framework for Stereo Depth Estimation from Spike Streams [[arxiv](https://arxiv.org/abs/2505.19487)]
+
+- Spiking Transformers Need High Frequency Information [[arxiv](https://arxiv.org/abs/2505.18608)]
 
 - SpikeGen: Generative Framework for Visual Spike Stream Processing [[arxiv](https://arxiv.org/abs/2505.18049)]
 
@@ -27,16 +35,4 @@
 - Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.13741)] [[paper with code](https://paperswithcode.com/paper/frozen-backpropagation-relaxing-weight)] [[code](https://gitlab.univ-lille.fr/fox/fbp)]
 
 - Spiking Neural Networks with Random Network Architecture [[arxiv](https://arxiv.org/abs/2505.13622)]
-
-- FireFly-T: High-Throughput Sparsity Exploitation for Spiking Transformer Acceleration with Dual-Engine Overlay Architecture [[arxiv](https://arxiv.org/abs/2505.12771)]
-
-- SPKLIP: Aligning Spike Video Streams with Natural Language [[arxiv](https://arxiv.org/abs/2505.12656)] [[paper with code](https://paperswithcode.com/paper/spklip-aligning-spike-video-streams-with)]
-
-- Spiking Neural Network: a low power solution for physical layer authentication [[arxiv](https://arxiv.org/abs/2505.12647)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-network-a-low-power-solution)]
-
-- SpikeX: Exploring Accelerator Architecture and Network-Hardware Co-Optimization for Sparse Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.12292)] [[paper with code](https://paperswithcode.com/paper/spikex-exploring-accelerator-architecture-and)]
-
-- Bishop: Sparsified Bundling Spiking Transformers on Heterogeneous Cores with Error-Constrained Pruning [[arxiv](https://arxiv.org/abs/2505.12281)] [[paper with code](https://paperswithcode.com/paper/bishop-sparsified-bundling-spiking)]
-
-- Adaptive Gradient Learning for Spiking Neural Networks by Exploiting Membrane Potential Dynamics [[arxiv](https://arxiv.org/abs/2505.11863)] [[paper with code](https://paperswithcode.com/paper/adaptive-gradient-learning-for-spiking-neural)]
 
