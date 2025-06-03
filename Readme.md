@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-06-03)** 
+ ### **Last 5 working days (Updated on 2025-06-04)** 
 
 
 - The Promise of Spiking Neural Networks for Ubiquitous Computing: A Survey and New Perspectives [[arxiv](https://arxiv.org/abs/2506.01737)] [[paper with code](https://paperswithcode.com/paper/the-promise-of-spiking-neural-networks-for)]
