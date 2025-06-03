@@ -1,38 +1,30 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-05-28)** 
+ ### **Last 5 working days (Updated on 2025-06-03)** 
 
 
-- Beyond Freezing: Sparse Tuning Enhances Plasticity in Continual Learning with Pre-Trained Models [[arxiv](https://arxiv.org/abs/2505.19943)]
+- The Promise of Spiking Neural Networks for Ubiquitous Computing: A Survey and New Perspectives [[arxiv](https://arxiv.org/abs/2506.01737)] [[paper with code](https://paperswithcode.com/paper/the-promise-of-spiking-neural-networks-for)]
 
-- Multi-Timescale Motion-Decoupled Spiking Transformer for Audio-Visual Zero-Shot Learning [[arxiv](https://arxiv.org/abs/2505.19938)]
+- Spatio-Temporal Decoupled Learning for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2506.01117)]
 
-- SpikeStereoNet: A Brain-Inspired Framework for Stereo Depth Estimation from Spike Streams [[arxiv](https://arxiv.org/abs/2505.19487)]
+- Mitigating Plasticity Loss in Continual Reinforcement Learning by Reducing Churn [[arxiv](https://arxiv.org/abs/2506.00592)]
 
-- Spiking Transformers Need High Frequency Information [[arxiv](https://arxiv.org/abs/2505.18608)]
+- Flashbacks to Harmonize Stability and Plasticity in Continual Learning [[arxiv](https://arxiv.org/abs/2506.00477)]
 
-- SpikeGen: Generative Framework for Visual Spike Stream Processing [[arxiv](https://arxiv.org/abs/2505.18049)]
+- S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification [[arxiv](https://arxiv.org/abs/2505.24401)]
 
-- Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time [[arxiv](https://arxiv.org/abs/2505.18023)]
+- Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control [[arxiv](https://arxiv.org/abs/2505.24161)]
 
-- A Principled Bayesian Framework for Training Binary and Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.17962)]
+- Energy-Oriented Computing Architecture Simulator for SNN Training [[arxiv](https://arxiv.org/abs/2505.24137)]
 
-- SVL: Spike-based Vision-language Pretraining for Efficient 3D Open-world Understanding [[arxiv](https://arxiv.org/abs/2505.17674)]
+- CNN-LSTM Hybrid Model for AI-Driven Prediction of COVID-19 Severity from Spike Sequences and Clinical Data [[arxiv](https://arxiv.org/abs/2505.23879)]
 
-- TDFormer: A Top-Down Attention-Controlled Spiking Transformer [[arxiv](https://arxiv.org/abs/2505.15840)] [[paper with code](https://paperswithcode.com/paper/tdformer-a-top-down-attention-controlled)]
+- SplitLoRA: Balancing Stability and Plasticity in Continual Learning Through Gradient Space Splitting [[arxiv](https://arxiv.org/abs/2505.22370)] [[paper with code](https://paperswithcode.com/paper/splitlora-balancing-stability-and-plasticity)]
 
-- Adversarially Robust Spiking Neural Networks with Sparse Connectivity [[arxiv](https://arxiv.org/abs/2505.15833)] [[paper with code](https://paperswithcode.com/paper/adversarially-robust-spiking-neural-networks-1)]
+- Constructive community race: full-density spiking neural network model drives neuromorphic computing [[arxiv](https://arxiv.org/abs/2505.21185)]
 
-- Beyond Pairwise Plasticity: Group-Level Spike Synchrony Facilitates Efficient Learning in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.14841)] [[paper with code](https://paperswithcode.com/paper/beyond-pairwise-plasticity-group-level-spike)]
+- ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.20835)] [[paper with code](https://paperswithcode.com/paper/ecc-snn-cost-effective-edge-cloud)] [[code](https://github.com/AmazingDD/ECC-SNN)]
 
-- MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion [[arxiv](https://arxiv.org/abs/2505.14719)] [[paper with code](https://paperswithcode.com/paper/msvit-improving-spiking-vision-transformer)]
-
-- Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning [[arxiv](https://arxiv.org/abs/2505.14535)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-networks-with-temporal)]
-
-- Energy-Efficient Deep Reinforcement Learning with Spiking Transformers [[arxiv](https://arxiv.org/abs/2505.14533)] [[paper with code](https://paperswithcode.com/paper/energy-efficient-deep-reinforcement-learning)]
-
-- Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2505.13741)] [[paper with code](https://paperswithcode.com/paper/frozen-backpropagation-relaxing-weight)] [[code](https://gitlab.univ-lille.fr/fox/fbp)]
-
-- Spiking Neural Networks with Random Network Architecture [[arxiv](https://arxiv.org/abs/2505.13622)]
+- Fully Spiking Neural Networks for Unified Frame-Event Object Tracking [[arxiv](https://arxiv.org/abs/2505.20834)] [[paper with code](https://paperswithcode.com/paper/fully-spiking-neural-networks-for-unified)]
 
