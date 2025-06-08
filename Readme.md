@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-06-08)** 
+ ### **Last 5 working days (Updated on 2025-06-09)** 
 
 
 - Spike-TBR: a Noise Resilient Neuromorphic Event Representation [[arxiv](https://arxiv.org/abs/2506.04817)]
@@ -16,7 +16,7 @@
 
 - Rethinking the Stability-Plasticity Trade-off in Continual Learning from an Architectural Perspective [[arxiv](https://arxiv.org/abs/2506.03951)] [[paper with code](https://paperswithcode.com/paper/rethinking-the-stability-plasticity-trade-off)] [[code](https://github.com/byyx666/Dual-Arch)]
 
-- Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons [[arxiv](https://arxiv.org/abs/2506.03392)]
+- Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons [[arxiv](https://arxiv.org/abs/2506.03392)] [[paper with code](https://paperswithcode.com/paper/improving-performance-of-spike-based-deep-q)]
 
 - Efficient ANN-SNN Conversion with Error Compensation Learning [[arxiv](https://arxiv.org/abs/2506.01968)]
 
