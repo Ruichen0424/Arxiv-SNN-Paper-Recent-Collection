@@ -1,8 +1,12 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-06-09)** 
+ ### **Last 5 working days (Updated on 2025-06-10)** 
 
+
+- Integrating Complexity and Biological Realism: High-Performance Spiking Neural Networks for Breast Cancer Detection [[arxiv](https://arxiv.org/abs/2506.06265)]
+
+- Integer Binary-Range Alignment Neuron for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2506.05679)]
 
 - Spike-TBR: a Noise Resilient Neuromorphic Event Representation [[arxiv](https://arxiv.org/abs/2506.04817)]
 
@@ -20,7 +24,7 @@
 
 - Efficient ANN-SNN Conversion with Error Compensation Learning [[arxiv](https://arxiv.org/abs/2506.01968)]
 
-- Computational Thresholds in Multi-Modal Learning via the Spiked Matrix-Tensor Model [[arxiv](https://arxiv.org/abs/2506.02664)]
+- Computational Thresholds in Multi-Modal Learning via the Spiked Matrix-Tensor Model [[arxiv](https://arxiv.org/abs/2506.02664)] [[paper with code](https://paperswithcode.com/paper/computational-thresholds-in-multi-modal)]
 
 - The Promise of Spiking Neural Networks for Ubiquitous Computing: A Survey and New Perspectives [[arxiv](https://arxiv.org/abs/2506.01737)] [[paper with code](https://paperswithcode.com/paper/the-promise-of-spiking-neural-networks-for)]
 
@@ -29,12 +33,4 @@
 - Mitigating Plasticity Loss in Continual Reinforcement Learning by Reducing Churn [[arxiv](https://arxiv.org/abs/2506.00592)]
 
 - Flashbacks to Harmonize Stability and Plasticity in Continual Learning [[arxiv](https://arxiv.org/abs/2506.00477)]
-
-- S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification [[arxiv](https://arxiv.org/abs/2505.24401)] [[paper with code](https://paperswithcode.com/paper/s3ce-net-spike-guided-spatiotemporal-semantic)]
-
-- Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control [[arxiv](https://arxiv.org/abs/2505.24161)] [[paper with code](https://paperswithcode.com/paper/proxy-target-bridging-the-gap-between)]
-
-- Energy-Oriented Computing Architecture Simulator for SNN Training [[arxiv](https://arxiv.org/abs/2505.24137)]
-
-- CNN-LSTM Hybrid Model for AI-Driven Prediction of COVID-19 Severity from Spike Sequences and Clinical Data [[arxiv](https://arxiv.org/abs/2505.23879)] [[paper with code](https://paperswithcode.com/paper/cnn-lstm-hybrid-model-for-ai-driven)]
 
