@@ -1,16 +1,20 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-06-11)** 
+ ### **Last 5 working days (Updated on 2025-06-12)** 
 
 
-- SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding [[arxiv](https://arxiv.org/abs/2506.07737)]
+- STI-SNN: A 0.14 GOPS/W/PE Single-Timestep Inference FPGA-based SNN Accelerator with Algorithm and Hardware Co-Design [[arxiv](https://arxiv.org/abs/2506.08842)]
+
+- A Practical Guide to Tuning Spiking Neuronal Dynamics [[arxiv](https://arxiv.org/abs/2506.08138)] [[paper with code](https://paperswithcode.com/paper/a-practical-guide-to-tuning-spiking-neuronal)]
+
+- SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding [[arxiv](https://arxiv.org/abs/2506.07737)] [[paper with code](https://paperswithcode.com/paper/spikesmoke-spiking-neural-networks-for)]
 
 - ReverB-SNN: Reversing Bit of the Weight and Activation for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2506.07720)]
 
 - Bio-Inspired Classification: Combining Information Theory and Spiking Neural Networks -- Influence of the Learning Rules [[arxiv](https://arxiv.org/abs/2506.06750)]
 
-- SpikePingpong: High-Frequency Spike Vision-based Robot Learning for Precise Striking in Table Tennis Game [[arxiv](https://arxiv.org/abs/2506.06690)]
+- SpikePingpong: High-Frequency Spike Vision-based Robot Learning for Precise Striking in Table Tennis Game [[arxiv](https://arxiv.org/abs/2506.06690)] [[paper with code](https://paperswithcode.com/paper/spikepingpong-high-frequency-spike-vision)]
 
 - Structured State Space Model Dynamics and Parametrization for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2506.06374)]
 
@@ -31,8 +35,4 @@
 - Rethinking the Stability-Plasticity Trade-off in Continual Learning from an Architectural Perspective [[arxiv](https://arxiv.org/abs/2506.03951)] [[paper with code](https://paperswithcode.com/paper/rethinking-the-stability-plasticity-trade-off)] [[code](https://github.com/byyx666/Dual-Arch)]
 
 - Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons [[arxiv](https://arxiv.org/abs/2506.03392)] [[paper with code](https://paperswithcode.com/paper/improving-performance-of-spike-based-deep-q)]
-
-- Efficient ANN-SNN Conversion with Error Compensation Learning [[arxiv](https://arxiv.org/abs/2506.01968)]
-
-- Computational Thresholds in Multi-Modal Learning via the Spiked Matrix-Tensor Model [[arxiv](https://arxiv.org/abs/2506.02664)] [[paper with code](https://paperswithcode.com/paper/computational-thresholds-in-multi-modal)]
 
