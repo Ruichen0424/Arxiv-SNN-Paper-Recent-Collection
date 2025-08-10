@@ -1,24 +1,40 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-07-12)** 
+ ### **Last 5 working days (Updated on 2025-08-11)** 
 
 
-- EEvAct: Early Event-Based Action Recognition with High-Rate Two-Stream Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2507.07734)]
+- Divide-and-Conquer for Enhancing Unlabeled Learning, Stability, and Plasticity in Semi-supervised Continual Learning [[arxiv](https://arxiv.org/abs/2508.05316)]
 
-- IML-Spikeformer: Input-aware Multi-Level Spiking Transformer for Speech Processing [[arxiv](https://arxiv.org/abs/2507.07396)]
+- S$^2$M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection [[arxiv](https://arxiv.org/abs/2508.05164)]
 
-- A Robust, Open-Source Framework for Spiking Neural Networks on Low-End FPGAs [[arxiv](https://arxiv.org/abs/2507.07284)]
+- Harmonic fractal transformation for modeling complex neuronal effects: from bursting and noise shaping to waveform sensitivity and noise-induced subthreshold spiking [[arxiv](https://arxiv.org/abs/2508.05341)]
 
-- SoftSignSGD(S3): An Enhanced Optimizer for Practical DNN Training and Loss Spikes Minimization Beyond Adam [[arxiv](https://arxiv.org/abs/2507.06464)]
+- TDSNNs: Competitive Topographic Deep Spiking Neural Networks for Visual Cortex Modeling [[arxiv](https://arxiv.org/abs/2508.04270)]
 
-- Recovering Plasticity of Neural Networks via Soft Weight Rescaling [[arxiv](https://arxiv.org/abs/2507.04683)]
+- Measuring the stability and plasticity of recommender systems [[arxiv](https://arxiv.org/abs/2508.03941)]
 
-- Benchmarking Spiking Neurons for Linear Quadratic Regulator Control of Multi-linked Pole on a Cart: from Single Neuron to Ensemble [[arxiv](https://arxiv.org/abs/2507.03621)]
+- FlashCommunication V2: Bit Splitting and Spike Reserving for Any Bit Communication [[arxiv](https://arxiv.org/abs/2508.03760)]
 
-- Optimization of Low-Latency Spiking Neural Networks Utilizing Historical Dynamics of Refractory Periods [[arxiv](https://arxiv.org/abs/2507.02960)]
+- Exploring Stability-Plasticity Trade-offs for Continual Named Entity Recognition [[arxiv](https://arxiv.org/abs/2508.03259)]
 
-- SPEAR: Structured Pruning for Spiking Neural Networks via Synaptic Operation Estimation and Reinforcement Learning [[arxiv](https://arxiv.org/abs/2507.02945)]
+- Ultralight Polarity-Split Neuromorphic SNN for Event-Stream Super-Resolution [[arxiv](https://arxiv.org/abs/2508.03244)]
 
-- Online Continual Learning via Spiking Neural Networks with Sleep Enhanced Latent Replay [[arxiv](https://arxiv.org/abs/2507.02901)]
+- SpikeSTAG: Spatial-Temporal Forecasting via GNN-SNN Collaboration [[arxiv](https://arxiv.org/abs/2508.02069)]
+
+- PRIME: Plasticity-Robust Incremental Model for Encrypted Traffic Classification in Dynamic Network Environments [[arxiv](https://arxiv.org/abs/2508.02031)]
+
+- Toward Efficient Spiking Transformers: Synapse Pruning Meets Synergistic Learning-Based Compensation [[arxiv](https://arxiv.org/abs/2508.01992)]
+
+- SPARTA: Advancing Sparse Attention in Spiking Neural Networks via Spike-Timing-Based Prioritization [[arxiv](https://arxiv.org/abs/2508.01646)]
+
+- ParaRevSNN: A Parallel Reversible Spiking Neural Network for Efficient Training and Inference [[arxiv](https://arxiv.org/abs/2508.01223)]
+
+- E2ATST: A Temporal-Spatial Optimized Energy-Efficient Architecture for Training Spiking Transformer [[arxiv](https://arxiv.org/abs/2508.00475)]
+
+- STF: Shallow-Level Temporal Feedback to Enhance Spiking Transformers [[arxiv](https://arxiv.org/abs/2508.00387)]
+
+- Reinitializing weights vs units for maintaining plasticity in neural networks [[arxiv](https://arxiv.org/abs/2508.00212)]
+
+- Anomaly detection with spiking neural networks for LHC physics [[arxiv](https://arxiv.org/abs/2508.00063)]
 
