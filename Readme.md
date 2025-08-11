@@ -1,8 +1,10 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-08-11)** 
+ ### **Last 5 working days (Updated on 2025-08-12)** 
 
+
+- Low-Bit Data Processing Using Multiple-Output Spiking Neurons with Non-linear Reset Feedback [[arxiv](https://arxiv.org/abs/2508.06292)]
 
 - Divide-and-Conquer for Enhancing Unlabeled Learning, Stability, and Plasticity in Semi-supervised Continual Learning [[arxiv](https://arxiv.org/abs/2508.05316)]
 
@@ -29,12 +31,4 @@
 - SPARTA: Advancing Sparse Attention in Spiking Neural Networks via Spike-Timing-Based Prioritization [[arxiv](https://arxiv.org/abs/2508.01646)]
 
 - ParaRevSNN: A Parallel Reversible Spiking Neural Network for Efficient Training and Inference [[arxiv](https://arxiv.org/abs/2508.01223)]
-
-- E2ATST: A Temporal-Spatial Optimized Energy-Efficient Architecture for Training Spiking Transformer [[arxiv](https://arxiv.org/abs/2508.00475)]
-
-- STF: Shallow-Level Temporal Feedback to Enhance Spiking Transformers [[arxiv](https://arxiv.org/abs/2508.00387)]
-
-- Reinitializing weights vs units for maintaining plasticity in neural networks [[arxiv](https://arxiv.org/abs/2508.00212)]
-
-- Anomaly detection with spiking neural networks for LHC physics [[arxiv](https://arxiv.org/abs/2508.00063)]
 
