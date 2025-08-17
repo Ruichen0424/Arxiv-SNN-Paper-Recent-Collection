@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-08-17)** 
+ ### **Last 5 working days (Updated on 2025-08-18)** 
 
 
 - Training-Free ANN-to-SNN Conversion for High-Performance Spiking Transformer [[arxiv](https://arxiv.org/abs/2508.07710)]
