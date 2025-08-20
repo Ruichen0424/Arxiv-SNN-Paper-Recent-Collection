@@ -1,8 +1,16 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-08-20)** 
+ ### **Last 5 working days (Updated on 2025-08-21)** 
 
+
+- Timestep-Compressed Attack on Spiking Neural Networks through Timestep-Level Backpropagation [[arxiv](https://arxiv.org/abs/2508.13812)]
+
+- Encoding Optimization for Low-Complexity Spiking Neural Network Equalizers in IM/DD Systems [[arxiv](https://arxiv.org/abs/2508.13783)]
+
+- Multi-Plasticity Synergy with Adaptive Mechanism Assignment for Training Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2508.13673)]
+
+- Color Spike Data Generation via Bio-inspired Neuron-like Encoding with an Artificial Photoreceptor Layer [[arxiv](https://arxiv.org/abs/2508.13558)]
 
 - Kourkoutas-Beta: A Sunspike-Driven Adam Optimizer with Desert Flair [[arxiv](https://arxiv.org/abs/2508.12996)]
 
