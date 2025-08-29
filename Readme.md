@@ -1,40 +1,36 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-08-21)** 
+ ### **Last 5 working days (Updated on 2025-08-29)** 
 
 
-- Timestep-Compressed Attack on Spiking Neural Networks through Timestep-Level Backpropagation [[arxiv](https://arxiv.org/abs/2508.13812)]
+- Ultra-Low-Latency Spiking Neural Networks with Temporal-Dependent Integrate-and-Fire Neuron Model for Objects Detection [[arxiv](https://arxiv.org/abs/2508.20392)]
 
-- Encoding Optimization for Low-Complexity Spiking Neural Network Equalizers in IM/DD Systems [[arxiv](https://arxiv.org/abs/2508.13783)]
+- Improving Liver Disease Diagnosis with SNNDeep: A Custom Spiking Neural Network Using Diverse Learning Algorithms [[arxiv](https://arxiv.org/abs/2508.20125)]
 
-- Multi-Plasticity Synergy with Adaptive Mechanism Assignment for Training Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2508.13673)]
+- Spatio-Temporal Pruning for Compressed Spiking Large Language Models [[arxiv](https://arxiv.org/abs/2508.20122)]
 
-- Color Spike Data Generation via Bio-inspired Neuron-like Encoding with an Artificial Photoreceptor Layer [[arxiv](https://arxiv.org/abs/2508.13558)]
+- Task-Aware Tuning of Time Constants in Spiking Neural Networks for Multimodal Classification [[arxiv](https://arxiv.org/abs/2508.20121)]
 
-- Kourkoutas-Beta: A Sunspike-Driven Adam Optimizer with Desert Flair [[arxiv](https://arxiv.org/abs/2508.12996)]
+- Multi-field decomposed hyper-reduced order modeling of damage-plasticity simulations [[arxiv](https://arxiv.org/abs/2508.19957)]
 
-- IzhiRISC-V -- a RISC-V-based Processor with Custom ISA Extension for Spiking Neuron Networks Processing with Izhikevich Neurons [[arxiv](https://arxiv.org/abs/2508.12846)]
+- Walk the Robot: Exploring Soft Robotic Morphological Communication driven by Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2508.19920)]
 
-- A Self-Ensemble Inspired Approach for Effective Training of Binary-Weight Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2508.12609)]
+- NM-Hebb: Coupling Local Hebbian Plasticity with Metric Learning for More Accurate and Interpretable CNNs [[arxiv](https://arxiv.org/abs/2508.19896)]
 
-- SNNSIR: A Simple Spiking Neural Network for Stereo Image Restoration [[arxiv](https://arxiv.org/abs/2508.12271)]
+- Hardware-aware vs. Hardware-agnostic Energy Estimation for SNN in Space Applications [[arxiv](https://arxiv.org/abs/2508.19654)]
 
-- Fully Spiking Actor-Critic Neural Network for Robotic Manipulation [[arxiv](https://arxiv.org/abs/2508.12038)]
+- Escaping Stability-Plasticity Dilemma in Online Continual Learning for Motion Forecasting via Synergetic Memory Rehearsal [[arxiv](https://arxiv.org/abs/2508.19571)]
 
-- Adaptive Spiking with Plasticity for Energy Aware Neuromorphic Systems [[arxiv](https://arxiv.org/abs/2508.11689)]
+- MuSpike: A Benchmark and Evaluation Framework for Symbolic Music Generation with Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2508.19251)]
 
-- Learning Internal Biological Neuron Parameters and Complexity-Based Encoding for Improved Spiking Neural Networks Performance [[arxiv](https://arxiv.org/abs/2508.11674)]
+- Time Series Analysis of Spiking Neural Systems via Transfer Entropy and Directed Persistent Homology [[arxiv](https://arxiv.org/abs/2508.19048)]
 
-- Synchronization and semantization in deep spiking networks [[arxiv](https://arxiv.org/abs/2508.12975)]
+- Temperature-Aware Recurrent Neural Operator for Temperature-Dependent Anisotropic Plasticity in HCP Materials [[arxiv](https://arxiv.org/abs/2508.18806)]
 
-- HetSyn: Versatile Timescale Integration in Spiking Neural Networks via Heterogeneous Synapses [[arxiv](https://arxiv.org/abs/2508.11644)]
+- Reinforcement-Guided Hyper-Heuristic Hyperparameter Optimization for Fair and Explainable Spiking Neural Network-Based Financial Fraud Detection [[arxiv](https://arxiv.org/abs/2508.16915)]
 
-- Vibe2Spike: Batteryless Wireless Tags for Vibration Sensing with Event Cameras and Spiking Networks [[arxiv](https://arxiv.org/abs/2508.11640)]
+- Spike Agreement Dependent Plasticity: A scalable Bio-Inspired learning paradigm for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2508.16216)]
 
-- Boosting the Robustness-Accuracy Trade-off of SNNs by Robust Temporal Self-Ensemble [[arxiv](https://arxiv.org/abs/2508.11279)]
-
-- Allee Synaptic Plasticity and Memory [[arxiv](https://arxiv.org/abs/2508.10929)]
-
-- SDSNN: A Single-Timestep Spiking Neural Network with Self-Dropping Neuron and Bayesian Optimization [[arxiv](https://arxiv.org/abs/2508.10913)]
+- Thermodynamically Consistent Hybrid and Permutation-Invariant Neural Yield Functions for Anisotropic Plasticity [[arxiv](https://arxiv.org/abs/2508.15923)]
 
