@@ -1,7 +1,7 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-09-08)** 
+ ### **Last 5 working days (Updated on 2025-09-09)** 
 
 
 - SpikingBrain Technical Report: Spiking Brain-inspired Large Models [[arxiv](https://arxiv.org/abs/2509.05276)]
