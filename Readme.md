@@ -1,36 +1,24 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-08-29)** 
+ ### **Last 5 working days (Updated on 2025-09-08)** 
 
 
-- Ultra-Low-Latency Spiking Neural Networks with Temporal-Dependent Integrate-and-Fire Neuron Model for Objects Detection [[arxiv](https://arxiv.org/abs/2508.20392)]
+- SpikingBrain Technical Report: Spiking Brain-inspired Large Models [[arxiv](https://arxiv.org/abs/2509.05276)]
 
-- Improving Liver Disease Diagnosis with SNNDeep: A Custom Spiking Neural Network Using Diverse Learning Algorithms [[arxiv](https://arxiv.org/abs/2508.20125)]
+- Scaling Environments for Organoid Intelligence with LLM-Automated Design and Plasticity-Based Evaluation [[arxiv](https://arxiv.org/abs/2509.04633)]
 
-- Spatio-Temporal Pruning for Compressed Spiking Large Language Models [[arxiv](https://arxiv.org/abs/2508.20122)]
+- Spiking Neural Network Decoders of Finger Forces from High-Density Intramuscular Microelectrode Arrays [[arxiv](https://arxiv.org/abs/2509.04088)]
 
-- Task-Aware Tuning of Time Constants in Spiking Neural Networks for Multimodal Classification [[arxiv](https://arxiv.org/abs/2508.20121)]
+- A Brain-Inspired Gating Mechanism Unlocks Robust Computation in Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2509.03281)]
 
-- Multi-field decomposed hyper-reduced order modeling of damage-plasticity simulations [[arxiv](https://arxiv.org/abs/2508.19957)]
+- Spiking control systems for soft robotics: a rhythmic case study in a soft robotic crawler [[arxiv](https://arxiv.org/abs/2509.02968)]
 
-- Walk the Robot: Exploring Soft Robotic Morphological Communication driven by Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2508.19920)]
+- Design, Modelling and Analysis of a Bio-inspired Spiking Temperature Regulator [[arxiv](https://arxiv.org/abs/2509.01300)]
 
-- NM-Hebb: Coupling Local Hebbian Plasticity with Metric Learning for More Accurate and Interpretable CNNs [[arxiv](https://arxiv.org/abs/2508.19896)]
+- WoSNN: Stochastic Solver for PDEs with Machine Learning [[arxiv](https://arxiv.org/abs/2509.00204)]
 
-- Hardware-aware vs. Hardware-agnostic Energy Estimation for SNN in Space Applications [[arxiv](https://arxiv.org/abs/2508.19654)]
+- Spiking Decision Transformers: Local Plasticity, Phase-Coding, and Dendritic Routing for Low-Power Sequence Control [[arxiv](https://arxiv.org/abs/2508.21505)]
 
-- Escaping Stability-Plasticity Dilemma in Online Continual Learning for Motion Forecasting via Synergetic Memory Rehearsal [[arxiv](https://arxiv.org/abs/2508.19571)]
-
-- MuSpike: A Benchmark and Evaluation Framework for Symbolic Music Generation with Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2508.19251)]
-
-- Time Series Analysis of Spiking Neural Systems via Transfer Entropy and Directed Persistent Homology [[arxiv](https://arxiv.org/abs/2508.19048)]
-
-- Temperature-Aware Recurrent Neural Operator for Temperature-Dependent Anisotropic Plasticity in HCP Materials [[arxiv](https://arxiv.org/abs/2508.18806)]
-
-- Reinforcement-Guided Hyper-Heuristic Hyperparameter Optimization for Fair and Explainable Spiking Neural Network-Based Financial Fraud Detection [[arxiv](https://arxiv.org/abs/2508.16915)]
-
-- Spike Agreement Dependent Plasticity: A scalable Bio-Inspired learning paradigm for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2508.16216)]
-
-- Thermodynamically Consistent Hybrid and Permutation-Invariant Neural Yield Functions for Anisotropic Plasticity [[arxiv](https://arxiv.org/abs/2508.15923)]
+- NSPDI-SNN: An efficient lightweight SNN based on nonlinear synaptic pruning and dendritic integration [[arxiv](https://arxiv.org/abs/2508.21566)]
 
