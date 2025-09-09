@@ -1,8 +1,16 @@
 # Arxiv SNN Paper Weekly
 
 
- ### **Last 5 working days (Updated on 2025-09-09)** 
+ ### **Last 5 working days (Updated on 2025-09-10)** 
 
+
+- Full Integer Arithmetic Online Training for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2509.06636)]
+
+- Genesis: A Spiking Neuromorphic Accelerator With On-chip Continual Learning [[arxiv](https://arxiv.org/abs/2509.05858)]
+
+- SuperSNN: A Hardware-Aware Framework for Physically Realizable, High-Performance Superconducting Spiking Neural Network Chips [[arxiv](https://arxiv.org/abs/2509.05532)]
+
+- Spiking Neural Networks for Continuous Control via End-to-End Model-Based Learning [[arxiv](https://arxiv.org/abs/2509.05356)]
 
 - SpikingBrain Technical Report: Spiking Brain-inspired Large Models [[arxiv](https://arxiv.org/abs/2509.05276)]
 
@@ -17,8 +25,4 @@
 - Design, Modelling and Analysis of a Bio-inspired Spiking Temperature Regulator [[arxiv](https://arxiv.org/abs/2509.01300)]
 
 - WoSNN: Stochastic Solver for PDEs with Machine Learning [[arxiv](https://arxiv.org/abs/2509.00204)]
-
-- Spiking Decision Transformers: Local Plasticity, Phase-Coding, and Dendritic Routing for Low-Power Sequence Control [[arxiv](https://arxiv.org/abs/2508.21505)]
-
-- NSPDI-SNN: An efficient lightweight SNN based on nonlinear synaptic pruning and dendritic integration [[arxiv](https://arxiv.org/abs/2508.21566)]
 
